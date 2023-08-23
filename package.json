@@ -10,6 +10,7 @@
     "develop": "gatsby develop",
     "netlify-dev": "netlify-cms-proxy-server",
     "start": "gatsby develop",
+    "dev": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean",

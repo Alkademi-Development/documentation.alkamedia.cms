@@ -2,16 +2,16 @@ define: &_fields
    - { name: "fungsional", label: "Fungsional" }
    - { name: "gambar", label: "Gambar", widget: "image" }
    - { name: "body", label: "Deskripsi", widget: "markdown"}
-   - { name: "super_admin", label: "Super Admin", widget: "select", options: ["Allow","Pending","None"] } 
-   - { name: "admin", label: "Admin", widget: "select", options: ["Allow","Pending","None"] } 
-   - { name: "mentor", label: "Mentor", widget: "select", options: ["Allow","Pending","None"] } 
-   - { name: "teacher", label: "Teacher", widget: "select", options: ["Allow","Pending","None"] } 
-   - { name: "partner", label: "Partner", widget: "select", options: ["Allow","Pending","None"] } 
-   - { name: "lead_program", label: "Lead Program", widget: "select", options: ["Allow","Pending","None"] } 
-   - { name: "lead_region", label: "Lead Region", widget: "select", options: ["Allow","Pending","None"] } 
-   - { name: "content_writer", label: "Content Writer", widget: "select", options: ["Allow","Pending","None"] } 
-   - { name: "industri", label: "Industri", widget: "select", options: ["Allow","Pending","None"] } 
-   - { name: "student", label: "Student", widget: "select", options: ["Allow","Pending","None"] } 
+   - { name: "super_admin", label: "Super Admin", widget: "select", options: ["Allow","Pending","None"] }
+   - { name: "admin", label: "Admin", widget: "select", options: ["Allow","Pending","None"] }
+   - { name: "mentor", label: "Mentor", widget: "select", options: ["Allow","Pending","None"] }
+   - { name: "teacher", label: "Teacher", widget: "select", options: ["Allow","Pending","None"] }
+   - { name: "partner", label: "Partner", widget: "select", options: ["Allow","Pending","None"] }
+   - { name: "lead_program", label: "Lead Program", widget: "select", options: ["Allow","Pending","None"] }
+   - { name: "lead_region", label: "Lead Region", widget: "select", options: ["Allow","Pending","None"] }
+   - { name: "content_writer", label: "Content Writer", widget: "select", options: ["Allow","Pending","None"] }
+   - { name: "industri", label: "Industri", widget: "select", options: ["Allow","Pending","None"] }
+   - { name: "student", label: "Student", widget: "select", options: ["Allow","Pending","None"] }
    - { name: "support_mobile", label: "Support Mobile", widget: "select", options: ["Yes","Pending","No"] }
 
 backend:
@@ -21,21 +21,21 @@ backend:
 
 media_folder: fungsional/uploads
 public_folder: ./uploads
-# local_backend: true
+local_backend: true
 
 collections:
   - name: "authentication"
-    label: "Authentication" 
-    editor: 
+    label: "Authentication"
+    editor:
       preview: false
     folder: fungsional/authentication
     media_folder: uploads
-    create: true  
+    create: true
     fields: *_fields
 
   - name: "dashboard"
     label: "Dashboard"
-    editor: 
+    editor:
       preview: false
     folder: "fungsional/dashboard"
     media_folder: uploads
@@ -44,7 +44,7 @@ collections:
 
   - name: "schedule"
     label: "Schedule"
-    editor: 
+    editor:
       preview: false
     folder: "fungsional/schedule"
     media_folder: uploads
@@ -53,7 +53,7 @@ collections:
 
   - name: "schedule_attendance"
     label: "Schedule(Attendance)"
-    editor: 
+    editor:
       preview: false
     folder: "fungsional/schedule/attendance"
     media_folder: uploads
@@ -62,7 +62,7 @@ collections:
 
   - name: "user"
     label: "User"
-    editor: 
+    editor:
       preview: false
     folder: "fungsional/user"
     media_folder: uploads
@@ -71,7 +71,7 @@ collections:
 
   - name: "chat"
     label: "Chat"
-    editor: 
+    editor:
       preview: false
     folder: "fungsional/chat"
     media_folder: uploads
@@ -80,7 +80,7 @@ collections:
 
   - name: "program"
     label: "Program"
-    editor: 
+    editor:
       preview: false
     folder: "fungsional/program"
     media_folder: uploads
@@ -89,7 +89,7 @@ collections:
 
   - name: "materi"
     label: "Materi"
-    editor: 
+    editor:
       preview: false
     folder: "fungsional/materi"
     media_folder: uploads
@@ -98,7 +98,7 @@ collections:
 
   - name: "classroom"
     label: "Classroom"
-    editor: 
+    editor:
       preview: false
     folder: "fungsional/classroom"
     media_folder: uploads
@@ -107,7 +107,7 @@ collections:
 
   - name: "classroom_attendance"
     label: "Classroom(Attendance)"
-    editor: 
+    editor:
       preview: false
     folder: "fungsional/classroom/attendace"
     media_folder: uploads
@@ -116,7 +116,7 @@ collections:
 
   - name: "classroom_overview"
     label: "Classroom(Overview)"
-    editor: 
+    editor:
       preview: false
     folder: "fungsional/classroom/overview"
     media_folder: uploads
@@ -125,7 +125,7 @@ collections:
 
   - name: "classroom_materi"
     label: "Classroom(Materi)"
-    editor: 
+    editor:
       preview: false
     folder: "fungsional/classroom/materi"
     media_folder: uploads
@@ -134,16 +134,16 @@ collections:
 
   - name: "classroom_tugas"
     label: "Classroom(Tugas)"
-    editor: 
+    editor:
       preview: false
     folder: "fungsional/classroom/tugas"
     media_folder: uploads
     create: true
     fields: *_fields
-  
+
   - name: "classroom_hasil_belajar"
     label: "Classroom(Student/Hasil Belajar)"
-    editor: 
+    editor:
       preview: false
     folder: "fungsional/classroom/hasil_belajar"
     media_folder: uploads
@@ -152,16 +152,16 @@ collections:
 
   - name: "classroom_peserta"
     label: "Classroom(Peserta)"
-    editor: 
+    editor:
       preview: false
     folder: "fungsional/classroom/peserta"
     media_folder: uploads
     create: true
     fields: *_fields
-  
+
   - name: "classroom_kegiatan"
     label: "Classroom(Kegiatan)"
-    editor: 
+    editor:
       preview: false
     folder: "fungsional/classroom/kegiatan"
     media_folder: uploads
@@ -170,7 +170,7 @@ collections:
 
   - name: "classroom_statistik"
     label: "Classroom(Statistik)"
-    editor: 
+    editor:
       preview: false
     folder: "fungsional/classroom/statistik"
     media_folder: uploads
@@ -179,7 +179,7 @@ collections:
 
   - name: "review_tugas"
     label: "Review Tugas"
-    editor: 
+    editor:
       preview: false
     folder: "fungsional/review_tugas"
     media_folder: uploads
@@ -188,25 +188,25 @@ collections:
 
   - name: "rekap_nilai"
     label: "Rekap Nilai"
-    editor: 
+    editor:
       preview: false
     folder: "fungsional/rekap_nilai"
     media_folder: uploads
     create: true
-    fields: *_fields    
-  
+    fields: *_fields
+
   - name: "form_formulir"
     label: "Form(Formulir)"
-    editor: 
+    editor:
       preview: false
     folder: "fungsional/form/formulir"
     media_folder: uploads
     create: true
     fields: *_fields
-  
+
   - name: "form_bank_soal"
     label: "Form(Bank Soal)"
-    editor: 
+    editor:
       preview: false
     folder: "fungsional/form/bank_soal"
     media_folder: uploads
@@ -215,7 +215,7 @@ collections:
 
   - name: "studio"
     label: "Studio"
-    editor: 
+    editor:
       preview: false
     folder: "fungsional/studio"
     media_folder: uploads
@@ -224,7 +224,7 @@ collections:
 
   - name: "event_program"
     label: "Event(Program)"
-    editor: 
+    editor:
       preview: false
     folder: "fungsional/event/program"
     media_folder: uploads
@@ -233,7 +233,7 @@ collections:
 
   - name: "event_career"
     label: "Event(Career)"
-    editor: 
+    editor:
       preview: false
     folder: "fungsional/event/career"
     media_folder: uploads
@@ -242,7 +242,7 @@ collections:
 
   - name: "blog"
     label: "Blog"
-    editor: 
+    editor:
       preview: false
     folder: "fungsional/blog"
     media_folder: uploads
@@ -251,7 +251,7 @@ collections:
 
   - name: "galeri"
     label: "Galeri"
-    editor: 
+    editor:
       preview: false
     folder: "fungsional/galeri"
     media_folder: uploads
@@ -260,16 +260,16 @@ collections:
 
   - name: "settings"
     label: "Settings"
-    editor: 
+    editor:
       preview: false
     folder: "fungsional/settings"
     media_folder: uploads
     create: true
     fields: *_fields
-  
+
   - name: "announcement"
     label: "Announcement"
-    editor: 
+    editor:
       preview: false
     folder: "fungsional/announcement"
     media_folder: uploads
@@ -278,7 +278,7 @@ collections:
 
   - name: "bantuan"
     label: "Bantuan"
-    editor: 
+    editor:
       preview: false
     folder: "fungsional/bantuan"
     media_folder: uploads
