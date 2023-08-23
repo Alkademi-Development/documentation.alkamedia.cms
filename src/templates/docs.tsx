@@ -77,7 +77,7 @@ const IndexPage: React.FC<{ data: Data, pageContext: { pageName: string }}> = ({
             {data.docs.edges.filter(edge => role == "all" ? true : edge.node.frontmatter[role as keyof FrontMatter] == "Allow").map(edge => {
               return (
                 <li key={edge.node.id}>
-                  <Link to={"#" + edge.node.frontmatter.fungsional} className="hover:text-gray-900 font text-gray-700 dark:text-white space-x-1 hover:dark:text-gray-300">
+                  <Link to={"#" + edge.node.frontmatter.fungsional} className="hover:text-gray-900 text-gray-700 dark:text-white space-x-1 hover:dark:text-gray-300">
                   <span className="text-indigo-500 dark:text-indigo-400 text-2xl ">#</span>
                   <span className="text-lg " >{edge.node.frontmatter.fungsional}</span></Link>
                 </li>
@@ -103,7 +103,7 @@ const IndexPage: React.FC<{ data: Data, pageContext: { pageName: string }}> = ({
                 <div className="mb-4 flex flex-wrap gap-2 z-0">
                   <GatsbyImage image={image} alt={frontmatter.fungsional} />
                   <article
-                    className="dark:text-slate-300 font-light font prose prose-lg dark:prose-invert"
+                    className="dark:text-slate-300 font-light prose prose-lg dark:prose-invert"
                     dangerouslySetInnerHTML={{ __html: edge.node.html }}
                   />
                 </div>
