@@ -30,9 +30,6 @@ interface FrontMatter {
 
 
 interface Data {
-  all: {
-    distinct: Array<string>
-  };
   docs: {
     edges: Array<{
       node: {
@@ -44,7 +41,7 @@ interface Data {
   };
 }
 
-const IndexPage: React.FC<{ data: Data, pageContext: { pageName: string }}> = ({data, pageContext}) => {
+const IndexPage: React.FC<{ data: Data, pageContext: { pageName: string, all: Array<string> }}> = ({data, pageContext}) => {
   const [role, setRole] = React.useState<string | keyof FrontMatter>("all");
   const [showBackToTop, setShowBackToTop] = React.useState(false);
 
@@ -79,7 +76,7 @@ const IndexPage: React.FC<{ data: Data, pageContext: { pageName: string }}> = ({
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 10l7-7m0 0l7 7m-7-7v18"/>
         </svg>
       </button>
-      <Sidebar data={data.all} state={[role, setRole]} />
+      <Sidebar data={pageContext.all} state={[role, setRole]} />
       <div className="container sm:ml-64 mr-auto w-auto px-11 pt-16 pb-2">
         <div className="mt-8 mb-3 text-gray-700 dark:text-gray-300">
           <h1 className="font-semibold text-4xl capitalize mb-1 ">{pageContext.pageName}</h1>
@@ -125,9 +122,6 @@ const IndexPage: React.FC<{ data: Data, pageContext: { pageName: string }}> = ({
 export default IndexPage
 
 export const query = graphql`query($category: String) {
-  all: allMarkdownRemark {
-    distinct(field: {frontmatter: {menu: SELECT}})
-  }
   docs: allMarkdownRemark (filter: {frontmatter: {menu: {eq: $category}}}) {
     edges {
       node {
