@@ -1,6 +1,6 @@
 import * as React from "react"
 import { Link } from "gatsby"
-import { roleColor, roleColorClass } from "./RoleColor"
+import { roleColor, roleColorClass } from "./micro/RoleColor"
 import { NestedDir } from "../types"
 
 const Sidebar: React.FC<{ showSidebar: boolean, data: Array<string>, pageName: string, state: [string, React.Dispatch<React.SetStateAction<string>>] }> = ({data, pageName, state, showSidebar }) => {
@@ -25,7 +25,7 @@ const Sidebar: React.FC<{ showSidebar: boolean, data: Array<string>, pageName: s
   }
   return (
     <>
-<aside className={(showSidebar ? "" : "-translate-x-full") + " fixed top-0 mt-10 left-0 w-[14.2rem] z-20 sm:w-64 h-screen transition-transform sm:translate-x-0"} aria-label="Sidebar">      <div className="h-full px-3 py-4 overflow-y-auto bg-gray-100 dark:bg-gray-800">
+    <aside className={(showSidebar ? "" : "-translate-x-full") + " fixed top-0 mt-10 left-0 w-[14.2rem] z-20 sm:w-64 h-screen transition-transform sm:translate-x-0"} aria-label="Sidebar">      <div className="h-full px-3 py-4 overflow-y-auto bg-gray-100 dark:bg-gray-800">
         <ul className="space-y-2 font-medium pt-14">
           <li className="mb-4">
             <div className="block sm:hidden" >

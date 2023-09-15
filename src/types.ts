@@ -51,4 +51,22 @@ interface DataNode {
   };
 }
 
-export {Data, FrontMatter, NestedDir, DataNode}
+interface Edge {
+  node: {
+    id: string;
+    frontmatter: FrontMatter;
+    html: string;
+  };
+}
+
+interface Props {
+  filtered: Array<Edge>;
+  data: Data;
+  role: string | keyof FrontMatter;
+}
+interface BackToTopProps {
+  showBackToTop: boolean;
+  scrollToTop: () => void;
+}
+
+export {Data, FrontMatter, NestedDir, DataNode, Edge, Props, BackToTopProps}

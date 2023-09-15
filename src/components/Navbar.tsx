@@ -2,7 +2,7 @@ import * as React from "react"
 import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
 import ThemeToggle from './ThemeToggle'
-import { roleColor, roleColorClass } from "./RoleColor"
+import { roleColor, roleColorClass } from "./micro/RoleColor"
 
 
 const Navbar : React.FC<{showSidebar: boolean; setShowSidebar: React.Dispatch<React.SetStateAction<boolean>> ,data: Array<string>, pageName: string, state: [string, React.Dispatch<React.SetStateAction<string>>] }> = ({state, showSidebar, setShowSidebar }) => {
