@@ -27,11 +27,11 @@ const Sidebar: React.FC<{ showSidebar: boolean; setShowSidebar: React.Dispatch<R
     <>
     <aside className={(showSidebar ? "" : "-translate-x-full") + " fixed top-0 mt-10 left-0 w-[14.2rem] z-20 sm:w-64 h-screen transition-transform sm:translate-x-0"} aria-label="Sidebar">
       <div className="h-full px-3 py-4 overflow-y-auto bg-gray-100 dark:bg-gray-800">
-        <ul className="space-y-2 font-medium pt-14">
+      <div className="pt-14 block sm:hidden" >
+      <Filter role={role} setRole={setRole} showDropdown={showDropdown} setShowDropdown={setShowDropdown} showSidebar={showSidebar} setShowSidebar={setShowSidebar}  data={[]} pageName={"Filter"} />
+      </div>
+        <ul className="space-y-2 font-medium pt-5 sm:pt-14 ">
           <li className="mb-4">
-           <div className="block sm:hidden">
-           <Filter role={role} setRole={setRole} showDropdown={showDropdown} setShowDropdown={setShowDropdown} showSidebar={showSidebar} setShowSidebar={setShowSidebar}  data={[]} pageName={""} />
-           </div>
               </li>
               {dirs.map((dir, index) => {
               const dropdownId = `dropdown-${index}`;

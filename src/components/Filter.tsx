@@ -1,11 +1,10 @@
 import * as React from "react"
-import ThemeToggle from './ThemeToggle'
 import { roleColor, roleColorClass } from "./micro/RoleColor"
 
 export const Filter: React.FC<{ showSidebar: boolean; setShowSidebar: React.Dispatch<React.SetStateAction<boolean>>; data: Array<string>; pageName: string; role: string;  setRole: React.Dispatch<React.SetStateAction<string>>;  showDropdown: string | null; setShowDropdown: React.Dispatch<React.SetStateAction<string | null>>; }> = ({ role, setRole, showDropdown, setShowDropdown }) => {
     
     return (
-        <div className="ml-auto my-auto flex relative space-x-2 items-center">
+        <div className="ml-auto my-auto flex relative space-x-2 items-center ">
         <button
           type="button"
           className={`flex items-center p-2 text-white transition duration-300 rounded-lg group dark:hover:bg-gray-700 ${roleColorClass(role)}`}
@@ -20,8 +19,10 @@ export const Filter: React.FC<{ showSidebar: boolean; setShowSidebar: React.Disp
           id="filter_role"
           className={`${
             showDropdown === "role_filter" ? "visible opacity-100" : "invisible opacity-0"
-          } py-3 my-5 flex flex-col px-4 text-gray-700 dark:text-gray-300 transition-all duration-300 absolute left-0 top-full transform bg-gray-300 dark:bg-gray-800 rounded-xl z-10 max-w-[50vh] shadow-lg`}
+          }
+          py-0 sm:py-3 sm:my-5 my-2 flex flex-col px-4 text-gray-700 dark:text-gray-300 transition-all duration-300 absolute left-0 top-full transform sm:bg-gray-300 bg-gray-100 dark:bg-gray-800 rounded-xl z-10 max-w-[50vh] w-[30vh] sm:w-[25vh]]`}
         >
+
           <li className="relative flex">
             <button
               type="button"
@@ -36,7 +37,6 @@ export const Filter: React.FC<{ showSidebar: boolean; setShowSidebar: React.Disp
              </svg>
               <span>Reset</span>
             </button>
-            <div className="absolute top-0 left-0 w-full h-full bg-gray-800 rounded-xl transition-opacity duration-300 ease-in-out opacity-0 pointer-events-none"></div>
           </li>
           {["super_admin", "admin", "mentor", "teacher", "partner", "lead_program", "lead_region", "content_writer", "industri", "student"].map(r => (
             <li key={r}>

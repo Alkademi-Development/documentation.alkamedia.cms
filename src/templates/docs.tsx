@@ -19,7 +19,7 @@ const IndexPage: React.FC<{ data: Data, pageContext: { pageName: string, all: Ar
     <main style={fontStyles} className="bg-gray-200 dark:bg-gray-900 min-h-screen w-full">
     <BackToTop />
       <Navbar showSidebar={showSidebar} setShowSidebar={setShowSidebar} data={[]} pageName={""} state={[role, setRole]} />
-      <Sidebar data={pageContext.all} pageName="Sidebar" state={[role, setRole]} showSidebar={showSidebar} />
+      <Sidebar data={pageContext.all} pageName="Sidebar" state={[role, setRole]} showSidebar={showSidebar} setShowSidebar={setShowSidebar} />
       <div className="container sm:ml-64 mr-auto w-auto px-11 pt-20 pb-2">
         <div className="w-[90%] sm:max-w-[94%] mt-8 mx-auto dark:text-gray-100">
           <button type="submit" onClick={() => setModal(!modal)} className="w-full font-thin text-xl text-gray-700 dark:text-gray-300 text-left border-b-[1px] border-gray-500 dark:border-gray-400 flex items-center px-1">
