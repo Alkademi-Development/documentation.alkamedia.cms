@@ -1,8 +1,8 @@
 import * as React from "react"
 import { roleColor, roleColorClass } from "./micro/RoleColor"
+import { FilterProps } from "../types"
 
-export const Filter: React.FC<{ showSidebar: boolean; setShowSidebar: React.Dispatch<React.SetStateAction<boolean>>; data: Array<string>; pageName: string; role: string;  setRole: React.Dispatch<React.SetStateAction<string>>;  showDropdown: string | null; setShowDropdown: React.Dispatch<React.SetStateAction<string | null>>; }> = ({ role, setRole, showDropdown, setShowDropdown }) => {
-    
+export const Filter: React.FC<FilterProps> = ({ role, setRole, showDropdown, setShowDropdown }) => {    
     return (
         <div className="ml-auto my-auto flex relative space-x-2 items-center ">
         <button

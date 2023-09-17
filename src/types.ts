@@ -79,4 +79,44 @@ interface ModalSearchProps {
   setModal: React.Dispatch<React.SetStateAction<boolean>>;
 }
 
-export {Data, FrontMatter, NestedDir, DataNode, Edge, Props, BackToTopProps, NoResultBoundaryProps, ModalSearchProps}
+interface NavbarProps {
+  showSidebar: boolean;
+  setShowSidebar: React.Dispatch<React.SetStateAction<boolean>>;
+  data: Array<string>;
+  pageName: string;
+  state: [string, React.Dispatch<React.SetStateAction<string>>];
+}
+
+interface FilterProps {
+  showSidebar: boolean;
+  setShowSidebar: React.Dispatch<React.SetStateAction<boolean>>;
+  data: Array<string>;
+  pageName: string;
+  role: string;
+  setRole: React.Dispatch<React.SetStateAction<string>>;
+  showDropdown: string | null;
+  setShowDropdown: React.Dispatch<React.SetStateAction<string | null>>;
+}
+
+interface SidebarProps {
+  showSidebar: boolean;
+  setShowSidebar: React.Dispatch<React.SetStateAction<boolean>>;
+  data: Array<string>;
+  pageName: string;
+  state: [string, React.Dispatch<React.SetStateAction<string>>];
+}
+export {
+  Data,
+  FrontMatter,
+  NestedDir,
+  DataNode,
+  Edge,
+  Props,
+  BackToTopProps,
+  NoResultBoundaryProps,
+  ModalSearchProps,
+  NavbarProps,
+  FilterProps,
+  SidebarProps,
+   
+}

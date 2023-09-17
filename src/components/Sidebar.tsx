@@ -2,8 +2,9 @@ import * as React from "react"
 import { Link } from "gatsby"
 import { NestedDir } from "../types"
 import { Filter } from "./Filter"
+import { SidebarProps } from "../types"
 
-const Sidebar: React.FC<{ showSidebar: boolean; setShowSidebar: React.Dispatch<React.SetStateAction<boolean>>, data: Array<string>, pageName: string, state: [string, React.Dispatch<React.SetStateAction<string>>] }> = ({data, pageName, state, showSidebar, setShowSidebar }) => {
+const Sidebar: React.FC<SidebarProps> = ({ data, pageName, state, showSidebar, setShowSidebar }) => {
   const [role, setRole] = state;
   const [showDropdown, setShowDropdown] = React.useState<string | null>(null);
   let dirs: (NestedDir|string)[] = data.filter(menu => !menu.includes("("))
