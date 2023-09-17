@@ -1,7 +1,7 @@
 import React from 'react';
 
 export const SearchFooter = () => (
-    <footer className="dark:bg-gray-900 bg-gray-50 w-full text-md sm:text-lg hidden lg:block p-0 m-0">
+    <footer className="px-2 rounded-b-xl py-1 pb-8 sm:pb-2.5 dark:bg-gray-900 bg-slate-100 w-full text-md sm:text-lg hidden lg:block p-0 m-0">
       <ul className="flex justify-center space-x-10">
         <li className="flex items-center">
           <kbd className="DocSearch-Commands-Key bg-gray-200 text-gray-900 px-2 py-1 rounded-md">

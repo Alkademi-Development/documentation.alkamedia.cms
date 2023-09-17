@@ -69,4 +69,14 @@ interface BackToTopProps {
   scrollToTop: () => void;
 }
 
-export {Data, FrontMatter, NestedDir, DataNode, Edge, Props, BackToTopProps}
+interface NoResultBoundaryProps{
+  children: React.ReactNode,
+  fallback : React.ReactNode,
+}
+
+interface ModalSearchProps {
+  modal: boolean;
+  setModal: React.Dispatch<React.SetStateAction<boolean>>;
+}
+
+export {Data, FrontMatter, NestedDir, DataNode, Edge, Props, BackToTopProps, NoResultBoundaryProps, ModalSearchProps}

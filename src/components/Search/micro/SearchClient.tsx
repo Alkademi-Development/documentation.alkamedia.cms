@@ -1,4 +1,4 @@
-import { originalSearchClient } from '../../../store/api';
+import { originalSearchClient } from '../../../../store/api';
 
 export const searchClient = {
     ...originalSearchClient,

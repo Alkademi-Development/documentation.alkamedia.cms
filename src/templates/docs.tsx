@@ -4,7 +4,7 @@ import { Link, graphql } from "gatsby"
 import Sidebar from "../components/Sidebar"
 import { FrontMatter, Data } from "../types";
 import Navbar from "../components/Navbar"
-import ModalSearch from "../components/ModalSearch";
+import ModalSearch from "../components/Search/ModalSearch";
 import { fontStyles } from "../components/micro/Font";
 import Docs from "../components/Docs";
 import BackToTop from "../components/BackToTop";
@@ -29,7 +29,7 @@ const IndexPage: React.FC<{ data: Data, pageContext: { pageName: string, all: Ar
           </button>
         </div>
         { modal ? (
-          <ModalSearch/>
+          <ModalSearch modal={modal} setModal={setModal}/>
         ) : (<></>)}
           <div className="max-h-auto mx-auto mt-8 sm:ml-16 md:ml-10 ml-1 mb-3 text-gray-700 dark:text-gray-300">
           <h1 className="font-semibold sm:text-4xl text-3xl  capitalize mb-1 my-5 ">{pageContext.pageName}</h1>
