@@ -1,8 +1,8 @@
 import * as React from "react"
 import { roleColor, roleColorClass } from "./micro/RoleColor"
+import { FilterProps } from "../types"
 
-export const Filter: React.FC<{ showSidebar: boolean; setShowSidebar: React.Dispatch<React.SetStateAction<boolean>>; data: Array<string>; pageName: string; role: string;  setRole: React.Dispatch<React.SetStateAction<string>>;  showDropdown: string | null; setShowDropdown: React.Dispatch<React.SetStateAction<string | null>>; }> = ({ role, setRole, showDropdown, setShowDropdown }) => {
-    
+export const Filter: React.FC<FilterProps> = ({ role, setRole, showDropdown, setShowDropdown }) => {    
     return (
         <div className="ml-auto my-auto flex relative space-x-2 items-center ">
         <button
@@ -20,13 +20,13 @@ export const Filter: React.FC<{ showSidebar: boolean; setShowSidebar: React.Disp
           className={`${
             showDropdown === "role_filter" ? "visible opacity-100" : "invisible opacity-0"
           }
-          py-0 sm:py-3 sm:my-5 my-2 flex flex-col px-4 text-gray-700 dark:text-gray-300 transition-all duration-300 absolute left-0 top-full transform sm:bg-gray-300 bg-gray-100 dark:bg-gray-800 rounded-xl z-10 max-w-[50vh] w-[30vh] sm:w-[25vh]]`}
+          py-0 sm:py-3 sm:my-5 my-2 flex flex-col px-4 text-gray-700 dark:text-gray-300 transition-all duration-300 absolute left-0 top-full transform sm:bg-gray-300 bg-gray-100 dark:bg-gray-800 rounded-xl z-10 max-w-[50vh] w-[29vh] sm:w-[27vh]`}
         >
 
           <li className="relative flex">
             <button
               type="button"
-              className="text-white/75 dark:text-white bg-gray-600 w-full flex gap-3 capitalize focus:outline-none font-medium rounded-full text-sm px-3 py-2 text-center m-1 focus:ring-4 dark:bg-gray-500 dark:hover:bg-gray-500 dark:focus:ring-gray-500 "
+              className="text-white/75 dark:text-white bg-gray-500 w-full flex gap-3 capitalize focus:outline-none font-medium rounded-full text-sm px-3 py-2 text-center m-1 focus:ring-4 dark:bg-gray-500 dark:hover:bg-gray-500 dark:focus:ring-gray-500 "
               onClick={() => {
                 setRole("all");
                 setShowDropdown(null);

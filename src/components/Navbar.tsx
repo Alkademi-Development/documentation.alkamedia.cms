@@ -3,16 +3,16 @@ import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
 import { Filter } from "./Filter"
 import ThemeToggle from "./ThemeToggle"
+import {NavbarProps} from "../types"
 
-
-const Navbar : React.FC<{showSidebar: boolean; setShowSidebar: React.Dispatch<React.SetStateAction<boolean>> ,data: Array<string>, pageName: string, state: [string, React.Dispatch<React.SetStateAction<string>>] }> = ({state, showSidebar, setShowSidebar }) => {
+const Navbar: React.FC<NavbarProps> = ({ state, showSidebar, setShowSidebar, }) => {    
     const [role, setRole] = state;
     const [showDropdown, setShowDropdown] = React.useState<string | null>(null);
     const toggleSidebar = () => {
         setShowSidebar(!showSidebar);
       };
      return (
-<nav className="fixed backdrop-blur transition-colors dark:border-slate-50/[0.06] bg-white/10 supports-backdrop-blur:bg-white/60 dark:bg-gray-700/[0.8] top-0 z-30 w-full p-4 h-20 flex">  
+<nav className="bg-gray-50 fixed backdrop-blur transition-colors dark:border-slate-50/[0.06] bg-white/10 supports-backdrop-blur:bg-white/60 dark:bg-gray-700/[0.8] top-0 z-30 w-full p-4 h-20 flex">  
   <div className="flex items-center">
     <Link to="/" className="flex items-center">
       <div className="hidden sm:block">
