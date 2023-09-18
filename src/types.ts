@@ -1,3 +1,5 @@
+import { PageProps } from "gatsby"
+
 interface NestedDir {
     dir: string;
     parents: string[];
@@ -105,7 +107,17 @@ interface SidebarProps {
   pageName: string;
   state: [string, React.Dispatch<React.SetStateAction<string>>];
 }
+
+interface IndexPageProps extends PageProps {
+  data: Data
+  pageContext: {
+    pageName: string
+    all: string[]
+  }
+}
+
 export {
+  IndexPageProps,
   Data,
   FrontMatter,
   NestedDir,
@@ -118,5 +130,4 @@ export {
   NavbarProps,
   FilterProps,
   SidebarProps,
-   
 }

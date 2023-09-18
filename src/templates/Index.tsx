@@ -1,15 +1,15 @@
 import * as React from "react";
-import type { HeadFC } from "gatsby"
 import { Link, graphql } from "gatsby"
 import Sidebar from "../components/Sidebar"
-import { FrontMatter, Data } from "../types";
+import { FrontMatter, IndexPageProps } from "../types";
 import Navbar from "../components/Navbar"
 import ModalSearch from "../components/Search/ModalSearch";
 import { fontStyles } from "../components/micro/Font";
 import Docs from "../components/Docs";
 import BackToTop from "../components/BackToTop";
+import { Helmet } from "react-helmet";
 
-const IndexPage: React.FC<{ data: Data, pageContext: { pageName: string, all: Array<string> }}> = ({data, pageContext}) => {
+const IndexPage: React.FC<IndexPageProps> = ({ data, pageContext }) => {
   const [role, setRole] = React.useState<string | keyof FrontMatter>("all");
   const [showSidebar, setShowSidebar] = React.useState(false);
   const [modal, setModal] = React.useState(false);
@@ -17,7 +17,10 @@ const IndexPage: React.FC<{ data: Data, pageContext: { pageName: string, all: Ar
   const filtered = data.docs.edges.filter(edge => role == "all" ? true : edge.node.frontmatter[role as keyof FrontMatter] == "Allow")
   return (
     <main style={fontStyles} className="bg-gray-200 dark:bg-gray-900 min-h-screen w-full">
-    <BackToTop />
+        <Helmet>
+        <title>{pageContext.pageName}</title>
+       </Helmet>
+       <BackToTop />
       <Navbar showSidebar={showSidebar} setShowSidebar={setShowSidebar} data={[]} pageName={"Navbar"} state={[role, setRole]} />
       <Sidebar data={pageContext.all} pageName="Sidebar" state={[role, setRole]} showSidebar={showSidebar} setShowSidebar={setShowSidebar} />
       <div className="container sm:ml-64 mr-auto w-auto px-11 pt-20 pb-2">
@@ -88,5 +91,3 @@ export const query = graphql`query($category: String) {
   }
 }`
 
-
-export const Head: HeadFC = () => <title>Documentation</title>
