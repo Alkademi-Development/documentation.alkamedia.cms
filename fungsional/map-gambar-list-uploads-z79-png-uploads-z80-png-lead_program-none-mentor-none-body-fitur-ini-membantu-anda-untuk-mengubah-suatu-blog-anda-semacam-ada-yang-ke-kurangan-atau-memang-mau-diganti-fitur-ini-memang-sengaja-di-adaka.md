@@ -16,7 +16,7 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-fitur ini membantu anda untuk mengubah suatu blog anda,semacam ada yang ke kurangan atau memang mau diganti,fitur ini memang sengaja di adakan dan sangat membantu pada anda yang ingin mengubah blog.
+Fitur ini membantu anda untuk mengubah suatu blog anda,semacam ada yang ke kurangan atau memang mau diganti,fitur ini memang sengaja di adakan dan sangat membantu pada anda yang ingin mengubah blog.
 
 cara nya dengan:
 
