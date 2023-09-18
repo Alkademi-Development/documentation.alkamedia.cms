@@ -1,5 +1,5 @@
 ---
-menu: Galeri
+menu: Blog
 fungsional: read blog.
 gambar:
   - uploads/z77.png
