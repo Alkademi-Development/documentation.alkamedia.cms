@@ -8,21 +8,36 @@ import { fontStyles } from "../components/micro/Font";
 import Docs from "../components/Docs";
 import BackToTop from "../components/BackToTop";
 import { Helmet } from "react-helmet";
+import useKeyboardShortcuts from "../components/Search/micro/KeyShortcut";
+
 
 const IndexPage: React.FC<IndexPageProps> = ({ data, pageContext }) => {
   const [role, setRole] = React.useState<string | keyof FrontMatter>("all");
   const [showSidebar, setShowSidebar] = React.useState(false);
   const [modal, setModal] = React.useState(false);
+  
+  const openModal = () => {
+    setModal(true);
+  };
+  
+  const closeModal = () => {
+    setModal(false);
+  };
+  useKeyboardShortcuts(openModal, closeModal);
+
  
   const filtered = data.docs.edges.filter(edge => role == "all" ? true : edge.node.frontmatter[role as keyof FrontMatter] == "Allow")
   return (
-    <main style={fontStyles} className="bg-gray-200 dark:bg-gray-900 min-h-screen w-full">
+    <main style={fontStyles} className="bg-fff dark:bg-gray-900 min-h-screen w-full">
         <Helmet>
         <title>{pageContext.pageName}</title>
        </Helmet>
        <BackToTop />
       <Navbar showSidebar={showSidebar} setShowSidebar={setShowSidebar} data={[]} pageName={"Navbar"} state={[role, setRole]} />
-      <Sidebar data={pageContext.all} pageName="Sidebar" state={[role, setRole]} showSidebar={showSidebar} setShowSidebar={setShowSidebar} />
+      <Sidebar data={pageContext.all} pageName="Sidebar" state={[role, setRole]} showSidebar={showSidebar} setShowSidebar={setShowSidebar} dir={{
+        parents: [],
+        dir: ""
+      }} />
       <div className="container sm:ml-64 mr-auto w-auto px-11 pt-20 pb-2">
         <div className="w-[90%] sm:max-w-[94%] mt-8 mx-auto dark:text-gray-100">
           <button type="submit" onClick={() => setModal(!modal)} className="w-full font-thin text-xl text-gray-700 dark:text-gray-300 text-left border-b-[1px] border-gray-500 dark:border-gray-400 flex items-center px-1">

@@ -106,7 +106,12 @@ interface SidebarProps {
   data: Array<string>;
   pageName: string;
   state: [string, React.Dispatch<React.SetStateAction<string>>];
+  dir: {
+    parents: string[]; 
+    dir: string;
+  };
 }
+
 
 interface IndexPageProps extends PageProps {
   data: Data

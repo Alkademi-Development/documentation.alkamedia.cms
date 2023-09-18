@@ -4,15 +4,16 @@ import { FilterProps } from "../types"
 
 export const Filter: React.FC<FilterProps> = ({ role, setRole, showDropdown, setShowDropdown }) => {    
     return (
+      <>      
         <div className="ml-auto my-auto flex relative space-x-2 items-center ">
         <button
           type="button"
           className={`flex items-center p-2 text-white transition duration-300 rounded-lg group dark:hover:bg-gray-700 ${roleColorClass(role)}`}
           onClick={() => setShowDropdown(showDropdown === "role_filter" ? null : "role_filter")}
         >
-          <svg xmlns="http://www.w3.org/2000/svg" fill={roleColor(role)} height="1em" viewBox="0 0 512 512">
-            <path d="M3.9 54.9C10.5 40.9 24.5 32 40 32H472c15.5 0 29.5 8.9 36.1 22.9s4.6 30.5-5.2 42.5L320 320.9V448c0 12.1-6.8 23.2-17.7 28.6s-23.8 4.3-33.5-3l-64-48c-8.1-6-12.8-15.5-12.8-25.6V320.9L9 97.3C-.7 85.4-2.8 68.8 3.9 54.9z"/>
-          </svg>
+          <svg className={`${roleColor(role)} w-[20px] h-[20px`} aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 18">
+          <path d="M18.85 1.1A1.99 1.99 0 0 0 17.063 0H2.937a2 2 0 0 0-1.566 3.242L6.99 9.868 7 14a1 1 0 0 0 .4.8l4 3A1 1 0 0 0 13 17l.01-7.134 5.66-6.676a1.99 1.99 0 0 0 .18-2.09Z"/>
+        </svg>
           <span className="ml-2 text-start pl-2 capitalize max-w-[7rem] w-[7rem] ">{role === "all" ? "Filter" : role.split("_").join(" ")}</span>
         </button>
         <ul
@@ -20,7 +21,7 @@ export const Filter: React.FC<FilterProps> = ({ role, setRole, showDropdown, set
           className={`${
             showDropdown === "role_filter" ? "visible opacity-100" : "invisible opacity-0"
           }
-          py-0 sm:py-3 sm:my-5 my-2 flex flex-col px-4 text-gray-700 dark:text-gray-300 transition-all duration-300 absolute left-0 top-full transform sm:bg-gray-300 bg-gray-100 dark:bg-gray-800 rounded-xl z-10 max-w-[50vh] w-[29vh] sm:w-[27vh]`}
+          py-0 sm:py-3 sm:my-5 my-2 flex flex-col px-4 text-gray-700 dark:text-gray-300 transition-all duration-300 absolute left-0 top-full transform sm:bg-gray-300 bg-gray-100 dark:bg-gray-800 rounded-xl z-10 `}
         >
 
           <li className="relative flex">
@@ -48,9 +49,9 @@ export const Filter: React.FC<FilterProps> = ({ role, setRole, showDropdown, set
                 }}
                 className={`text-white/90 dark:text-white w-full flex gap-3 capitalize focus:outline-none font-medium rounded-full text-sm px-3 py-2 text-center m-1 focus:ring-4 ${roleColorClass(r)}`}
               >
-               <svg xmlns="http://www.w3.org/2000/svg" fill={roleColor(r)} className="py-auto" height="1em" viewBox="0 0 448 512">
-                <path d="M224 256A128 128 0 1 0 224 0a128 128 0 1 0 0 256zm-45.7 48C79.8 304 0 383.8 0 482.3C0 498.7 13.3 512 29.7 512H418.3c16.4 0 29.7-13.3 29.7-29.7C448 383.8 368.2 304 269.7 304H178.3z"/>
-               </svg>
+               <svg className={` w-[15px] h-[15px] ${roleColor(r)}`} aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 14 18">
+                <path d="M7 9a4.5 4.5 0 1 0 0-9 4.5 4.5 0 0 0 0 9Zm2 1H5a5.006 5.006 0 0 0-5 5v2a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2a5.006 5.006 0 0 0-5-5Z"/>
+              </svg>
                 {r.split("_").join(" ")}
               </button>
             </li>
@@ -59,5 +60,5 @@ export const Filter: React.FC<FilterProps> = ({ role, setRole, showDropdown, set
         <div>
       </div>
     </div>
-    )
-}
+    </>
+)}

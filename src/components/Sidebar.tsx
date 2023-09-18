@@ -1,14 +1,13 @@
 import * as React from "react"
-import { Link } from "gatsby"
-import { NestedDir } from "../types"
+import { Link,} from "gatsby"
+import { NestedDir, SidebarProps } from "../types"
 import { Filter } from "./Filter"
-import { SidebarProps } from "../types"
 
 const Sidebar: React.FC<SidebarProps> = ({ data, pageName, state, showSidebar, setShowSidebar }) => {
   const [role, setRole] = state;
   const [showDropdown, setShowDropdown] = React.useState<string | null>(null);
   let dirs: (NestedDir|string)[] = data.filter(menu => !menu.includes("("))
-
+  
   
   for(let menu of data.filter(menu => menu.includes("("))){
     const i = dirs.findIndex(dir => typeof(dir) == 'string' ? menu.includes(dir) : menu.includes(dir.dir))
@@ -26,8 +25,8 @@ const Sidebar: React.FC<SidebarProps> = ({ data, pageName, state, showSidebar, s
   }
   return (
     <>
-    <aside className={(showSidebar ? "" : "-translate-x-full") + " fixed top-0 mt-10 left-0 w-[14.2rem] z-20 sm:w-64 h-screen transition-transform sm:translate-x-0"} aria-label="Sidebar">
-      <div className="h-full px-3 py-4 overflow-y-auto bg-gray-100 dark:bg-gray-800">
+    <aside className={(showSidebar ? "" : "-translate-x-full") + " fixed top-0 mt-10 left-0 w-[14.2rem] z-20 sm:w-72 h-screen transition-transform sm:translate-x-0"} aria-label="Sidebar">
+      <div className="h-full px-3 py-4 overflow-y-auto bg-sidebar dark:bg-gray-800">
       <div className="pt-14 block sm:hidden" >
       <Filter role={role} setRole={setRole} showDropdown={showDropdown} setShowDropdown={setShowDropdown} showSidebar={showSidebar} setShowSidebar={setShowSidebar}  data={[]} pageName={"Filter"} />
       </div>

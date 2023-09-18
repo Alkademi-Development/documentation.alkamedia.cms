@@ -7,6 +7,10 @@ module.exports = {
   darkMode: 'class',
   theme: {
     extend: {
+      backgroundColor: {
+        'fff': '#ffffff',
+        'sidebar': '#F6F6FA',
+      },
       screens: {
         '_sm': {
           'max': '640px'

@@ -2,7 +2,7 @@ import React from 'react';
 import { Search } from './Search';
 import { SearchFooter } from './micro/SearchFooter';
 import { ModalSearchProps } from '../../types';
-import "animate.css"
+
 const ModalSearch: React.FC<ModalSearchProps> = ({ modal, setModal }) => {
   return (
     <div className={`container sm:-ml-32 flex justify-center  ${modal ? 'inset-0' : ''}`}>
