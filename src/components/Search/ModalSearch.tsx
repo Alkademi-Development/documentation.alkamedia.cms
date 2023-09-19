@@ -5,8 +5,8 @@ import { ModalSearchProps } from '../../types';
 
 const ModalSearch: React.FC<ModalSearchProps> = ({ modal, setModal }) => {
   return (
-    <div className={`container sm:-ml-32 flex justify-center  ${modal ? 'inset-0' : ''}`}>
-      <div className="max-h-[100vh] animate__animated animate__fadeIn animate__fast w-full _sm:left-0 sm:max-w-[40%] absolute z-[60] top-[5rem] h-auto bg-gray-200 dark:bg-gray-800/95 rounded ">
+    <div className={`container sm:-ml-32 flex justify-center  ${modal ? 'fixed sm:inset-x-40    sm:inset-y-0' : ''}`}>
+      <div className="max-h-[100vh] animate__animated animate__fadeIn animate__fast w-full _sm:left-0 sm:max-w-[45%] absolute z-[60] top-[3rem] h-auto bg-modalSearch dark:bg-darkModalSearch rounded ">
         <div className="flex w-full justify-end mb-2">
           <button
             type="button"
@@ -22,7 +22,7 @@ const ModalSearch: React.FC<ModalSearchProps> = ({ modal, setModal }) => {
         <div className="py-1 px-2 ">
           <Search />
         </div>
-        <SearchFooter />
+          <SearchFooter />
       </div>
     </div>
   );

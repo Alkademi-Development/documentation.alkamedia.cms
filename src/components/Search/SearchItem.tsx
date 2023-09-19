@@ -2,11 +2,14 @@ import React from "react"
 import { Highlight,} from 'react-instantsearch';
 import { Link } from 'gatsby';
 
+
+
 export const SearchItem: React.FC<{ hit: any }> = ({ hit }) => (
     <>
-    <div className='flex flex-col w-full group '>
+    <div className='flex flex-col w-full group'>
+     <h1 className="my-3 text-indigo-800 dark:text-indigo-400 text-lg" >{hit.menu}</h1>
       <Link to={`/${hit.menu.replace(/(\w+)\((\w+)\)/g, "$1/$2")}#${hit.fungsional}`}>
-        <div className='px-4 py-3.5 w-full bg-gray-200 dark:bg-gray-700 hover:text-white hover:bg-indigo-900 hover:dark:bg-indigo-900 rounded-[0.250rem] my-[0.15rem]'>
+        <div className='px-4 py-3.5 w-full bg-fff shadow-md  dark:bg-gray-800 hover:text-white hover:bg-indigo-900 hover:dark:bg-indigo-900 rounded-[0.250rem] my-[0.15rem]'>
           <div className='dark:text-gray-50 flex justify-between'>
             <div className='text-start flex '>
               <span className='mr-[0.9rem] text-2xl text-indigo-500 dark:text-indigo-400'>

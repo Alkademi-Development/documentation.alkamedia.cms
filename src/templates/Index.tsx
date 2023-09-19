@@ -46,9 +46,17 @@ const IndexPage: React.FC<IndexPageProps> = ({ data, pageContext }) => {
             <span className="text-[1rem] mb-2 ml-4 ">Search</span>
           </button>
         </div>
-        { modal ? (
-          <ModalSearch modal={modal} setModal={setModal}/>
-        ) : (<></>)}
+        {modal ? (
+      <>
+        <div
+          className="fixed inset-0 mx-auto bg-black bg-opacity-10 z-50 backdrop-blur-md "
+          onClick={() => setModal(!modal)}>
+        <ModalSearch modal={modal} setModal={setModal} />
+        </div>
+      </>
+    ) : (
+      <></>
+    )}
           <div className="max-h-auto mx-auto mt-8 sm:ml-16 md:ml-10 ml-1 mb-3 text-gray-700 dark:text-gray-300">
           <h1 className="font-semibold sm:text-4xl text-3xl  capitalize mb-1 my-5 ">{pageContext.pageName}</h1>
             <ul className="max-w-md gap-1 text-gray-500 list-none dark:text-gray-400">
