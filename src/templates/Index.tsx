@@ -55,11 +55,11 @@ const IndexPage: React.FC<IndexPageProps> = ({ data, pageContext }) => {
       <></>
     )}
           <div className="max-h-auto mx-auto mt-8 sm:ml-16 md:ml-10 ml-1 mb-3 text-gray-700 dark:text-gray-300">
-          <h1 className="font-semibold sm:text-4xl text-3xl  capitalize mb-1 my-5 ">{pageContext.pageName}</h1>
+          <h1 className="font-semibold sm:text-4xl text-3xl  capitalize mb-1 my-10 ">{pageContext.pageName}</h1>
             <ul className="max-w-md gap-1 text-gray-500 list-none dark:text-gray-400">
               {data.docs.edges.filter(edge => role == "all" ? true : edge.node.frontmatter[role as keyof FrontMatter] == "Allow").map(edge => {
                 return (
-                  <li key={edge.node.id}>
+                  <li key={edge.node.id} className="my-[0.2rem]" >
                 <Link to={"#" + edge.node.frontmatter.fungsional.trim()} className="hover:text-gray-700 text-xl hover:dark:text-gray-300">
                   <span className="text-indigo-500 dark:text-indigo-400 mr-[0.05rem]" >#</span>{edge.node.frontmatter.fungsional.trim()} </Link>
                   </li>

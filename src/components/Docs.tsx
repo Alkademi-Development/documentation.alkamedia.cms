@@ -10,7 +10,7 @@ const Docs: React.FC<Props> = ({ data, role }) => {
   );
 
   return (
-    <ul className='sm:ml-[5rem]' >
+    <ul className='sm:ml-[2rem]' >
       {filtered.length > 0 ? (
         filtered.map((edge) => {
           const frontmatter: FrontMatter = edge.node.frontmatter;
@@ -21,7 +21,7 @@ const Docs: React.FC<Props> = ({ data, role }) => {
             <li
               id={frontmatter.fungsional.trim()}
               key={edge.node.id}
-              className="mb-4 pt-16"
+              className="mb-4 pt-20"
             >
               <div>
                 <h1 className="dark:text-slate-200 font-semibold mb-1 text-2xl sm:text-3xl">
