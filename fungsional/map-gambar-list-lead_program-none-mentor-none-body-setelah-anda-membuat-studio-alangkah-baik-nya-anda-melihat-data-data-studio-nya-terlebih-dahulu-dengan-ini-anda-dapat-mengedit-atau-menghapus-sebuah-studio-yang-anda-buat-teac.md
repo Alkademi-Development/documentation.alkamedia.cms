@@ -14,4 +14,4 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-setelah anda membuat studio,alangkah baik nya anda melihat data data studio nya terlebih dahulu.dengan ini anda dapat mengedit atau menghapus sebuah studio yang anda buat.
+Setelah anda membuat studio,alangkah baik nya anda melihat data data studio nya terlebih dahulu.dengan ini anda dapat mengedit atau menghapus sebuah studio yang anda buat.
