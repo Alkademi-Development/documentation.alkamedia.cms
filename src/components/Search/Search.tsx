@@ -21,7 +21,10 @@ export const Search = () => {
         </div>
         <div className='max-h-[70vh] h-auto overflow-y-auto '>
           <NoResultsBoundary fallback={<NoResults />} children={undefined} />
-            <Hits hitComponent={SearchItem} />
+          <SearchItem props={{
+            escapeHTML: undefined,
+            transformItems: undefined
+          }}/>
         </div>
       </InstantSearch>
     </>
