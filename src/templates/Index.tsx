@@ -48,11 +48,8 @@ const IndexPage: React.FC<IndexPageProps> = ({ data, pageContext }) => {
         </div>
         {modal ? (
       <>
-        <div
-          className="fixed inset-0 mx-auto bg-black bg-opacity-10 z-50 backdrop-blur-md "
-          onClick={() => setModal(!modal)}>
+        <div className="fixed w-screen h-screen inset-0 bg-black bg-opacity-10 z-50 backdrop-blur-md " onClick={() => setModal(!modal)}></div>
         <ModalSearch modal={modal} setModal={setModal} />
-        </div>
       </>
     ) : (
       <></>
