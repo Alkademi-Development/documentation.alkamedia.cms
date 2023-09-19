@@ -23,6 +23,6 @@ caranya menghapusnya adalah.
 
 \-pilih studio yang ingin di hapus.
 
-\-klik icon tong sampah yang ada di samping kanan studio yang ingin di hapus
+\-klik icon tong sampah yang ada di samping kanan studio yang ingin di hapus.
 
 \-setelah ini akan ada notifikasi dan klik ya.
