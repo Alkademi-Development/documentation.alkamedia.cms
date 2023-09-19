@@ -10,7 +10,7 @@ const Docs: React.FC<Props> = ({ data, role }) => {
   );
 
   return (
-    <ul className='ml-[5vh]' >
+    <ul className='sm:ml-[5rem]' >
       {filtered.length > 0 ? (
         filtered.map((edge) => {
           const frontmatter: FrontMatter = edge.node.frontmatter;

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Hits, InstantSearch, SearchBox} from 'react-instantsearch';
+import { InstantSearch, SearchBox} from 'react-instantsearch';
 import { SearchItem } from './SearchItem';
 import { SearchClient } from '@algolia/client-search';
 import { searchClient } from './micro/SearchClient';

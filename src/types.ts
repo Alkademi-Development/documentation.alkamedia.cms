@@ -112,6 +112,11 @@ interface SidebarProps {
   };
 }
 
+interface KeyboardNavigationProps {
+  selectedIndex: number | null;
+  setSelectedIndex: (index: number | null) => void;
+  itemRefs: React.MutableRefObject<(HTMLDivElement | null)[]>;
+}
 
 interface IndexPageProps extends PageProps {
   data: Data
@@ -135,4 +140,5 @@ export {
   NavbarProps,
   FilterProps,
   SidebarProps,
+  KeyboardNavigationProps
 }
