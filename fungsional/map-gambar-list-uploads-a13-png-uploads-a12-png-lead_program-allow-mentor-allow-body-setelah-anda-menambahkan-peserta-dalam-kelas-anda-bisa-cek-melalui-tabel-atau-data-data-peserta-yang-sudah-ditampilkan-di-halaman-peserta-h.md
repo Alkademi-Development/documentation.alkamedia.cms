@@ -1,5 +1,5 @@
 ---
-menu: Classroom(Kegiatan)
+menu: Classroom(Peserta)
 fungsional: read peserta
 gambar:
   - uploads/a13.png
