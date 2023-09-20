@@ -3,6 +3,7 @@ menu: Chat
 fungsional: Chat
 gambar:
   - uploads/b1.png
+  - uploads/b2.png
 super_admin: Allow
 admin: Allow
 mentor: Allow
