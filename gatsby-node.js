@@ -20,7 +20,7 @@ exports.createPages = async ({ graphql, actions }) => {
     if(index == 0){
       actions.createPage({
         path: `/`,
-        component: path.resolve('src/templates/docs.tsx'),
+        component: path.resolve('src/templates/Index.tsx'),
         context: {
           all: result,
           pageName: menu,
@@ -30,7 +30,7 @@ exports.createPages = async ({ graphql, actions }) => {
     }
     actions.createPage({
       path: `/${menu.replace(/(\w+)\((\w+)\)/g, "$1/$2")}`,
-      component: path.resolve('src/templates/docs.tsx'),
+      component: path.resolve('src/templates/Index.tsx'),
       context: {
         all: result,
         pageName: menu,
