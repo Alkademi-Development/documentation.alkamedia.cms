@@ -48,7 +48,7 @@ body.light {
 }
 
 .ais-SearchBox-input {
-  @apply w-full py-3.5 pr-4 bg-gray-200 dark:bg-gray-900  text-gray-700 dark:text-gray-50 focus:outline outline-none border-none;
+  @apply w-full py-3.5 pr-4 bg-gray-100 dark:bg-gray-900  text-gray-700 dark:text-gray-50 focus:outline outline-none border-none;
 }
 
 .ais-SearchBox-resetIcon{

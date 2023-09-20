@@ -60,6 +60,7 @@ const config: GatsbyConfig = {
     "gatsby-transformer-sharp",
     "gatsby-transformer-remark",
     "gatsby-plugin-dark-mode",
+    "gatsby-plugin-react-helmet",
     {
       resolve: `gatsby-plugin-sharp`,
       options: {
