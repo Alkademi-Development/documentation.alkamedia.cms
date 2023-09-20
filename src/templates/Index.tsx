@@ -34,7 +34,7 @@ const IndexPage: React.FC<IndexPageProps> = ({ data, pageContext }) => {
        </Helmet>
        <BackToTop />
       <Navbar showSidebar={showSidebar} setShowSidebar={setShowSidebar} data={[]} pageName={"Navbar"} state={[role, setRole]} />
-      <Sidebar data={pageContext.all} pageName="Sidebar" state={[role, setRole]} showSidebar={showSidebar} setShowSidebar={setShowSidebar} dir={{
+      <Sidebar data={pageContext.all} pageName={pageContext.pageName} state={[role, setRole]} showSidebar={showSidebar} setShowSidebar={setShowSidebar} dir={{
         parents: [],
         dir: ""
       }} />
