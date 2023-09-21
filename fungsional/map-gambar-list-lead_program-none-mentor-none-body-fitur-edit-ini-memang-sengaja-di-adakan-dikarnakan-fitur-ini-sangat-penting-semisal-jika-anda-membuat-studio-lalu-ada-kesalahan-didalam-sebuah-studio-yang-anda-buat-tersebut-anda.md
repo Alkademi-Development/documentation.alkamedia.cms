@@ -20,12 +20,7 @@ Fitur edit ini memang sengaja di adakan,dikarnakan fitur ini sangat penting,semi
 
 cara mengunakan fitur edit ini cukup mudah.
 
-\-pertama anda pilih bagian studio.
-
-\-pilih menu studio yang ingin anda edit.
-
-\-lalu klik icon pencil﻿(edit)
-
-\-setelah itu anda akan di arahkan ke tampilan edit,yang di mana anda dapat merubah tampilan studio yang anda buat sebelum nya.
-
-b
+* pertama anda pilih bagian studio.
+* pilih menu studio yang ingin anda edit.
+* lalu klik icon pencil﻿(edit)
+* setelah itu anda akan di arahkan ke tampilan edit,yang di mana anda dapat merubah tampilan studio yang anda buat sebelum nya.
