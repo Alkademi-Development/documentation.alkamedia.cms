@@ -26,4 +26,4 @@ Untuk menghapus suatu materi, ikuti langkah-langkah umum berikut:
 3. **Hapus materi:** Klik ikon tong sampah untuk menghapus.
 4. **Konfirmasi:** klik 'Ya' untuk mengonfirmasi penghapusan. Ini dilakukan untuk mencegah penghapusan yang tidak disengaja. 
 
-Setelah dikonfirmasi, materi beserta kontennya akan dihapus. Harap perhatikan bahwa tindakan ini mungkin tidak dapat diurungkan, dan data yang terkait dengan materi bisa hilang.
+Setelah dikonfirmasi, materi beserta kontennya akan dihapus.
