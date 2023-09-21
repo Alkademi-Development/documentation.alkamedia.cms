@@ -1,6 +1,6 @@
 ---
 menu: Announcement
-fungsional: Create announceent
+fungsional: Create announcement
 gambar:
   - uploads/z42.png
   - uploads/z43.png
@@ -16,9 +16,9 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-announcement adalah sebuah informasi yang di buat untuk mempromosikan sebuah lowongan pekerjaan,yang dimana announcement ini akan tampil dibagian home atau di detail program. jika ingin membuat announcement anda cukup lakukan langkah langkah berikut.
+announcement adalah sebuah informasi yang dibuat untuk mempromosikan sebuah lowongan pekerjaan,yang dimana announcement ini akan tampil dibagian home atau di detail program. jika ingin membuat announcement anda cukup lakukan langkah langkah berikut.
 -﻿yang pertama setelah anda login admin,pilih menu announcement.
--﻿lalu klik tobol "+announcement"
+-﻿lalu klik tombol "+announcement"
 -setelah meng klik tombol "+announcement" anda akan di arahkan kebagian data data yang dimana data tersebut harus diisi sesuai prosedur yang di terapkan.
 -klik submit
 
