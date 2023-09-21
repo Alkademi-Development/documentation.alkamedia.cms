@@ -25,4 +25,4 @@ Fitur ini memungkinkan Anda untuk dengan mudah menambahkan peserta ke dalam kela
 5. Setelah menemukan nama peserta yang sesuai, Anda dapat mengklik nama tersebut atau mencentang kotak di samping nama peserta.
 6. Terakhir, klik tombol "Tambahkan" atau "Ok" (tergantung pada perangkat atau aplikasi yang Anda gunakan) untuk menambahkan peserta ke dalam kelas.
 
-Dengan mengikuti langkah-langkah di atas, Anda dapat dengan mudah menggunakan fitur ini untuk menambahkan peserta yang diinginkan ke dalam kelas Anda.
+Dengan mengikuti langkah-langkah di atas, Anda dapat dengan mudah menggunakan fitur ini untuk menambahkan peserta yang diinginkan ke dalam kelas.
