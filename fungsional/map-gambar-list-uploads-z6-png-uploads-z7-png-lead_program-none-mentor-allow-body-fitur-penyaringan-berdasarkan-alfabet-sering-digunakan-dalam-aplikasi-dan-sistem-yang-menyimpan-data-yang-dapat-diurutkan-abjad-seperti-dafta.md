@@ -21,4 +21,4 @@ s﻿eperti yang anda ketahi di atas,alkademi juga membuat fitur itu,contoh nya m
 **l﻿angkah langkah** nya adalah:\
 -﻿dengan klik menu rekap nilai dan pilih kelas\
 -﻿setelah di pilih anda dapat menemukan tombol filter di samping kiri pencarian.\
--﻿lalu pilih sesui yang anda mau.
+-﻿lalu pilih sesuai yang anda mau.
