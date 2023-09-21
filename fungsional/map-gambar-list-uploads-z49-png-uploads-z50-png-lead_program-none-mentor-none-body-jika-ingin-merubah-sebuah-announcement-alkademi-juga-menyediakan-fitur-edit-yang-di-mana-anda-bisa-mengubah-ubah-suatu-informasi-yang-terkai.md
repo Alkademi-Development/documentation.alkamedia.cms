@@ -22,6 +22,6 @@ berikut adalah cara menggunakan fitur edit di announcement.
 * yang pertama anda harus login admin.
   -lalu anda pilih menu announcement.
   -setelah itu pilih salah satu announcement yang anda buat.
-  -klik tombol pensil dibagian sebelah kanan 
+  -klik tombol pensil dibagian sebelah kanan.
   -lalu anda akan diarahkan ke tampilan edit.
   setelah menurut anda sesuai.klik submit dan klik ya.
