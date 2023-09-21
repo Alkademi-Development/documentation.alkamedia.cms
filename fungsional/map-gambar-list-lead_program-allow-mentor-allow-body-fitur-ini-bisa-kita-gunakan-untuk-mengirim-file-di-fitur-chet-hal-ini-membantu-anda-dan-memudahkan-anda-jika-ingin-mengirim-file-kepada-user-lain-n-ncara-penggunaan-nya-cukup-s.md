@@ -24,4 +24,4 @@ Fitur ini memungkinkan Anda untuk mengirim file melalui fitur obrolan, yang dapa
 4. Anda akan diarahkan ke penyimpanan perangkat Anda, di mana Anda dapat memilih file yang ingin Anda kirimkan.
 5. Setelah memilih file yang sesuai, klik ikon "Kirim" atau "Send" untuk mengirimkan file tersebut kepada pengguna lain dalam obrolan.
 
-Dengan mengikuti langkah-langkah di atas, Anda dapat dengan mudah mengirim file kepada pengguna lain dalam obrolan dan berbagi informasi atau dokumen dengan cepat. Pastikan file yang Anda kirimkan sesuai dengan keperluan dan kebijakan yang berlaku.
+Dengan mengikuti langkah-langkah di atas, Anda dapat dengan mudah mengirim file kepada pengguna lain dalam obrolan dan berbagi informasi atau dokumen.
