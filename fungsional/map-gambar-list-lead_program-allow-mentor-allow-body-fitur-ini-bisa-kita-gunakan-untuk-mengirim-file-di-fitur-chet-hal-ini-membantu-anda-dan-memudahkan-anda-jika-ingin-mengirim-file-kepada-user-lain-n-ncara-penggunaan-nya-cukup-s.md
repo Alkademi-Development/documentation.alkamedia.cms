@@ -1,7 +1,9 @@
 ---
 menu: Chat
-fungsional: send file
-gambar: []
+fungsional: Send file
+gambar:
+  - uploads/chatsendfile.png
+  - uploads/inisendchat.png
 super_admin: Allow
 admin: Allow
 mentor: Allow
@@ -14,12 +16,12 @@ industri: Pending
 student: Allow
 support_mobile: Yes
 ---
-fitur ini bisa kita gunakan untuk mengirim file di fitur chet.hal ini membantu anda dan memudahkan anda jika ingin mengirim file kepada user lain.
+Fitur ini memungkinkan Anda untuk mengirim file melalui fitur obrolan, yang dapat sangat berguna untuk berbagi dokumen, gambar, atau jenis file lainnya dengan pengguna lain. Berikut adalah panduan penggunaan fitur ini:
 
-cara penggunaan nya cukup sama dengan mengirim gambar,cuman ini berbentuk file.
+1. Pastikan Anda berada dalam percakapan dengan pengguna lain.
+2. Di sudut kanan bawah jendela obrolan, Anda akan menemukan tombol dengan tanda tambah (+). Klik tombol ini.
+3. Dari menu yang muncul, pilih opsi "Logo File" atau "Kirim File".
+4. Anda akan diarahkan ke penyimpanan perangkat Anda, di mana Anda dapat memilih file yang ingin Anda kirimkan.
+5. Setelah memilih file yang sesuai, klik ikon "Kirim" atau "Send" untuk mengirimkan file tersebut kepada pengguna lain dalam obrolan.
 
-* yang pertama pastikan sudah didalam chet penggunaan lain.
-* klik tombol (+) di sudut kiri bawah.
-* pilih menu logo file.
-* lalu pilih file di penyimpanan perangkat anda.
-* setelah itu klik logo(kirim)
+Dengan mengikuti langkah-langkah di atas, Anda dapat dengan mudah mengirim file kepada pengguna lain dalam obrolan dan berbagi informasi atau dokumen dengan cepat. Pastikan file yang Anda kirimkan sesuai dengan keperluan dan kebijakan yang berlaku.
