@@ -2,8 +2,8 @@
 menu: Classroom
 fungsional: Publish class
 gambar:
-  - uploads/x1.png
-  - uploads/x2.png
+  - uploads/terbitclasspublishaapalahitu.png
+  - uploads/shiranaiterbitmobmob.png
 super_admin: Allow
 admin: Allow
 mentor: None
