@@ -16,7 +16,7 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-j﻿iga user user user jelas terlalu banyak untuk melihat nilai anda, alkademi juga menyediakan pencencarian nama user yang anda buat.dengan ada nya pencarian ini, anda bisa menemukan nama/nilai nilai anda.\
+j﻿ika user user jelas terlalu banyak untuk melihat nilai anda, alkademi juga menyediakan pencarian nama user yang anda buat.dengan ada nya pencarian ini, anda bisa menemukan nama/nilai nilai anda.\
 l﻿angkah langkah sebagi berikut:\
 -﻿anda cukup pergi ke hal "rekap nilai"\
 -﻿lalu pilih kelas yang anda kerjakan\
