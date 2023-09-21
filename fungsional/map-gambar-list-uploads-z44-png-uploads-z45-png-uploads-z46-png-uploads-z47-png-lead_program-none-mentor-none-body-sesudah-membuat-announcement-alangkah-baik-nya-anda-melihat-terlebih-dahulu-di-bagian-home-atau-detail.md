@@ -18,5 +18,5 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-sesudah membuat announcement alangkah baik nya anda melihat terlebih dahulu di bagian home atau detail program.apakah bener sesuai harapan yang anda buat atau belum.
+Sesudah membuat announcement alangkah baik nya anda melihat terlebih dahulu di bagian home atau detail program.apakah bener sesuai harapan yang anda buat atau belum.
 hal ini harus dipastikan biar tidak terjadi kesalahan.
