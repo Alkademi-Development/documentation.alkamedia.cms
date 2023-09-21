@@ -2,8 +2,8 @@
 menu: Classroom(Statistik)
 fungsional: View Statistik
 gambar:
-  - uploads/..png
-  - uploads/.1.png
+  - uploads/participant.png
+  - uploads/viewstatistic.png
 super_admin: Allow
 admin: Allow
 mentor: Allow
@@ -16,14 +16,13 @@ industri: Pending
 student: Allow
 support_mobile: Yes
 ---
-Dibagian ini akan menampilkan grafik grafik aktivitas kelas.seperti grafik participant funel, participant submission rate, participant submission monitoring,dan adapun tabel peringkat user user yang mengerjakan tugas dengan baik.
+Dalam bagian ini, Anda akan menemukan berbagai grafik yang menggambarkan aktivitas kelas, seperti grafik participant funnel, participant submission rate, dan participant submission monitoring. Selain itu, ada juga tabel peringkat pengguna yang telah menunjukkan kinerja baik dalam mengerjakan tugas.
 
-langkah langkah untuk melihat statistik pada kelas adalah.
+Berikut langkah-langkah untuk melihat statistik pada kelas:
 
-\-yang pertama login ke akun yang anda buat contoh (akun admin)
+1. Login ke akun Anda (contoh: akun admin).
+2. Pilih kelas yang ingin Anda buka.
+3. Setelah memilih kelas, klik untuk masuk ke kelas tersebut.
+4. Di dalam kelas, Anda akan menemukan opsi "Statistik". Klik opsi ini untuk melihat grafik dan tabel yang menggambarkan aktivitas kelas.
 
-\-lalu pilih kelas yang ingin buka.
-
-\- setelah itu klik masuk kelas nya.
-
-\-dan pilih statik pada kelas anda.
+Dengan mengikuti langkah-langkah di atas, Anda dapat mengakses informasi statistik yang berguna untuk memantau dan menganalisis kinerja kelas serta pengguna di dalamnya.
