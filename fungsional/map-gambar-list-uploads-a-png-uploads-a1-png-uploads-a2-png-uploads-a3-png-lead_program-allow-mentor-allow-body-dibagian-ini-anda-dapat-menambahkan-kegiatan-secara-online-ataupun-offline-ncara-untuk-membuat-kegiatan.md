@@ -1,6 +1,6 @@
 ---
 menu: Classroom(Kegiatan)
-fungsional: create kegiatan.
+fungsional: Create Activity
 gambar:
   - uploads/a.png
   - uploads/a1.png
@@ -18,25 +18,29 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-dibagian ini anda dapat menambahkan kegiatan secara online ataupun offline.\
-cara untuk membuat kegiatan online ataupun offline cukup mudah.
+### **Membuat Kegiatan dalam Kelas (Kegiatan Online dan Offline):**
 
-1. kegiatan offline\
-Kegiatan ini dilakukan secara langsung,atau juga sama seperti acara undangan,yang harus dilaksanakan ke tempat lokasi yang ditujukan.\
-•pertama anda dapat membuat kelas terlenbih dahulu ataupun pilih kelas yang sudah ada.\
-•lalu klik kelas dan pergi kebagian kegiatan.\
-•setalah di bagian kegiatan, anda dapat meng klik tombol (+kegiatan) di pojok kanan atas.\
-•lalu isi bagian kolom yang sudah di sediakan.\
-•jika ingin membuat kegiatan secara offline, anda pilih saja di kolom "tipe kegiatan" yang offline.\
-•setelah menurut anda sudah sesuai,klik submit.
+#### **Kegiatan Offline:** 
 
-2. kegiatan online\
-Kegiatan ini bertujuan agar perserta mengikuti kegiatan secara online (mengikuti kegiatan dimanapun tetapi melakukannya di sebuah alat komonikasi). Jika akan melakukan kegiatan ini biasa nya perserta yang benyak kendala semacan juah,hujan saat ingin melakukan kegiatan,atau miting dadakan.maka dari itu diadakan nya kegiatan online 
+Kegiatan ini dilakukan secara langsung atau di lokasi fisik yang ditentukan. Berikut adalah langkah-langkah untuk membuat kegiatan offline:
 
-•pertama anda dapat membuat kelas terlebih dahulu ataupun pilih kelas yang sudah ada.\
-•lalu klik kelas dan pergi kebagian kegiatan.\
-•setalah di bagian kegiatan, anda dapat meng klik tombol (+kegiatan) di pojok kanan atas.\
-•lalu isi bagian kolom yang sudah di sediakan.\
-•jika ingin membuat kegiatan secara online, anda pilih saja di kolom "tipe kegiatan" yang online.\
-•dan pilih platform video conference yang di sediakan seperti google meet,zoom,atau manual\
-•setelah menurut anda sudah sesuai,klik submit.
+1. **Akses Kelas**: Pertama, buka kelas yang ingin Anda gunakan atau buat kelas baru jika belum ada.
+2. **Menu Kegiatan**: Di dalam kelas, pilih menu "Kegiatan" atau opsi serupa yang mengarahkan Anda ke daftar kegiatan.
+3. **Tambahkan Kegiatan**: Di halaman kegiatan, cari tombol dengan label "+ Kegiatan" atau "Tambah Kegiatan." Klik tombol ini untuk memulai proses pembuatan kegiatan baru.
+4. **Isi Detail Kegiatan**: Di halaman pembuatan kegiatan, isi kolom-kolom yang telah disediakan, termasuk judul, deskripsi, tanggal, dan waktu pelaksanaan.
+5. **Pilih Tipe Kegiatan**: Jika Anda ingin membuat kegiatan offline, pastikan untuk memilih opsi "Offline" atau "Secara Langsung" pada kolom "Tipe Kegiatan."
+6. **Submit**: Setelah mengisi semua informasi yang diperlukan, klik tombol "Submit" atau "Kirim" untuk membuat kegiatan offline.
+
+#### **Kegiatan Online:** 
+
+Kegiatan ini memungkinkan peserta untuk mengikuti kegiatan secara online melalui alat komunikasi tertentu seperti Google Meet, Zoom, atau platform video konferensi lainnya. Berikut adalah langkah-langkah untuk membuat kegiatan online:
+
+1. **Akses Kelas**: Seperti sebelumnya, buka kelas yang ingin Anda gunakan atau buat kelas baru jika belum ada.
+2. **Menu Kegiatan**: Di dalam kelas, pilih menu "Kegiatan" atau opsi serupa yang mengarahkan Anda ke daftar kegiatan.
+3. **Tambahkan Kegiatan**: Di halaman kegiatan, cari tombol dengan label "+ Kegiatan" atau "Tambah Kegiatan." Klik tombol ini untuk memulai proses pembuatan kegiatan baru.
+4. **Isi Detail Kegiatan**: Di halaman pembuatan kegiatan, isi kolom-kolom yang telah disediakan, termasuk judul, deskripsi, tanggal, dan waktu pelaksanaan.
+5. **Pilih Tipe Kegiatan**: Untuk membuat kegiatan online, pilih opsi "Online" pada kolom "Tipe Kegiatan."
+6. **Pilih Platform Video Conference**: Jika Anda menggunakan platform video conference tertentu seperti Google Meet atau Zoom, pilih platform yang diinginkan.
+7. **Submit**: Setelah mengisi semua informasi yang diperlukan, klik tombol "Submit" atau "Kirim" untuk membuat kegiatan online.
+
+Dengan mengikuti langkah-langkah di atas, Anda dapat dengan mudah membuat kegiatan sesuai dengan jenisnya, baik offline maupun online. Pastikan untuk memberikan informasi yang jelas dan akurat kepada peserta kelas Anda.
