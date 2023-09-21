@@ -1,6 +1,6 @@
 ---
 menu: Chat
-fungsional: send picture
+fungsional: Send picture
 gambar:
   - uploads/b3.png
 super_admin: Allow
@@ -15,13 +15,13 @@ industri: Pending
 student: Allow
 support_mobile: Yes
 ---
-ini biasa dibiasa disebut dengan kirim gambar.dengan ada nya fitur chet ini membantu anda jika ingin mengirim gambar gambar apa yang menurut topik yang sedang di bahas jika tidak terlalu faham.
+Fitur pengiriman gambar ini memungkinkan Anda untuk dengan mudah mengirim gambar dalam obrolan. Berikut adalah panduan penggunaannya:
 
-penggunaan fitur ini adalah.
+1. Pastikan Anda sudah berada dalam obrolan dengan pengguna lain atau di grup obrolan yang sesuai dengan topik pembicaraan.
+2. Di bagian bawah jendela obrolan, temukan tombol dengan ikon tambah atau ikon (+). Klik tombol ini.
+3. Pilih opsi "Kirim Gambar" atau "Tambahkan Gambar" dari menu yang muncul.
+4. Setelah itu, Anda akan diarahkan untuk memilih gambar dari penyimpanan perangkat Anda. Telusuri dan pilih gambar yang ingin Anda kirim.
+5. Setelah memilih gambar, klik tombol "Kirim" atau "Ok" (tergantung pada perangkat atau aplikasi yang Anda gunakan) untuk mengirim gambar tersebut.
+6. Gambar yang Anda kirim akan muncul dalam jendela obrolan, dan pengguna lain akan dapat melihatnya.
 
-* yang pertama pastikan sudah didalam chet penggunaan lain.
-* klik tombol (+) di sudut kiri bawah.
-* pilih menu logo gambar.
-* lalu pilih gambar di penyimpanan perangkat anda.
-
-\-setelah itu klik logo(kirim)
+Dengan mengikuti langkah-langkah di atas, Anda dapat dengan mudah menggunakan fitur pengiriman gambar dalam obrolan untuk membagikan gambar yang relevan dengan topik pembicaraan atau keperluan komunikasi Anda.
