@@ -1,6 +1,6 @@
 ---
 menu: Classroom(Peserta)
-fungsional: read peserta
+fungsional: Participants
 gambar:
   - uploads/a13.png
   - uploads/a12.png
