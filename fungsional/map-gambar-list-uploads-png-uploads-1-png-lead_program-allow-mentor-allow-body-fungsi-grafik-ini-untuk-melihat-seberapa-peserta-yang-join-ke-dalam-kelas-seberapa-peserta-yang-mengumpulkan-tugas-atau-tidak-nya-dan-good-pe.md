@@ -1,9 +1,9 @@
 ---
 menu: Classroom(Statistik)
-fungsional: participant funel
+fungsional: Participant Funel
 gambar:
-  - uploads/..png
-  - uploads/.1.png
+  - uploads/participantfunekk.png
+  - uploads/partipfunel.png
 super_admin: Allow
 admin: Allow
 mentor: Allow
@@ -16,4 +16,5 @@ industri: Pending
 student: Allow
 support_mobile: Yes
 ---
-Fungsi grafik ini untuk melihat seberapa peserta yang join ke dalam kelas, seberapa peserta yang mengumpulkan tugas atau tidak nya,dan good performance itu berdasarkan dari standar kelulusan yang ada di classroom. Jadi grafik ini berfungsi untuk mengukur seberapa persen kegiatan yang dilakukan akan tampil di grafik Participant funel.
+\
+Grafik "Participant Funnel" memiliki fungsi untuk melihat seberapa banyak peserta yang bergabung ke dalam kelas, seberapa banyak dari mereka yang mengumpulkan tugas, dan bagaimana performa mereka berdasarkan standar kelulusan yang ditetapkan dalam classroom. Dengan grafik ini, Anda dapat mengukur persentase kegiatan peserta dari tahap bergabung hingga tahap kelulusan dalam kelas. Hal ini membantu Anda memahami sejauh mana peserta aktif dan berkinerja baik dalam mencapai tujuan pembelajaran yang telah ditetapkan.
