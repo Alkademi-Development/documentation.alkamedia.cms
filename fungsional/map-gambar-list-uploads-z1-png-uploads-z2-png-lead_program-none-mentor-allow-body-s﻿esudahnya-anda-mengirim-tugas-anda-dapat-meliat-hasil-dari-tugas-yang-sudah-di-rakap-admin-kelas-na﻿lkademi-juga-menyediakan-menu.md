@@ -16,7 +16,7 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-S﻿esudahnya anda mengirim tugas, anda dapat meliat hasil dari tugas yang sudah di rakap admin kelas.\
+S﻿esudahnya anda mengirim tugas, anda dapat melihat hasil dari tugas yang sudah di rakap admin kelas.\
 a﻿lkademi juga menyediakan menu "rakap nilai" yang di mana siswa siswa bisa melihat hasil dari kerjanya.\
 y﻿ang pertama anda bisa memilih kelas yang anda kerjakan.\
 l﻿angkah langkah nya sebagai berikut:\
