@@ -18,7 +18,7 @@ support_mobile: Yes
 ---
 #### Buat Kelas
 
-Berikut langkah-langkah yang benar untuk membuat kelas di Alkademi:
+Berikut langkah-langkah yang benar untuk membuat kelas :
 
 **1. Klik Menu Kelas:** Setelah login dan membuka aplikasi, cari dan klik opsi "Kelas" di menu navigasi.
 
@@ -28,17 +28,16 @@ Berikut langkah-langkah yang benar untuk membuat kelas di Alkademi:
 
 * **Overview:** Di sini, Anda dapat mengisi informasi seperti logo (dengan mengunggah atau menarik dan melepaskan file), nama kelas, dan deskripsi singkat.
 * **Tags:** Anda dapat menambahkan tag yang relevan dengan kelas Anda. Misalnya, topik atau kategori kelas.
-* **Kuota:** Tentukan jumlah maksimal peserta yang dapat mendaftar ke kelas Anda. Jika ingin tak terbatas, biarkan kosong.
+* **Kuota:** Tentukan jumlah maksimal peserta yang dapat mendaftar ke kelas Anda. 
 * **Standar Kelulusan:** Masukkan nilai batas kelulusan dalam rentang 0 hingga 100.
 * **Kota Pendaftar:** Cari atau pilih kota tempat pendaftaran.
 * **Kota Pelaksanaan:** Cari atau pilih kota tempat kelas akan dilaksanakan.
-* **Persyaratan Kelas:** Pilih persyaratan khusus, jika ada, yang harus dipenuhi peserta ketika mendaftar.
 
 **4. Detail Kelas:**
 
 * **Masukkan Kelas Ke Program:** Pilih program yang relevan, jika ada.
 * **Mode Kelas:** Pilih mode kelas, bisa "Online" atau lainnya.
-* **Tipe Kelas:** Tentukan tipe kelas, misalnya "Belajar."
+* **Tipe Kelas:** Tentukan tipe kelas, 
 * **Aksesibilitas:** Pilih tingkat aksesibilitas kelas.
 * **Mentor:** Pilih mentor atau pengajar yang akan mengajar di kelas ini.
 * **Materi:** Pilih materi yang akan diajarkan di kelas.
@@ -52,4 +51,4 @@ Berikut langkah-langkah yang benar untuk membuat kelas di Alkademi:
 
 **7. Simpan:** Setelah mengisi semua informasi yang diperlukan, pastikan untuk menyimpan kelas Anda dengan mengklik tombol "Submit" atau "Simpan ke Draft" jika Anda ingin menyimpannya sebagai draft terlebih dahulu.
 
-Dengan mengikuti langkah-langkah di atas, Anda akan berhasil membuat kelas di Alkademi dengan semua detail yang diperlukan. Semoga ini membantu dalam mengatur lingkungan belajar online Anda.
+Dengan mengikuti langkah-langkah di atas, Anda akan berhasil membuat kelas dengan semua detail yang diperlukan. Semoga ini membantu dalam mengatur lingkungan belajar online Anda.
