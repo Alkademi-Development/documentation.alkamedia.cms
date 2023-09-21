@@ -16,11 +16,13 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-fitur ini membuat anda untuk berkomunikasi dengan peserta lain ataupun admin.tidak untuk berkomunikasi saja fitur ini bisa mengirim gambar dan file.cara mengunakan fitur ini memang mudah dan sudah umum dikalangan media sosial.
+Fitur obrolan ini memungkinkan Anda untuk berkomunikasi dengan peserta lain atau admin. Selain pesan teks, Anda juga dapat mengirim gambar dan file melalui fitur ini. Berikut adalah panduan penggunaan fitur obrolan:
 
-* yang pertama klik logo cheat dipojok kanan atas.
-* lalu cari peserta atau user lain yang ingin di chat.
-* setelah itu klik nama user tersebut dan masukan teks yang ingin di sampaikan.
-* setelah ini enter 
+1. Pertama, klik logo obrolan yang biasanya berada di pojok kanan atas atau di area menu navigasi, tergantung pada antarmuka aplikasi.
+2. Setelah masuk ke menu obrolan, cari nama peserta atau pengguna lain yang ingin Anda ajak berbicara.
+3. Klik nama pengguna tersebut untuk membuka jendela obrolan dengan mereka.
+4. Di dalam jendela obrolan, Anda dapat memasukkan pesan teks yang ingin Anda sampaikan.
+5. Setelah selesai mengetik pesan, tekan tombol "Enter" atau "Kirim" untuk mengirim pesan tersebut kepada pengguna lain.
+6. Tunggu balasan dari pengguna lain di jendela obrolan yang sama.
 
-nah seperti cara penggunaan fitur chet ini,setelah itu anda cukup menunggu balasan dari user lain yang anda chet.
+Dengan mengikuti langkah-langkah di atas, Anda dapat menggunakan fitur obrolan untuk berkomunikasi dengan pengguna lain, mengirim pesan teks, gambar, atau file sesuai kebutuhan. Pastikan untuk menjaga komunikasi Anda dengan sesama pengguna tetap sopan dan sesuai dengan aturan yang berlaku dalam platform atau aplikasi yang Anda gunakan.
