@@ -16,7 +16,7 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-setelah anda mengupload poto,sebaik nya anda melihat terlebih dahulu ke bagian geleri apakah poto anda sudah benar benar ada atau belum ada.
+Setelah anda mengupload poto,sebaik nya anda melihat terlebih dahulu ke bagian geleri apakah poto anda sudah benar benar ada atau belum ada.
 
 jika ingin melihat poto anda di galeri alkademi.
 
