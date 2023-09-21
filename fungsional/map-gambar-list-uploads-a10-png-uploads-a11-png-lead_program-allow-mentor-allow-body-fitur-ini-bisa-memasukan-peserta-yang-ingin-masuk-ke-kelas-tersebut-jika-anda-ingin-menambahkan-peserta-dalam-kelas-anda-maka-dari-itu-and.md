@@ -1,6 +1,6 @@
 ---
 menu: Classroom(Peserta)
-fungsional: create perserta
+fungsional: Add participant
 gambar:
   - uploads/a10.png
   - uploads/a11.png
@@ -16,14 +16,13 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-fitur ini bisa memasukan peserta yang ingin masuk ke kelas tersebut, jika anda ingin menambahkan peserta dalam kelas anda,maka dari itu anda dapat saja menambahkan nya.\
-dengan cara 
+Fitur ini memungkinkan Anda untuk dengan mudah menambahkan peserta ke dalam kelas. Berikut adalah panduan penggunaannya:
 
-* klik tombol (+peserta)
-* setelah itu ada muncul pencarian peserta.
-* ketik nama peserta yang ingin ditambahkan .
-* lau entar
+1. Buka kelas yang ingin Anda tambahkan peserta.
+2. Cari tombol atau opsi yang mengindikasikan penambahan peserta. Ini mungkin berupa tombol dengan label "+ Peserta" atau opsi serupa.
+3. Setelah mengklik tombol penambahan peserta, akan muncul kotak pencarian atau daftar peserta yang tersedia.
+4. Ketik nama peserta yang ingin Anda tambahkan ke kelas dalam kotak pencarian.
+5. Setelah menemukan nama peserta yang sesuai, Anda dapat mengklik nama tersebut atau mencentang kotak di samping nama peserta.
+6. Terakhir, klik tombol "Tambahkan" atau "Ok" (tergantung pada perangkat atau aplikasi yang Anda gunakan) untuk menambahkan peserta ke dalam kelas.
 
-        setelah muncul nama peserta,anda klik saja nama nya atau centang kotak di samping
-
-* lalu klik tambahkan
+Dengan mengikuti langkah-langkah di atas, Anda dapat dengan mudah menggunakan fitur ini untuk menambahkan peserta yang diinginkan ke dalam kelas Anda.
