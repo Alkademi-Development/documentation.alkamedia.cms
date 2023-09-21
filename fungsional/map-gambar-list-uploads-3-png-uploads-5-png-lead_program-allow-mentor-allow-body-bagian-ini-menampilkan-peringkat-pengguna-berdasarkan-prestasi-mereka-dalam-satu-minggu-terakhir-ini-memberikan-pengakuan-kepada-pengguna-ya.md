@@ -1,9 +1,9 @@
 ---
 menu: Classroom(Statistik)
-fungsional: peringkat teratas minggu ini.
+fungsional: Weekly Ranking Leadeboard
 gambar:
-  - uploads/.3.png
-  - uploads/.5.png
+  - uploads/participant-and-peringkat-teratass.png
+  - uploads/topscore.png
 super_admin: Allow
 admin: Allow
 mentor: Allow
@@ -16,4 +16,4 @@ industri: Pending
 student: Allow
 support_mobile: Yes
 ---
-Bagian ini menampilkan peringkat pengguna berdasarkan prestasi mereka dalam satu minggu terakhir. Ini memberikan pengakuan kepada pengguna yang berprestasi dalam rentang waktu tersebut. Dengan leaderboard ini, Anda dapat menghargai dan memotivasi pengguna yang telah mencapai hasil luar biasa selama minggu terakhir. Ini juga dapat mendorong kompetisi sehat di antara pengguna dan meningkatkan partisipasi dalam platform.
+Bagian ini menampilkan peringkat pengguna berdasarkan prestasi mereka dalam satu minggu terakhir. Ini memberikan pengakuan kepada pengguna yang berprestasi selama periode waktu tersebut. Dengan leaderboard ini, Anda dapat memberikan apresiasi kepada pengguna yang telah mencapai hasil luar biasa selama minggu terakhir, menginspirasi mereka untuk terus berkinerja tinggi, dan memotivasi pengguna lain untuk bersaing secara sehat. Ini adalah cara yang efektif untuk meningkatkan partisipasi dan kompetisi yang sehat, yang pada gilirannya dapat meningkatkan engangement dan pencapaian pengguna.
