@@ -16,16 +16,16 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-studio di dalam situs alkademi adalah sebuah program code yang dibuat oleh seseorang untuk melakukan atau menjalankan sebuah program.maka dari itu fitur ini bisa membuat studio program.untuk melakukan membuat studio program ikuti langkah langkah membuat studio program berikut.
+Studio di dalam situs alkademi adalah sebuah program code yang dibuat oleh seseorang untuk melakukan atau menjalankan sebuah program. maka dari itu fitur ini bisa membuat studio program. untuk melakukan membuat studio program ikuti langkah langkah membuat studio program berikut.
 
-\-yang pertama anda pilih bagian menu program.
+yang pertama anda pilih bagian menu program.
 
-\-lalu klik (+studio)
+lalu klik (+studio)
 
-\-setelah itu anda akan diarahkan ke tampilan crete studio.
+setelah itu anda akan diarahkan ke tampilan create studio.
 
- yang di mana anda dapat mengisi persyaratan studio program,semacam mengisi "nama studio","modul","durasi pengerjaan",dan memilih "bahasa active".﻿
+ yang di mana anda dapat mengisi persyaratan studio program, semacam mengisi "nama studio","modul","durasi pengerjaan",dan memilih "bahasa active".﻿
 
-\-lalu klik submit jika menurut anda sudah sesuai.
+lalu klik submit jika menurut anda sudah sesuai.
 
 maka dari itu anda dapat membuat studio program di situs alkademi.
