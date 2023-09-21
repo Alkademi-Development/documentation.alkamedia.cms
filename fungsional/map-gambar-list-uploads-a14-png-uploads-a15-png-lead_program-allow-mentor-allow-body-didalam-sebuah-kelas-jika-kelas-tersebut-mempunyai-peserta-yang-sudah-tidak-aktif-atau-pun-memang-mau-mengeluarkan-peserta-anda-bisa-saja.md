@@ -25,4 +25,4 @@ Fitur "Hapus Peserta" dalam sebuah kelas memungkinkan Anda untuk mengeluarkan pe
 5. **Konfirmasi**: Biasanya, Anda akan diminta untuk mengkonfirmasi tindakan ini. Pastikan untuk memeriksa kembali bahwa peserta yang dipilih memang yang ingin Anda keluarkan, lalu klik "Ya" atau "Keluarkan" untuk menyelesaikan proses ini.
 6. **Periksa Daftar Peserta**: Setelah selesai, periksa kembali daftar peserta untuk memastikan bahwa peserta yang dihapus sudah tidak lagi terdaftar di kelas tersebut.
 
-Dengan mengikuti langkah-langkah ini, Anda dapat menggunakan fitur "Hapus Peserta" untuk mengeluarkan peserta yang tidak aktif atau tidak diperlukan dari kelas atau program yang Anda kelola. Pastikan untuk berhati-hati saat melakukan tindakan ini, dan selalu konfirmasi bahwa peserta yang dipilih adalah yang benar-benar ingin Anda keluarkan.
+Dengan mengikuti langkah-langkah ini, Anda dapat menggunakan fitur "Hapus Peserta" untuk mengeluarkan peserta yang tidak aktif atau tidak diperlukan dari kelas atau program yang Anda kelola. Pastikan untuk berhati-hati saat melakukan tindakan ini, dan selalu konfirmasi bahwa peserta yang dipilih adalah yang benar-benar ingin keluarkan.
