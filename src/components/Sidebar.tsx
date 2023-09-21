@@ -2,6 +2,7 @@ import * as React from "react"
 import { Link,} from "gatsby"
 import { NestedDir, SidebarProps } from "../types"
 import { Filter } from "./Filter"
+import "animate.css"
 
 const Sidebar: React.FC<SidebarProps> = ({ data, pageName, state, showSidebar, setShowSidebar }) => {
   const [role, setRole] = state;
@@ -24,60 +25,64 @@ const Sidebar: React.FC<SidebarProps> = ({ data, pageName, state, showSidebar, s
       })
     }
   }
+
   return (
     <>
-    <aside className={(showSidebar ? "" : "-translate") + " overflow-y-auto fixed top-0 mt-10 left-0 w-[14.2rem] z-20 sm:w-72 h-screen transition-transform sm:translate-x-0"} aria-label="Sidebar">
-      <div className="h-full px-3 py-4 overflow-y-auto bg-sidebar dark:bg-gray-800">
-      <div className="pt-14 block sm:hidden" >
-      <Filter role={role} setRole={setRole} showDropdown={showDropdown} setShowDropdown={setShowDropdown} showSidebar={showSidebar} setShowSidebar={setShowSidebar}  data={[]} pageName={"Filter"} />
-      </div>
-        <ul className="space-y-2 font-medium pt-5 sm:pt-14 ">
-          <li className="mb-4">
+    <aside className={(showSidebar ? "" : "-translate-x-60") + " overflow-y-auto fixed top-20 left-0 w-[14.2rem] z-20 sm:w-72 h-screen transition-transform sm:translate-x-0"} aria-label="Sidebar">
+      <div className="h-full px-3 pb-4 overflow-y-auto bg-sidebar dark:bg-gray-950">
+        <div className="pt-3 sm:hidden" >
+          <Filter role={role} setRole={setRole} showDropdown={showDropdown} setShowDropdown={setShowDropdown} showSidebar={showSidebar} setShowSidebar={setShowSidebar}  data={[]} pageName={"Filter"} />
+        </div>
+        <ul className="space-y-1.5 font-ubuntu text-base pt-3 pl-1.5">
+          {dirs.map((dir, index) => {
+            return (
+              <li key={index} className="capitalize font-normal text-gray-700 dark:text-gray-300">
+                {typeof dir == 'string' || dir.parents[0] == dir.dir ? (
+                  <Link to={"/" + (typeof dir == 'string' ? dir : dir.dir).replace(/(\w+)\((\w+)\)/g, "$1/$2")} className="flex items-center pl-4 text-[1rem] transition-transform duration-200 ease-in-out transform hover:translate-x-[5px]">
+                    {pageName === (typeof dir == 'string' ? dir : dir.dir) ?  (
+                      <i className="w-[0.435rem] h-[0.435rem] mr-2 rounded-full inline-block bg-indigo-500 -ml-4"></i>
+                    ) : null}
+                    <div className="flex w-full justify-between">
+                      <span>{(typeof dir == 'string' ? dir : dir.dir).replace(/\w+\((.*?)\)/g, "$1")}</span>
+                      {typeof dir != 'string' ? (
+                        <svg className={(((showDropdown == 'dropdown-' + index) || dir.parents.includes(pageName)) ? '' : '-rotate-90') + ' w-2.5 h-2.5 ml-2.5'} aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+                          <path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="m1 1 4 4 4-4"/>
+                        </svg>
+                      ): null}
+                    </div>
+                  </Link>
+                ) : (
+                  <button className="flex w-full items-center justify-between pl-4 text-[1rem]" onClick={() => setShowDropdown(showDropdown == ('dropdown-' + index) ? null : ('dropdown-' + index))}>
+                    <span>{dir.dir.replace(/\w+\((.*?)\)/g, "$1")}</span>
+                    <svg className={(((showDropdown == 'dropdown-' + index) || dir.parents.includes(pageName)) ? '' : '-rotate-90') + ' w-2.5 h-2.5 ml-2.5'} aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+                      <path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="m1 1 4 4 4-4"/>
+                    </svg>
+                  </button>
+                )}
+                {typeof dir != 'string' ? (
+                  <ul className={`space-y-1 ml-2 mt-2 animate__animated animate_faster ${((showDropdown == 'dropdown-' + index) || dir.parents.includes(pageName)) ? 'animate__fadeIn' : 'hidden'}`} >
+                    {dir.parents.map((parent, index) => {
+                      if(parent == dir.dir) return null;
+                      return (
+                        <li key={index} className="capitalize font-normal text-gray-700 dark:text-slate-300 transition-transform duration-200 ease-in-out transform hover:translate-x-[5px]">
+                          <Link to={"/" + parent.replace(/(\w+)\((\w+)\)/g, "$1/$2")} className="flex items-center pl-4 text-[1rem]">
+                            {pageName === parent?  (
+                              <i className="w-[0.435rem] h-[0.435rem] mr-4 rounded-full inline-block bg-indigo-500 -ml-6"></i>
+                            ) : null}
+                            <span>{parent.replace(/\w+\((.*?)\)/g, "$1")}</span>
+                          </Link>
+                        </li>
+                      )
+                    })}
+                  </ul>
+                ): null}
               </li>
-              {dirs.map((dir, index) => {
-              const dropdownId = `dropdown-${index}`;
-                return (
-                  <li key={index} className="capitalize font-normal text-gray-700 dark:text-slate-300 transition-transform duration-200 ease-in-out transform hover:translate-x-[5px]">
-                    { typeof dir == 'string' ? (
-                      <Link to={"/" + dir.replace(/(\w+)\((\w+)\)/g, "$1/$2")} className="flex items-center pl-4 text-[1rem]">{pageName === dir ?  (
-                        <i className="w-2 h-2 mr-2 rounded-full inline-block bg-indigo-500 -ml-4"></i>
-                      ) : (
-                        <></>
-                      )}<span>{dir.replace(/\w+\((.*?)\)/g, "$1")}</span></Link>
-                    ) : (
-                      <>
-                        <button
-                          type="button"
-                          className={`ml-0.5 flex items-center w-full py-1.5 px-3 text-base transition duration-75 rounded-lg group hover:bg-gray-100 dark:text-white dark:hover:bg-gray-700 ${showDropdown === dropdownId ? "bg-gray-200 dark:bg-gray-600" : ""}`}
-                          onClick={() => setShowDropdown(dropdownId == showDropdown ? '' : dropdownId)}
-                          >
-                          <span className="flex-1 text-left whitespace-nowrap capitalize text-[1rem]">{dir.dir}</span>
-                          <svg className="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
-                            <path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="m1 1 4 4 4-4"/>
-                          </svg>
-                        </button>
-                        <ul id={dropdownId} className={((showDropdown === dropdownId || pageName.startsWith(dir.dir)) ? "" : "hidden") + " py-2 space-y-2 ml-4 text-[1rem]"}>
-                          {dir.parents.map((_dir, index) => (
-                            <li key={dir.dir + index}>
-                              <Link to={"/" + _dir.replace(/(\w+)\((\w+)\)/g, "$1/$2")} className="flex items-center pl-4">
-                                {pageName == _dir ? (
-                                  <i className="w-2 h-2 mr-2 rounded-full inline-block bg-indigo-500 -ml-4"></i>
-                                ) : (
-                                  <></>
-                                )}<span>{_dir.replace(/\w+\((.*?)\)/g, "$1")}</span></Link>
-                            </li>
-                          ))}
-                        </ul>
-                      </>
-                    )}
-                  </li>
-                  )
-                })}
-            </ul>
+              )
+            })}
+          </ul>
         </div>
       </aside>
     </>
-
   );
 }
 
