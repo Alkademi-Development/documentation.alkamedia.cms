@@ -24,4 +24,4 @@ Fitur "Download Peserta" adalah alat yang berguna untuk mengakses dan menyimpan 
 4. **Pilih Format CSV**: Biasanya, Anda akan diberikan opsi untuk memilih format file yang ingin Anda unduh. Pastikan untuk memilih format CSV  jika Anda ingin menyimpan data nilai dalam file tersebut.
 5. **Simpan File**: Setelah memilih format CSV, Anda akan diminta untuk menentukan lokasi penyimpanan file di perangkat Anda. Pilih lokasi yang sesuai dan klik "Simpan" untuk menyimpan file CSV.
 
-Dengan mengikuti langkah-langkah ini, Anda dapat dengan mudah menggunakan fitur "Download Peserta" untuk mengakses dan menyimpan data nilai peserta dalam format CSV. File ini dapat berguna untuk analisis lebih lanjut atau pelaporan terkait kelas atau program yang Anda kelola.
+Dengan mengikuti langkah-langkah ini, Anda dapat dengan mudah menggunakan fitur "Download Peserta" untuk mengakses dan menyimpan data nilai peserta dalam format CSV.
