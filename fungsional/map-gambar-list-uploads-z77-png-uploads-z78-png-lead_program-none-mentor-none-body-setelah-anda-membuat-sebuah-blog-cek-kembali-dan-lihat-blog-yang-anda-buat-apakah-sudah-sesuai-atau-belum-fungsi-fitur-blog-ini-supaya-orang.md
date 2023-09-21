@@ -1,6 +1,6 @@
 ---
 menu: Blog
-fungsional: read blog.
+fungsional: Read Blog
 gambar:
   - uploads/z77.png
   - uploads/z78.png
@@ -16,6 +16,6 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-setelah anda membuat sebuah blog,cek kembali dan lihat blog yang anda buat,apakah sudah sesuai atau belum,fungsi fitur blog ini,supaya orang orang tau bahwa apa saja sih kegiatan ter update yang di alkademi itu.
+Setelah anda membuat sebuah blog,cek kembali dan lihat blog yang anda buat,apakah sudah sesuai atau belum, fungsi fitur blog ini,supaya orang orang tau bahwa apa saja sih kegiatan ter update yang di alkademi itu.
 
-untuk mengetahui blog di situs alkademi,anda kunjungi saja situs alkademi dan pilih berita,disanah kami sudah menyediakan fitur-fitur blog yang sudah di buat oleh orang orang di alkademi
+untuk mengetahui blog di situs alkademi, anda kunjungi saja situs alkademi dan pilih berita,disanah kami sudah menyediakan fitur-fitur blog yang sudah dibuat oleh orang orang di alkademi
