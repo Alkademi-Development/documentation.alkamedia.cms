@@ -1,6 +1,6 @@
 ---
 menu: Classroom(Statistik)
-fungsional: participant submission rate
+fungsional: Participant Submission Rate
 gambar:
   - uploads/gantilagi.png
   - uploads/subratecrop.png
