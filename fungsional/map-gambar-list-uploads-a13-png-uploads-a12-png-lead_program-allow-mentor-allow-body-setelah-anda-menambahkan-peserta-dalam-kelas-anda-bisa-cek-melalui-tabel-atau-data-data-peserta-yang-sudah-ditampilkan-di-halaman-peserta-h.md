@@ -16,12 +16,11 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-setelah anda menambahkan peserta dalam kelas,anda bisa cek melalui tabel atau data data peserta yang sudah ditampilkan di halaman peserta,hal ini memudahkan anda jika peserta sudah ikut kelas.
+Untuk melihat data peserta yang sudah bergabung dengan kelas atau program tertentu. Berikut adalah cara mengakses data peserta:
 
-caranya mengakses bagian data data peserta dengan berikut
+1. **Masuk ke Akun Admin**: Pertama-tama, login ke akun admin Anda.
+2. **Pilih Kelas**: Setelah masuk, pilih kelas atau program yang ingin Anda lihat data pesertanya.
+3. **Menu Peserta**: Di dalam halaman kelas atau program tersebut, cari dan klik menu "Peserta" atau opsi serupa yang mengarahkan Anda ke daftar peserta yang sudah bergabung.
+4. **Lihat Data Peserta**: Anda akan melihat daftar peserta yang sudah bergabung dengan kelas atau program tersebut. Data peserta biasanya mencakup informasi seperti nama, alamat email, tanggal bergabung, dan informasi relevan lainnya.
 
-* login akun admin
-* lalu pilih kelas yang ingin dituju
-* setelah meng klik kelas, pilih menu (peserta)
-
-maka dari itu akan muncullah data data peserta yang sudah/ingin mengikuti kelas.
+Dengan menggunakan fitur "Lihat Peserta," Anda dapat dengan mudah mengakses dan memeriksa data peserta yang sudah atau ingin mengikuti kelas atau program Anda. Ini berguna untuk melacak peserta yang sudah terdaftar dan memantau perkembangan mereka dalam program tersebut.
