@@ -2,8 +2,9 @@
 menu: Classroom(Statistik)
 fungsional: participant submission rate
 gambar:
-  - uploads/..png
-  - uploads/.2.png
+  - uploads/gantilagi.png
+  - uploads/subratecrop.png
+  - uploads/submobmobwowww.png
 super_admin: Allow
 admin: Allow
 mentor: Allow
@@ -16,4 +17,4 @@ industri: Pending
 student: Allow
 support_mobile: Yes
 ---
-grafik ini melaporkan jumlah tugas yang mengerjakan dan tidak mengerjakan.anda dapat mengetahui bahwa yang mengerjakan tugas itu yang berwarna biru dan yang tidak mengerjakan tugas berwarna hijau.grafik ini sengaja d adakan karna dapat mempermudah anda untuk mengetahui seberapa kegiatan yang di kerjakan.
+Grafik "Participant Submission Rate" melaporkan jumlah tugas yang telah dikerjakan dan yang belum dikerjakan oleh peserta. Tugas yang telah dikerjakan ditandai dengan warna biru, sedangkan yang belum dikerjakan ditandai dengan warna hijau. Grafik ini membantu Anda dengan cepat menilai sejauh mana peserta telah menyelesaikan tugas-tugas yang diberikan. Ini adalah alat yang berguna untuk memantau tingkat partisipasi dan kinerja peserta dalam kelas.
