@@ -16,9 +16,13 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-f﻿itur ini untuk menghapus kelas yang sudah tidak terpakai atau kelas yang memang ingin di hapus\
-u﻿ntuk menemui fitur ini, anda cukup pergi ke bagian kelas dan pilih kelas yang ingin anda hapus.\
--﻿klik titik 3 dibagian pojok kanan atas pada kelas \
--﻿setelah di klik, pilih klik icon tong sampah atau "delete"\
--﻿lalu pilih "ya"\
-i﻿tu cara menghapus kelas yang sudah di buat,setelah itu alangkah baik nya anda engecek apakah sudah berhasil di hapus.dan pastikan seharus nya sudah terhapus.
+#### **M﻿enghapus Kelas**
+
+1. **Akses Menu Kelas:** Pertama, setelah login dan membuka, cari dan klik opsi "Kelas" di menu navigasi. Ini akan membawa Anda ke halaman yang menampilkan daftar kelas yang sudah Anda buat.
+2. **Pilih Kelas yang Akan Dihapus:** Temukan dan pilih kelas yang ingin Anda hapus. Klik pada nama kelas tersebut.
+3. **Pilih Menu Opsi:** Di halaman detail kelas, Anda akan melihat ikon titik tiga. di pojok kanan atas. Klik ikon ini untuk membuka menu opsi.
+4. **Klik Delete:** Dalam menu opsi, akan ada opsi "Delete" atau "Hapus." Klik opsi ini untuk memulai proses penghapusan kelas.
+5. **Konfirmasi Penghapusan:** Akan muncul notifikasi atau konfirmasi yang meminta Anda untuk memastikan bahwa Anda benar-benar ingin menghapus kelas ini. Klik  "Ya" untuk mengkonfirmasi penghapusan.
+6. **Cek Penghapusan:** Setelah mengkonfirmasi penghapusan, pastikan untuk memeriksa bahwa kelas tersebut telah dihapus dengan sukses. Itu seharusnya sudah tidak muncul di daftar kelas.
+
+Dengan mengikuti langkah-langkah di atas, Anda dapat dengan mudah menghapus kelas yang tidak terpakai atau yang ingin dihapus. Pastikan Anda yakin untuk menghapusnya karena tindakan ini bersifat permanen. Semoga panduan ini membantu!
