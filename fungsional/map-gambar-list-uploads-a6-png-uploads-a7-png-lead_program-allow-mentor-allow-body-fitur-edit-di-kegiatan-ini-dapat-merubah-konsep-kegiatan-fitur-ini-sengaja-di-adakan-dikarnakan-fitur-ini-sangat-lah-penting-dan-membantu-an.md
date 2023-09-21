@@ -1,6 +1,6 @@
 ---
 menu: Classroom(Kegiatan)
-fungsional: edit kegiatan
+fungsional: Edit Activity
 gambar:
   - uploads/a6.png
   - uploads/a7.png
@@ -16,13 +16,15 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-fitur edit di kegiatan ini,dapat merubah konsep kegiatan,fitur ini sengaja di adakan, dikarnakan fitur ini sangat lah penting,dan membantu anda untuk mengubah data dalam kegiatan yang anda buat.
+#### **Mengedit Kegiatan:**
 
-langkah untuk menge edit kegiatan sebagai berikut
+Fitur edit kegiatan memungkinkan Anda untuk memperbarui atau mengubah detail kegiatan yang sudah ada. Berikut adalah langkah-langkah untuk mengedit kegiatan:
 
-* pertama pilih kelas yang sudah ada kegiatan yang anda buat.
-* pilih ke menu kegiatan
-*  pilih kegiatan yang ingin anda edit.
-* klik bagian logo pensil di pojok kanan kegiatan yang ingin diubah.
-* lalu anda akan di arahkan kebagian tampilan edit kegitan.
-* setelah menurut anda sudah sesuai mengubah data data dalam kolom kolom nya, anda klik submit dan lihat hasilnya.
+1. **Akses Kelas**: Pertama-tama, pilih kelas yang sudah memiliki kegiatan yang ingin Anda edit.
+2. **Menu Kegiatan**: Di dalam kelas, navigasikan ke menu "Kegiatan" atau opsi serupa yang akan membawa Anda ke daftar kegiatan yang ada.
+3. **Pilih Kegiatan**: Dalam daftar kegiatan, temukan kegiatan yang ingin Anda edit, lalu klik pada judul kegiatan tersebut.
+4. **Masuk ke Mode Edit**: Di halaman detail kegiatan, cari ikon pensil atau simbol yang menunjukkan mode edit, biasanya berada di pojok kanan atas atau bagian atas halaman. Klik ikon ini untuk memulai proses edit.
+5. **Edit Informasi**: Setelah masuk ke mode edit, Anda dapat mengubah informasi kegiatan yang diperlukan. Ini termasuk judul, deskripsi, tanggal, waktu, dan detail lainnya.
+6. **Simpan Perubahan**: Setelah Anda puas dengan perubahan yang Anda buat, pastikan untuk menyimpan perubahan dengan mengklik tombol "Submit" atau "Simpan."
+
+Dengan mengikuti langkah-langkah di atas, Anda dapat dengan mudah mengedit kegiatan yang sudah ada dalam kelas Anda. Pastikan untuk memeriksa dan memastikan bahwa informasi yang Anda ubah sesuai dengan kebutuhan Anda sebelum menyimpannya.
