@@ -20,7 +20,7 @@ Fitur "Download Peserta" adalah alat yang berguna untuk mengakses dan menyimpan 
 
 1. **Buka Kelas**: Pertama-tama, masuk ke kelas atau program yang Anda kelola.
 2. **Menu Peserta**: Cari menu atau tab yang mengarahkan Anda ke daftar peserta yang mengikuti kelas tersebut.
-3. **Unduh Data**: Setelah memilih peserta atau data yang diinginkan, cari tombol atau opsi yang mengatakan "Unduh" atau "Download." Klik tombol ini untuk memulai proses pengunduhan.
+3. **Unduh Data**: Setelah memilih peserta atau data yang diinginkan, cari tombol atau opsi yang mengatakan "Unduh" atau "Download". Klik tombol ini untuk memulai proses pengunduhan.
 4. **Pilih Format CSV**: Biasanya, Anda akan diberikan opsi untuk memilih format file yang ingin Anda unduh. Pastikan untuk memilih format CSV  jika Anda ingin menyimpan data nilai dalam file tersebut.
 5. **Simpan File**: Setelah memilih format CSV, Anda akan diminta untuk menentukan lokasi penyimpanan file di perangkat Anda. Pilih lokasi yang sesuai dan klik "Simpan" untuk menyimpan file CSV.
 
