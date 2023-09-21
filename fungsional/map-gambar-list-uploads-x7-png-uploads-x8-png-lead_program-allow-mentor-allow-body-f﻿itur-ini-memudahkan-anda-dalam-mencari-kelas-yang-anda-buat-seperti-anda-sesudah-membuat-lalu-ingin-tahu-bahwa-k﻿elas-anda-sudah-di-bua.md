@@ -2,8 +2,8 @@
 menu: Classroom
 fungsional: Search Class
 gambar:
-  - uploads/x7.png
-  - uploads/x8.png
+  - uploads/esemkasearchdeks.png
+  - uploads/esemkasearch.png
 super_admin: Allow
 admin: Allow
 mentor: Allow
@@ -16,10 +16,15 @@ industri: Pending
 student: Allow
 support_mobile: Yes
 ---
-f﻿itur ini memudahkan anda dalam mencari kelas yang anda buat.seperti anda sesudah membuat lalu ingin tahu bahwa k﻿elas anda sudah di buat, lalu aplikasi ini akan mengarahkan ke bagian tabel atau k﻿elas-k﻿elas yang sudah dibuat.pasti anda akan bingung untuk mencari satu persatu,maka dari itu alkademi menyediakan fitur pencarian.\
-\
-Jika Anda perlu mencari k﻿elas tertentu dalam sistem, ikuti langkah-langkah berikut:\
--﻿pilih menu kelas \
--﻿lalu klik menu pencarian\
--﻿masukan alamat kelas yang ingin dicari\
--﻿lalu klik icon pencarian di sebelah kiri yang anda ketik
+#### Mencari Kelas
+
+Jika Anda perlu mencari kelas tertentu dalam sistem Alkademi, Anda dapat menggunakan fitur pencarian. Berikut adalah langkah-langkah untuk melakukan pencarian kelas:
+
+1. **Akses Menu Kelas:** Pertama-tama, setelah login, klik menu "Kelas" di menu navigasi. Ini akan membawa Anda ke halaman yang menampilkan daftar kelas yang tersedia.
+2. **Pilih Menu Pencarian:** Di halaman kelas, Anda akan melihat opsi pencarian, biasanya dalam bentuk ikon kaca pembesar atau kotak pencarian. Klik ikon ini untuk membuka kotak pencarian.
+3. **Masukkan Nama Kelas:** Di dalam kotak pencarian, masukkan nama atau kata kunci dari kelas yang ingin Anda cari.
+4. **Mulai Pencarian:** Setelah Anda memasukkan kata kunci pencarian, tekan tombol "Enter" pada keyboard Anda atau klik ikon pencarian (biasanya berbentuk kaca pembesar) di sebelah kotak pencarian.
+5. **Lihat Hasil Pencarian:** Alkademi akan menampilkan hasil pencarian yang sesuai dengan kata kunci yang Anda masukkan. Anda akan melihat daftar kelas yang cocok dengan kriteria pencarian Anda.
+6. **Klik Kelas yang Dicari:** Jika hasil pencarian menghasilkan kelas yang Anda cari, cukup klik nama kelas tersebut untuk masuk ke halaman detail kelas.
+
+Dengan mengikuti langkah-langkah ini, Anda dapat dengan mudah mencari kelas tertentu di Alkademi menggunakan fitur pencarian. Pastikan untuk memasukkan kata kunci yang relevan untuk mendapatkan hasil pencarian yang lebih akurat.
