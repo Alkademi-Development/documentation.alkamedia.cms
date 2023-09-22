@@ -1,6 +1,6 @@
 ---
 menu: Event(Program)
-fungsional: edit a program.
+fungsional: Edit a Program
 gambar:
   - uploads/z64.png
   - uploads/z65.png
@@ -17,14 +17,15 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-fitur ini bisa anda pakai jika program yang anda buat itu ada kesalahan atau emang mau menambahkan sesuatu didalam program yang anda buat.fitur ini memang selalu di adakan karna fitur edit ini sangat penting.
+**Mengedit Program**
 
-langkah pertama jika ingin melakukan peng editan adalah.
+Tidak hanya membuat program, Anda juga dapat mengedit program yang mungkin memerlukan perbaikan atau pembaruan. Berikut adalah langkah-langkah umum untuk mengedit program:
 
-* \- pertama anda login akun admin.
-* \-lalu klik menu event.
-* \-setelah di klik menu event,akan ada 2 pilihan,pilih saja program dan klik
-* \-pilih program yang ingin di edit.
-* \-klik edet yang berlogokan pencil.
+1. **Akses Menu Event:** Setelah login, buka menu "Event."
+2. **Pilih Menu "Program":** Di menu "Event," Anda akan menemukan berbagai pilihan. Pilih menu "Program.
+3. **Temukan Program:** Cari program yang ingin Anda edit dari daftar program yang tersedia.
+4. **Edit Detail Program:** Klik program  tombol/ikon "Edit" yang terkait dengan program tersebut. Ini akan membawa Anda ke halaman di mana Anda dapat mengubah detail program.
+5. **Lakukan Perubahan:** Perbarui detail program sesuai kebutuhan. Anda dapat mengubah deskripsi program, jadwal, konten, sumber daya, dan informasi relevan lainnya.
+6. **Simpan Perubahan:** Setelah Anda melakukan perubahan yang diperlukan, pastikan untuk menyimpan perubahan tersebut. Ini bisa dilakukan dengan mengklik tombol "Simpan" 
 
-nah disitulah anda akan di arahkan ke bagian tampilan pengeditan.
+Dengan mengikuti langkah-langkah ini, Anda dapat mengedit program-program Anda sesuai kebutuhan dan memastikan bahwa mereka tetap relevan dan informatif bagi pengguna.
