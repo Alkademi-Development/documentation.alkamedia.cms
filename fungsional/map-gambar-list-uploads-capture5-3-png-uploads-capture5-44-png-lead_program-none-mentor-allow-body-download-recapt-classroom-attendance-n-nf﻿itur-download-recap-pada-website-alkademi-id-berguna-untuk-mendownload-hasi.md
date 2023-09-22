@@ -16,16 +16,14 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### Download Recapt Classroom(Attendance)
+#### **Download Rekap Absensi Kelas**
 
-F﻿itur Download Recap pada Website alkademi.id berguna untuk mendownload hasil rekap absensi peserta didik. d﻿engan adanya fitur ini bisa mempermudah pendidik bila mana suatu saat memerlukan data absensi peserta didik.
+Fitur Download Rekap sangat berguna untuk mendownload hasil rekapitulasi kehadiran peserta didik. Berikut adalah langkah-langkah untuk mendownload rekapitulasi absensi:
 
-U﻿ntuk mendowmload rekap absensi anda bisa mengikuti  langkah-langkah sebagai berikut:
+1. **Akses Menu Kelas:** Setelah login dan membuka aplikasi, cari dan klik opsi **"KELAS"** di menu navigasi.
+2. **Pilih Kelas:** Pada halaman kelas, pilih kelas di mana Anda ingin mendownload rekapitulasi absensi.
+3. **Download Rekap:** Setelah memilih kelas, cari tombol **"Rekap Absensi"** dan klik. Ini akan membawa Anda ke halaman rekapitulasi absensi.
+4. **Klik Tombol "Download":** Di halaman rekapitulasi absensi, cari tombol atau opsi **"Download"** dan klik. File rekap absensi akan mulai diunduh ke perangkat Anda.
+5. **Selesai:** Setelah proses unduhan selesai, Anda akan memiliki file rekap absensi di perangkat Anda yang dapat Anda gunakan sesuai kebutuhan.
 
-**1.﻿ Klik Menu Kelas :** Setelah login dan membuka aplikasi , cari dan klik opsi "KELAS"* di menu navigasi.
-
-**2﻿. Pilih Kelas :** Setelah masuk silahkan pilih kelas yang akan anda lakukan download pada bagian Rekap absensi.
-
-**3﻿. Download Rekap :** Setelah masuk pada kelas lalu anda klik "Rekap  Absensi" dan klik  tombol "Download" untuk mendownload rekap absensi tersebut.
-
-**4﻿. selesai :** Selamat anda berhasil malakukan download pada rekap absensi.
+Dengan mengikuti langkah-langkah di atas, Anda dapat dengan mudah mendownload rekapitulasi absensi peserta didik dalam kelas Anda. Fitur ini sangat berguna untuk memantau dan mencatat kehadiran peserta didik secara efisien.
