@@ -34,6 +34,6 @@ B﻿erikut langkah langkah melakukan Checkin absensi :
 
 **6﻿. ambil gambar :** Setelah masuk otorisasikan akses kamera, lalu klik "ambil gambar" lalu klik "Lanjutkan"
 
-**7﻿. Tanda Tangan :** Setelah mengambil gambar anda akan di minta untuk membuat Tanda Tangan, lalu klik lanjutkan
+**7﻿. Tanda Tangan :** Setelah mengambil gambar anda akan di minta untuk membuat Tanda Tangan, lalu klik lanjutkan.
 
 **8﻿. Lokasi :** Setelah itu Klik "Dapatkan Lokasi" dan klik lanjutkan.
