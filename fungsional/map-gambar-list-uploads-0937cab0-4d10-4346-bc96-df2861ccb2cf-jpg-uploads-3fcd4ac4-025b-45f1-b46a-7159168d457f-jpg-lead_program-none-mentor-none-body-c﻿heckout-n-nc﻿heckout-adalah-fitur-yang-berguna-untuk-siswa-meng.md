@@ -24,7 +24,7 @@ B﻿erikut langkah langkah melakukan C﻿heckout absensi :
 
 **1﻿. Masuk ke ke akun Admin.**
 
-**2﻿. Masuk ke halaman utam**
+**2﻿. Masuk ke halaman utam.**
 
 **3﻿. Masuk ke menu jadwal :** setelah masuk ke halaman utama lalu anda klik menu jadwal keegiatan.
 
