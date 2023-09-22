@@ -16,14 +16,14 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-Disini anda bisa membuat blog atau berita terbaru dari informasi mengenai kegiatan Alkademi. fitur ini berfungsi untuk orang lain agar tertarik dalam membaca berita kegiatan yang ada di alkademi.
+Di sini, Anda memiliki kesempatan untuk membuat blog atau berita terbaru yang berisi informasi terkini seputar kegiatan yang sedang berlangsung. Fitur ini bertujuan untuk memotivasi pengguna lain agar tertarik dan merasa terlibat dalam membaca berita serta mengikuti perkembangan terbaru.
 
-cara membuat blog tersebut adalah.
+**Cara Membuat Blog:**
 
-* login admin alkademi
-* lalu pilih menu blog
-* klik tombol (+blog) di pojok kanan atas
-* setelah itu anda akan di arahkan ke tampilan (membuat blog)
-* masukan data data yang ingin di buat semacam judul,Rangkuman,foto ,dan artikel.
-* klik submit jika sudah sesuai.
-* lalu cek di tombol lihat blog
+1. **Pilih Menu "Blog":** Setelah berhasil masuk, temukan dan klik menu "Blog" yang terdapat di dashboard atau menu navigasi sidebar.
+2. **Klik Tombol (+Blog):** Di dalam menu "Blog," carilah tombol "Tambah Blog" yang umumnya terletak di pojok kanan atas halaman. Klik tombol ini untuk memulai proses pembuatan blog baru.
+3. **Isi Informasi Blog:** Anda akan diarahkan ke tampilan pembuatan blog. Di sini, Anda dapat mengisi berbagai informasi, termasuk judul blog, rangkuman, mengunggah foto yang relevan, dan menulis artikel blog sesuai dengan topik yang Anda inginkan.
+4. **Klik "Submit":** Setelah Anda telah memastikan bahwa semua data telah terisi dengan benar dan sesuai, klik tombol "Submit" untuk menyimpan dan menerbitkan blog yang Anda buat.
+5. **Lihat Blog:** Untuk memeriksa blog yang telah Anda buat dan dipublikasikan, Anda dapat dengan mudah menavigasi ke bagian "Lihat Blog" atau menggunakan tombol serupa yang tersedia di dashboard atau menu navigasi.
+
+Dengan mengikuti langkah-langkah di atas, Anda dapat membuat blog atau berita terbaru tentang kegiatan dan membagikannya dengan pengguna lain yang tertarik untuk membaca serta mengikuti perkembangan terkini.
