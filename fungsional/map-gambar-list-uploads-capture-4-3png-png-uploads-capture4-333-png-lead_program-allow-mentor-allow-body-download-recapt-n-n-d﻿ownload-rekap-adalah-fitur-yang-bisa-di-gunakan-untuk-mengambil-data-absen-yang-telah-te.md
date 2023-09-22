@@ -1,6 +1,6 @@
 ---
 menu: Schedule(Attendance)
-fungsional: Download Recapt
+fungsional: Download Recapt Schedule(Attendance)
 gambar:
   - uploads/capture.4.3png.png
   - uploads/capture4.333.png
@@ -30,8 +30,8 @@ B﻿erikut langkah-langkah untuk mendownload rekap absen :
 
 4﻿. Temukan aktivitas : Setelah masuk pada menu jadwal kegiatan, lalu klik  aktivitas, dan klik judul kegiatan pada modal.
 
-5﻿. Lihat rekap : Setelah masuk lalu klik tombol "Rekap Absen"
+5﻿. Lihat rekap : Setelah masuk lalu klik tombol "Rekap Absen".
 
-6﻿. Download rekap : Setelah masuk pada menu rekap lalu klik tombol "Download" untuk mendownload rekap  absen
+6﻿. Download rekap : Setelah masuk pada menu rekap lalu klik tombol "Download" untuk mendownload rekap  absen.
 
-6﻿. Selesai : Anda berhsil  mendownload rekap  absen
+6﻿. Selesai : Anda berhsil  mendownload rekap  absen.
