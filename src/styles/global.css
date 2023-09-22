@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -10,6 +11,11 @@
 ::-webkit-scrollbar-thumb {
   @apply bg-indigo-700 rounded-lg border border-solid border-gray-500 dark:border-gray-900 
 }
+
+.font-ubuntu{
+  font-family: 'Ubuntu', sans-serif;
+}
+
 /* Scrollbar Animation */
 @keyframes scroll-pulse {
   0% {
