@@ -1,6 +1,6 @@
 ---
 menu: Event(Program)
-fungsional: read program.
+fungsional: Read Program
 gambar:
   - uploads/z63.png
   - uploads/z62.png
@@ -16,10 +16,11 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-sedahnya membuat sebuah program, alangkah baiknya anda melakukan pengecekan terlebih dahulu.apakah sudah sesuai dengan hapan yang anda minta atau belum.
+**Mengelola Program**
 
-fitur program ini dapat membantu orang untuk mencarikan lowongan lowongan pekerjaan terbaru.
+Setelah Anda selesai membuat program, penting untuk melakukan pengecekan terlebih dahulu apakah program tersebut sesuai dengan harapan Anda. Program ini dapat membantu orang untuk mencari lowongan pekerjaan terbaru. Berikut adalah cara melihat program yang telah Anda buat sebelumnya:
 
-cara melihat program yang anda buat sebekum nya adalah.
+1. **Buka Menu "Program":**  Anda akan menemukan berbagai menu. Cari dan klik menu "Program."
+2. **Lihat Program Anda:** Di dalam menu "Program," Anda akan melihat daftar program yang telah Anda buat sebelumnya. Cukup pilih program yang ingin Anda tinjau atau kelola.
 
-* \-dibagian home alkademi anda cukup klik program dan lihat program yang anda buat.
+Dengan mengikuti langkah-langkah ini, Anda dapat dengan mudah melihat program-program yang telah Anda buat sebelumnya dan memastikan bahwa mereka sesuai dengan harapan Anda. Hal ini dapat membantu Anda dalam mengelola dan menyediakan program-program berkualitas kepada orang lain.
