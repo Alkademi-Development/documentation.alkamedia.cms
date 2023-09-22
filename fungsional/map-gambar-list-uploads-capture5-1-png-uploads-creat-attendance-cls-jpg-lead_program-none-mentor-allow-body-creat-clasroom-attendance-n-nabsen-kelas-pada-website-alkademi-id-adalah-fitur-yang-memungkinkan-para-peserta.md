@@ -1,6 +1,6 @@
 ---
 menu: Classroom(Attendance)
-fungsional: Creat Clasroom (Attendance)
+fungsional: Create Clasroom (Attendance)
 gambar:
   - uploads/capture5.1.png
   - uploads/creat-attendance-cls.jpg
@@ -16,24 +16,21 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### Creat Clasroom (Attendance)
+#### **Membuat Absensi Kelas**
 
-Absen kelas pada website Alkademi.id adalah fitur yang memungkinkan para peserta didik untuk melakukan pencatatan kehadiran secara online. Melalui sistem ini, peserta didik dapat dengan mudah mengisi absensi setiap kali mereka mengikuti kelas di platform Alkademi.id.
+Absensi kelas adalah fitur yang memungkinkan para peserta didik untuk mencatat kehadiran secara online. Dengan sistem ini, peserta didik dapat dengan mudah mengisi absensi setiap kali mereka menghadiri kelas.
 
-Fitur absen kelas yang disediakan oleh Alkademi.id sangat efisien dan praktis. Peserta didik hanya perlu masuk ke akun mereka, kemudian memilih kelas yang sesuai dan mengisi form absensi yang telah disediakan. Form absensi ini biasanya mencakup informasi seperti nama peserta didik, jam kehadiran, materi yang dibahas, dan tanda tangan elektronik sebagai bukti kehadiran.
+Fitur absensi kelas yang disediakan sangat efisien dan praktis. Peserta didik hanya perlu masuk ke akun mereka, memilih kelas yang sesuai, dan mengisi formulir absensi yang telah disediakan. Formulir absensi ini biasanya mencakup informasi seperti nama peserta didik, waktu kehadiran, materi yang dibahas, dan tanda tangan elektronik sebagai bukti kehadiran.
 
-Untuk membuat absen pada kelas , ikuti langkah-langkah di bawah ini:
+Berikut adalah langkah-langkah untuk membuat absensi kelas:
 
-**1.﻿ Klik Menu Kelas :** Setelah login dan membuka aplikasi , cari dan klik opsi **"KELAS"** di menu navigasi.
+1. **Akses Menu Kelas:** Setelah login dan membuka aplikasi, cari dan klik opsi **"KELAS"** di menu navigasi.
+2. **Pilih Kelas:** Setelah masuk, pilih kelas tempat Anda ingin membuat absensi, dan klik pada kelas yang ingin Anda pilih.
+3. **Buat Absensi:** Setelah masuk ke dalam kelas yang telah Anda pilih, klik tombol "**Buat Absensi**."
+4. **Isi Formulir Absensi:** Setelah Anda masuk ke dalam halaman pembuatan absensi, isi formulir absensi yang mencakup:
 
-**2﻿. Pilih Kelas :** Setelah masuk silahkan pilih kalas yang akan di buatkan absen, dan klik pada kelas yang akan di pilih.
+   *  Waktu Absensi
+   * Aktifkan Absensi Pada Hari
+5. **Klik Simpan:** Setelah mengisi formulir dengan benar, klik **"Simpan"** untuk menyimpan absensi yang telah Anda buat.
 
-**3﻿. Buat Absen :** Setelah masuk pada kelas yang telah di pilih lalu klik tombol "**Buat Absen".**
-
-**4﻿. Isi Form Absensi :** Setelah masuk silahkan isi Form Absen yang terdiri dari :
-
-   a. Waktu Absen
-
-   b. Aktifkan Absen Pada Hari   
-
-**5﻿. Klik Simpan :** Setalah Form ter isi Klik **"Simpan'** untuk menyimpan absen yang telah di buat.
+Dengan mengikuti langkah-langkah ini, Anda dapat membuat absensi kelas dengan mudah dan efisien. Peserta didik dapat dengan cepat mengisi kehadiran mereka dan menjadikannya sebagai bukti kehadiran yang sah.
