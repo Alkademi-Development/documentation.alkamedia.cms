@@ -16,20 +16,15 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### Edit Classroom (Attendance)
+#### **Mengedit Absensi Kelas**
 
-T﻿idak hanya membuat saja,selain itu anda juga bisa mengedit A﻿bsen Kelas yang menurut anda ada kesalahan.
+Selain membuat absensi kelas, Anda juga dapat mengeditnya jika terdapat kesalahan atau perubahan yang diperlukan. Berikut adalah langkah-langkah untuk mengedit absensi kelas:
 
-U﻿ntuk mengedit abesn kelas, ikuti langkah-langkah sebagai berikut :
+1. **Akses Menu Kelas:** Setelah login dan membuka aplikasi, cari dan klik opsi **"KELAS"** di menu navigasi.
+2. **Pilih Kelas:** Setelah masuk, pilih kelas di mana Anda ingin melakukan pengeditan pada absensi.
+3. **Klik Rekap Absensi:** Di dalam kelas, temukan opsi **"Rekap Absensi"** dan klik.
+4. **Klik "EDIT ABSENSI":** Setelah masuk ke halaman rekap absensi, cari tombol **"EDIT ABSENSI"** dan klik untuk mulai mengedit absensi.
+5. **Edit Absensi:** Di halaman edit absensi, lakukan perubahan yang diperlukan pada absensi sesuai dengan kesalahan atau perubahan yang Anda inginkan.
+6. **Klik Simpan:** Setelah Anda selesai melakukan pengeditan, pastikan untuk mengklik tombol **"Simpan"** untuk menyimpan perubahan yang telah Anda buat.
 
-**1.﻿ Klik Menu Kelas :** Setelah login dan membuka aplikasi , cari dan klik opsi "KELAS"* di menu navigasi.
-
-**2﻿. Pilih Kelas :** Setelah masuk silahkan pilih kelas yang akan di lakukan pengeditan pada bagian absen.
-
-**3﻿. klik Rekap absen** 
-
-**4﻿. Klik EDIT ABSENSI :** Setelah masuk pada bagian Rekap Absensi lalu klik tombol "EDIT ABSENSI" untuk mengedit absensi.
-
-**5﻿. EDIT ABSENSI :** Setelah masuk pada form edit absensi silahkan anda lakukan pengeditan pada bagian yang ingin anda edit.
-
-**6﻿. Klik Simpan :** Setelah anda selesai melakukan pengeditan laliu klik tombol "Simpan".
+Dengan mengikuti langkah-langkah di atas, Anda dapat dengan mudah mengedit absensi kelas. jika ada kesalahan atau perubahan yang perlu dilakukan.
