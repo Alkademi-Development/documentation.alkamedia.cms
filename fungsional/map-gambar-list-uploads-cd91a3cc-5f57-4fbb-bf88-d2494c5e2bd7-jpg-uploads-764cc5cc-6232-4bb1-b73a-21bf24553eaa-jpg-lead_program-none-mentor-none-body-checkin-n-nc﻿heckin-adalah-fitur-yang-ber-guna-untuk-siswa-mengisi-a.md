@@ -32,7 +32,7 @@ B﻿erikut langkah langkah melakukan Checkin absensi :
 
 **5﻿. Klik Absen :** dengan anda menekan tombol Absen Anda akan di Arahkan ke halaman Pengisian absen.
 
-**6﻿. ambil gambar :** Setelah masuk otorisasikan akses kamera, lalu klik "ambil gambar" lalu klik "Lanjutkan"
+**6﻿. ambil gambar :** Setelah masuk otorisasikan akses kamera, lalu klik "ambil gambar" lalu klik "Lanjutkan".
 
 **7﻿. Tanda Tangan :** Setelah mengambil gambar anda akan di minta untuk membuat Tanda Tangan, lalu klik lanjutkan.
 
