@@ -1,6 +1,6 @@
 ---
 menu: Studio
-fungsional: "Delete a studio "
+fungsional: "Delete a Studio "
 gambar:
   - uploads/z30.png
 super_admin: Allow
@@ -15,11 +15,12 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-Dibagian ini akan menjelaskan fungsi fitur delete dalam studio.fitur ini digunakan untuk menghapus studio yang sudah tidak terpakai atau memang ingin menghapus sebuah studio,cara menggunakan fitur ini sangatlah mudah sekali, namun anda harus berhati hati jika ingin menghapus sebuah studio,dikarna data data yang ada di dalam nya akan ikut terhapus.
+Fungsi fitur penghapusan dalam studio adalah untuk menghapus studio yang sudah tidak terpakai atau jika Anda ingin menghapus sebuah studio. Berikut adalah langkah-langkah untuk menggunakan fitur ini dengan benar:
 
-caranya menghapusnya adalah.
+1. **Buka Bagian "Studio":** Pertama-tama, akses bagian "Studio".
+2. **Pilih Studio yang Ingin Dihapus:** Di dalam daftar studio, pilih studio yang ingin Anda hapus.
+3. **Klik Ikon Tong Sampah:** Temukan dan klik ikon tong sampah yang biasanya terletak di sebelah kanan atau sebagai simbol untuk menghapus studio yang terpilih.
+4. **Konfirmasi Penghapusan:** Setelah mengklik ikon tong sampah, sistem mungkin akan menampilkan notifikasi atau peringatan yang bertanya apakah Anda yakin ingin menghapus studio tersebut. Pastikan Anda telah memilih studio yang benar sebelum melanjutkan.
+5. **Klik "Ya" (Yes):** Jika Anda yakin ingin menghapus studio tersebut, klik "Ya" dalam notifikasi tersebut.
 
-* pertama pergi kebagian studio.
-* pilih studio yang ingin di hapus.
-* klik icon tong sampah yang ada di samping kanan studio yang ingin di hapus.
-* setelah ini akan ada notifikasi dan klik ya.
+Dengan mengikuti langkah-langkah di atas, Anda dapat menghapus studio yang tidak diperlukan atau sudah tidak terpakai. Pastikan untuk berhati-hati saat menghapus studio karena tindakan ini bersifat permanen dan tidak dapat dibatalkan, dan semua data yang terkait dengan studio tersebut akan dihapus.
