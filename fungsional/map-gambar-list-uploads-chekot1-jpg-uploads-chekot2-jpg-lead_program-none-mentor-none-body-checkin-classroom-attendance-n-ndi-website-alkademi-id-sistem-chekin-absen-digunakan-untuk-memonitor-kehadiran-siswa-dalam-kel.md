@@ -16,22 +16,19 @@ industri: Pending
 student: Allow
 support_mobile: Yes
 ---
-#### Checkin Classroom(Attendance)
+#### **Checkin Absensi dalam Kelas**
 
-Di website Alkademi.id, sistem Chekin Absen digunakan untuk memonitor kehadiran siswa dalam kelas. Fitur ini memungkinkan pengajar untuk mencatat kehadiran siswa dengan mudah dan efisien. 
+Sistem Checkin Absensi digunakan untuk memonitor kehadiran siswa dalam kelas. Fitur ini memungkinkan pengajar untuk mencatat kehadiran siswa dengan mudah dan efisien.
 
-Dalam sistem Chekin Absen, pengajar memiliki kemampuan untuk melihat laporan kehadiran siswa. Hal ini memungkinkan mereka untuk memantau kehadiran siswa secara berkala dan membuat langkah-langkah yang diperlukan jika ada siswa yang sering tidak hadir.
+Dalam sistem Checkin Absensi, pengajar memiliki kemampuan untuk melihat laporan kehadiran siswa. Hal ini memungkinkan mereka untuk memantau kehadiran siswa secara berkala dan membuat langkah-langkah yang diperlukan jika ada siswa yang sering tidak hadir.
 
-B﻿erikut langkah-langkah melakukan chekin absensi :
+Berikut langkah-langkah melakukan checkin absensi:
 
-**1.﻿ Klik Menu Kelas :** Setelah login  menggunakan akun student dan membuka aplikasi , cari dan klik opsi "KELAS" di menu navigasi.
+1. **Akses Menu Kelas:** Setelah login menggunakan akun siswa dan membuka aplikasi, cari dan klik opsi **"KELAS"** di menu navigasi.
+2. **Pilih Kelas:** Setelah masuk ke halaman kelas, pilih kelas yang akan Anda gunakan untuk melakukan checkin absensi.
+3. **Klik Absen:** Dengan menekan tombol **"Absen"**, Anda akan diarahkan ke halaman pengisian absensi.
+4. **Ambil Gambar:** Setelah masuk, otorisasikan akses kamera, lalu klik "Ambil Gambar" dan selanjutnya klik "Lanjutkan."
+5. **Tanda Tangan:** Setelah mengambil gambar, Anda akan diminta untuk membuat tanda tangan elektronik, lalu klik "Lanjutkan."
+6. **Lokasi:** Klik "Dapatkan Lokasi" dan klik "Lanjutkan" untuk mengizinkan akses lokasi.
 
-**2﻿. Pilih Kelas :** Setelah masuk ke halaman kelas, silahkan anda pilih kelas yang akan anda irimkan absen.
-
-**3. Klik Absen :** dengan anda menekan tombol Absen Anda akan di Arahkan ke halaman Pengisian absen.
-
-**6﻿. ambil gambar :** Setelah masuk otorisasikan akses kamera, lalu klik "ambil gambar" lalu klik "Lanjutkan"
-
-**7﻿. Tanda Tangan :** Setelah mengambil gambar anda akan di minta untuk membuat Tanda Tangan, lalu klik lanjutkan
-
-**8﻿. Lokasi :** Setelah itu Klik "Dapatkan Lokasi" dan klik lanjutkan.
+Dengan mengikuti langkah-langkah di atas, Anda dapat dengan mudah melakukan proses checkin absensi dalam kelas Anda. Fitur ini membantu dalam memantau dan mencatat kehadiran siswa dengan lebih efisien.
