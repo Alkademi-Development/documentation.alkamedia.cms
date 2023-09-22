@@ -1,6 +1,6 @@
 ---
 menu: Studio
-fungsional: "edit a studio "
+fungsional: "Edit a Studio "
 gambar:
   - uploads/z28.png
   - uploads/z29.png
@@ -16,11 +16,13 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-Fitur edit ini memang sengaja di adakan,dikarnakan fitur ini sangat penting,semisal jika anda membuat studio lalu ada kesalahan didalam sebuah studio yang anda buat tersebut,anda bisa menggunakan fitur ini untuk merubah ubah atau menambahkan.
+Edit studio adalah fitur memberikan kemampuan kepada pengguna untuk melakukan perubahan atau penambahan pada studio yang telah dibuat sebelumnya. Pembaruan ini bisa mencakup perbaikan kesalahan atau penambahan elemen baru sesuai dengan kebutuhan  
 
-cara mengunakan fitur edit ini cukup mudah.
+Proses penggunaan fitur edit ini dapat diikuti dengan langkah-langkah berikut:
 
-* pertama anda pilih bagian studio.
-* pilih menu studio yang ingin anda edit.
-* lalu klik icon pencil﻿(edit)
-* setelah itu anda akan di arahkan ke tampilan edit,yang di mana anda dapat merubah tampilan studio yang anda buat sebelum nya.
+1. **Pilih Bagian "Studio":** Langkah awal adalah dengan mengakses bagian "Studio."
+2. **Pilih Studio yang Akan Diedit:** Selanjutnya, di dalam bagian "Studio," identifikasi dan pilih studio yang memerlukan perubahan.
+3. **Klik Icon Pena (Edit):** Setelah Anda telah memilih studio, cari dan klik pada ikon pena (edit) 
+4. **Edit Studio:** Dengan mengklik ikon tersebut, Anda akan diarahkan ke tampilan edit yang memungkinkan Anda untuk melakukan perubahan pada tampilan studio sesuai dengan kebutuhan Anda.
+
+Dengan demikian, fitur edit ini memberikan fleksibilitas kepada pengguna untuk menyempurnakan atau memperbarui studio mereka sesuai dengan perubahan apa pun yang mungkin diperlukan.
