@@ -16,14 +16,13 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### View Recapt Classroom(Attendance)
+#### **Melihat Rekap Absensi Kelas**
 
-Rekap absen pada website alkademi.id adalah fitur yang memungkinkan pengguna untuk melihat rangkuman kehadiran secara lengkap dan akurat. Dengan fitur ini, pengguna dapat dengan mudah melihat data kehadiran mereka secara harian, mingguan, bulanan, maupun tahunan. Rekap absen ini menampilkan informasi tentang jumlah hari hadir, terlambat, izin, sakit, tanpa keterangan, dan jumlah total kehadiran. Fitur ini memudahkan pengguna dalam memantau dan mengelola kehadiran mereka secara efisien dan efektif. Dengan demikian, rekap absen pada website alkademi.id adalah solusi yang tepat untuk membuat pengelolaan kehadiran menjadi lebih praktis dan terorganisir.
+Rekapi absensi adalah fitur yang memungkinkan pengguna untuk melihat rangkuman kehadiran secara lengkap dan akurat. Fitur ini memudahkan pengguna dalam memantau dan mengelola kehadiran mereka secara efisien dan efektif. Berikut adalah langkah-langkah untuk melihat rekapitulasi absensi kelas:
 
-U﻿ntuk melihat rekap absen silahkan ikuti langkah-langkah berikut:
+1. **Akses Menu Kelas:** Setelah login dan membuka aplikasi, cari dan klik opsi **"KELAS"** di menu navigasi.
+2. **Pilih Kelas:** Pada halaman kelas, pilih kelas di mana Anda ingin melihat rekapitulasi absensi.
+3. **Klik Rekap Absensi:** Setelah memilih kelas, cari tombol **"Rekap Absensi"** dan klik. Ini akan membawa Anda ke halaman rekapitulasi absensi.
 
-**1.﻿ Klik Menu Kelas :** Setelah login dan membuka aplikasi , cari dan klik opsi "KELAS"* di menu navigasi.
-
-**2﻿. Pilih Kelas :** Setelah masuk silahkan pilih kalas yang akan anda lihat Rekap Absensi nya.
-
-**3﻿.Klik Rekap Absensi :** Setelah masuk Klik tombol "Rekap Absensi" untuk melihat rekap absensi.
+\
+Dengan mengikuti langkah-langkah di atas, Anda dapat dengan mudah melihat rekap kehadiran Anda dalam kelas.
