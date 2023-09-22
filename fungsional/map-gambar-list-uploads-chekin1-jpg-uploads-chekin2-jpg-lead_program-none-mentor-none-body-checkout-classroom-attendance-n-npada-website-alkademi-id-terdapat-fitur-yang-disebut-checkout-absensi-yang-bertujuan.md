@@ -16,18 +16,16 @@ industri: Pending
 student: Allow
 support_mobile: Yes
 ---
-#### **Checkout Classroom(Attendance)**
+#### **Checkout Absensi dalam Kelas**
 
-Pada website alkademi.id, terdapat fitur yang disebut "checkout absensi" yang bertujuan untuk mempermudah pengelolaan absensi dalam sebuah kelas. fitur tersebut bertujuan untuk penyelesaian dalam proses checkin..
+Fitur yang disebut "Checkout Absensi" yang bertujuan untuk mempermudah pengelolaan absensi dalam sebuah kelas. Fitur ini digunakan untuk menyelesaikan proses check-in.
 
-U﻿ntuk melakukan proses checkout  silahkan ikuti langkah-langkah berikut:
+Berikut adalah langkah-langkah untuk melakukan proses checkout absensi:
 
-**1.﻿ Klik Menu Kelas :** Setelah login menggunakan akun student dan membuka aplikasi , cari dan klik opsi "KELAS" di menu navigasi.
+1. **Akses Menu Kelas:** Setelah login menggunakan akun siswa dan membuka aplikasi, cari dan klik opsi **"KELAS"** di menu navigasi.
+2. **Pilih Kelas:** Setelah masuk ke halaman kelas, pilih kelas yang ingin Anda gunakan untuk melakukan checkout absensi.
+3. **Klik Absen:** Setelah memilih kelas, klik tombol **"Absen"**. Anda akan diarahkan ke halaman pengisian absensi.
+4. **Konfirmasi:** Pastikan bahwa proses Check-in telah selesai dan sesuai.
+5. **Selesai:** Klik tombol **"Ya, Saya Yakin"** untuk menyelesaikan proses checkout absensi. Anda telah berhasil melakukan absensi.
 
-**2﻿. Pilih Kelas :** Setelah masuk ke halaman kelas, silahkan anda pilih kelas yang akan anda kirimkan absen.
-
-**3. Klik Absen :** dengan anda menekan tombol Absen Anda akan di Arahkan ke halaman Pengisian absen.
-
-**4﻿. konfirmasi :** pastikan posees Checkin sudah selesai.
-
-**5﻿. selesai :** Klik tombol " Ya Saya Yakin' dan anda sudah berhasil melakukan absensi.
+Dengan mengikuti langkah-langkah di atas, Anda dapat dengan mudah melakukan proses checkout absensi dalam kelas Anda. Fitur ini membantu dalam memantau dan mencatat kehadiran siswa dengan lebih efisien.
