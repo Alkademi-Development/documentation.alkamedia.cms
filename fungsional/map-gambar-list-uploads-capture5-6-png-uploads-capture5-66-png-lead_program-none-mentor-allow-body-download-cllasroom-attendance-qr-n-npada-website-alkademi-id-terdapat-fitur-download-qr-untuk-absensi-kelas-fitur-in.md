@@ -1,6 +1,6 @@
 ---
 menu: Classroom(Attendance)
-fungsional: Download cllasroom (Attendance QR)
+fungsional: Download Classroom (Attendance QR)
 gambar:
   - uploads/capture5.6.png
   - uploads/capture5.66.png
