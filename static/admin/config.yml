@@ -46,4 +46,4 @@ collections:
       - { name: "content_writer", label: "Content Writer", widget: "select", options: ["Allow", "Pending", "None"] }
       - { name: "industri", label: "Industri", widget: "select", options: ["Allow", "Pending", "None"] }
       - { name: "student", label: "Student", widget: "select", options: ["Allow", "Pending", "None"] }
-      - { name: "support_mobile", label: "Support Mobile", widget: "select", options: ["Yes", "Pending", "No"] }
+      - { name: "support_mobile", label: "Support Mobile", widget: "select", options: ["Yes", "Pending", "No", "Hidden"] }
