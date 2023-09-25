@@ -1,6 +1,6 @@
 ---
 menu: Galeri
-fungsional: read galeri.
+fungsional: Read Galeri.
 gambar:
   - uploads/z70.png
   - uploads/z71.png
@@ -16,8 +16,8 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-Setelah anda mengupload poto,sebaik nya anda melihat terlebih dahulu ke bagian geleri apakah poto anda sudah benar benar ada atau belum ada.
+Setelah anda mengupload foto, sebaiknya anda melihat terlebih dahulu ke bagian Galeri apakah foto anda sudah benar benar ada atau belum ada.
 
-jika ingin melihat poto anda di galeri alkademi.
+jika ingin melihat foto anda di Galeri alkademi.
 
-cukup akses situs alkademi dan pilih galeri.
+cukup akses situs alkademi dan pilih Galeri.
