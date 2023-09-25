@@ -1,6 +1,6 @@
 ---
 menu: Galeri
-fungsional: Create Galeri.
+fungsional: Create Galeri
 gambar:
   - uploads/z68.png
   - uploads/z69.png
