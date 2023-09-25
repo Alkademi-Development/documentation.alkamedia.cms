@@ -1,6 +1,6 @@
 ---
 menu: Announcement
-fungsional: delete announcement
+fungsional: delete Announcement
 gambar:
   - uploads/b4.png
 super_admin: Allow
@@ -19,4 +19,4 @@ Fitur ini dapat menghapus sebuah announcement yang menurut anda tidak terpakai l
 
 * klik menu announcement
 * pilih salah satu announcement yang ingin di hapus.
-* klik tombol yang bergambar tong sampah di sebelah kanan announcement yang ingin di hapus.
+* klik icon trash di sebelah kanan announcement yang ingin di hapus.
