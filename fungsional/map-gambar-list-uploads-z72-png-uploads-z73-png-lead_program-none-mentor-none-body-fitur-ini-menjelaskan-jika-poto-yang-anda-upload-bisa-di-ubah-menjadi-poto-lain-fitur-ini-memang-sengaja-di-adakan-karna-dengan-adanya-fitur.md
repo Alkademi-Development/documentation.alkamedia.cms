@@ -18,7 +18,7 @@ support_mobile: Yes
 ---
 Fitur ini menjelaskan 'jika foto yang anda upload bisa di ubah menjadi foto lain'. fitur ini memang sengaja di adakan, karna dengan adanya fitur ini anda dapat merubah foto anda.
 
-cara penggunaan fitur edit ini,bisa anda lakukan dengan cara berikut.
+cara penggunaan fitur edit ini,bisa anda lakukan dengan cara berikut
 
 * login akun admin.
 * pilih menu Galeri.
