@@ -1,6 +1,6 @@
 ---
 menu: Galeri
-fungsional: Read Galeri.
+fungsional: Read Galeri
 gambar:
   - uploads/z70.png
   - uploads/z71.png
