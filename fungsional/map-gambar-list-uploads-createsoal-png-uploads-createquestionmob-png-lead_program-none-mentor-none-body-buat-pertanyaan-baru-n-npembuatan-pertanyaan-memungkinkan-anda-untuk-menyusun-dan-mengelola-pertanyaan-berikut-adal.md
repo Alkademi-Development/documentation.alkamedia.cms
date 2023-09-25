@@ -1,6 +1,6 @@
 ---
 menu: Form(Bank Soal)
-fungsional: Create question
+fungsional: Create Question
 gambar:
   - uploads/createsoal.png
   - uploads/createquestionmob.png
