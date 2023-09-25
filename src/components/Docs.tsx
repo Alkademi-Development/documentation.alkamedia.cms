@@ -31,20 +31,24 @@ const Docs: React.FC<Props> = ({ data, role }) => {
                   {frontmatter.fungsional.trim()}
                 </h1>
                 <span
-                  className={`text-slate-200 text-sm rounded-lg px-1.5 py-[0.075] ${
-                    frontmatter.support_mobile === 'Yes'
-                      ? 'bg-blue-500'
-                      : frontmatter.support_mobile === 'No'
-                      ? 'bg-red-500'
-                      : 'bg-orange-500'
-                  }`}
-                >
-                  {frontmatter.support_mobile === 'Yes'
-                    ? 'Support Mobile'
-                    : frontmatter.support_mobile === 'No'
-                    ? 'Not Support Mobile'
-                    : 'Pending'}
-                </span>
+              className={`text-slate-200 text-sm rounded-lg px-1.5 py-[0.075] ${
+                frontmatter.support_mobile === 'Yes'
+                  ? 'bg-blue-500'
+                  : frontmatter.support_mobile === 'No'
+                  ? 'bg-red-500'
+                  : frontmatter.support_mobile === 'Pending'
+                  ? 'bg-orange-500'
+                  : 'hidden'
+              }`}
+            >
+              {frontmatter.support_mobile === 'Yes'
+                ? 'Support Mobile'
+                : frontmatter.support_mobile === 'No'
+                ? 'Not Support Mobile'
+                : frontmatter.support_mobile === 'Pending'
+                ? 'Pending'
+                : 'Hidden'}
+            </span>
                 <article
                   className="w-full dark:text-slate-300 font-light prose lg:prose-xl dark:prose-invert mt-3 mb-1"
                   dangerouslySetInnerHTML={{ __html: edge.node.html }}
