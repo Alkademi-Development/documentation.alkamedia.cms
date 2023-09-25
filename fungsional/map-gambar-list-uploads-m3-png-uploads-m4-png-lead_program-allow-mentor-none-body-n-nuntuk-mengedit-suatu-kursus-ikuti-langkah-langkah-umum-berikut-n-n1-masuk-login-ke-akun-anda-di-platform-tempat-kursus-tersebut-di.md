@@ -27,4 +27,4 @@ Untuk mengedit materi, ikuti langkah-langkah umum berikut:
 4. **Lakukan Edit**: Perbarui detail materi sesuai kebutuhan. Ini bisa mencakup mengubah judul materi, deskripsi materi, standar kelulusan, dan tipe materi.
 5. **Simpan Perubahan**: Setelah melakukan edit yang diperlukan, simpan perubahan Anda. Ini bisa dilakukan dengan mengklik tombol "Submit".
 
-Dengan mengikuti langkah-langkah ini, Anda dapat dengan mudah mengedit dan memperbarui materi sesuai dengan kebutuhan Anda.
+Dengan mengikuti langkah-langkah ini, Anda dapat dengan mudah mengedit dan memperbarui materi sesuai dengan kebutuhan
