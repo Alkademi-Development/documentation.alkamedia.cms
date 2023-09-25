@@ -1,6 +1,6 @@
 ---
 menu: Form(Bank Soal)
-fungsional: " Create new category"
+fungsional: " Create new Category"
 gambar:
   - uploads/screenshot-from-2023-09-11-17-30-23.png
   - uploads/createcategory.png
