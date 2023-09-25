@@ -1,6 +1,6 @@
 ---
 menu: Galeri
-fungsional: create galeri.
+fungsional: Create Galeri.
 gambar:
   - uploads/z68.png
   - uploads/z69.png
@@ -16,14 +16,14 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-Dibagian ini anda dapat menambahkan foto foto atau gambar gambar untuk di posting di galery alkademi.tidak hanya menampilkan foto saja. tetapi bisa menambah kan judul dan deskripsi tentang foto yang anda masukan.
+Dibagian ini anda dapat menambahkan foto foto atau gambar gambar untuk di posting di Galeri alkademi. tidak hanya menampilkan foto saja. tetapi bisa menambah kan judul dan deskripsi tentang foto yang anda masukan.
 
 caranya cukup mudah sekali.
 
 * pertama login admin
-* lalu pilih bagian galeri
+* lalu pilih bagian Galeri
 * klik tombol (+galeri)
 * setelah mengklik tombol (+galeri) anda akan di arahkan ke halaman upload foto.
-* masukan poto,judul, dan deskripsi. lalu klik submit.
+* masukan foto,judul, dan deskripsi. lalu klik submit.
 
-maka dari itu poto/gambar anda akan di tampilkan di galeri alkademi
+maka dari itu foto/gambar anda akan di tampilkan di Galeri alkademi
