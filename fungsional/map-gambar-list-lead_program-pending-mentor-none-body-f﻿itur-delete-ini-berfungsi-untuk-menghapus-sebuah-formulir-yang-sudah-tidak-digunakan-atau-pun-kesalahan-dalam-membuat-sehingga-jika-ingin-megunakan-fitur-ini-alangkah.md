@@ -22,7 +22,7 @@ j﻿ika ingin mengunakan fitur ini ikuti langkah-langkahya:
 
 \-klik bagian formulir.
 
-\-lalu klik bagian icon gambar tong sampah.
+\-lalu klik bagian icon trash.
 
 \-setelah muncul notifikasi anda klik ya untuk menghapus.
 
