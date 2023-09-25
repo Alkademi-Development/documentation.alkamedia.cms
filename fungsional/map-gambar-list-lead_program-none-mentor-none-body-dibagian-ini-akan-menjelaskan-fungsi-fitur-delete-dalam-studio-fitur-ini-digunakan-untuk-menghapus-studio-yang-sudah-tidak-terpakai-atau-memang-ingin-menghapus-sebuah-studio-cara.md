@@ -19,7 +19,7 @@ Fungsi fitur penghapusan dalam studio adalah untuk menghapus studio yang sudah t
 
 1. **Buka Bagian "Studio":** Pertama-tama, akses bagian "Studio".
 2. **Pilih Studio yang Ingin Dihapus:** Di dalam daftar studio, pilih studio yang ingin Anda hapus.
-3. **Klik Ikon Tong Sampah:** Temukan dan klik ikon icon trash yang biasanya terletak di sebelah kanan atau sebagai simbol untuk menghapus studio yang terpilih.
+3. **Klik Ikon trash:** Temukan dan klik ikon icon trash yang biasanya terletak di sebelah kanan atau sebagai simbol untuk menghapus studio yang terpilih.
 4. **Konfirmasi Penghapusan:** Setelah mengklik icon trash, sistem mungkin akan menampilkan notifikasi atau peringatan yang bertanya apakah Anda yakin ingin menghapus studio tersebut. Pastikan Anda telah memilih studio yang benar sebelum melanjutkan.
 5. **Klik "Ya" (Yes):** Jika Anda yakin ingin menghapus studio tersebut, klik "Ya" dalam notifikasi tersebut.
 
