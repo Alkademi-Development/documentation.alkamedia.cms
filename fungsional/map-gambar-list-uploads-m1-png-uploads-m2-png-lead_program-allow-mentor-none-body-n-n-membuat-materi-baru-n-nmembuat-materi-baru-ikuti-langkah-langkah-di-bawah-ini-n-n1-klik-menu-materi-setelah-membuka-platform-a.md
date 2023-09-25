@@ -31,4 +31,4 @@ Untuk membuat materi baru di platform kami, ikuti langkah-langkah di bawah ini:
 4. **Klik "Submit"**: Setelah Anda mengisi semua data yang diperlukan, klik tombol "Submit" 
 5. **Selesai**: Selamat, Anda telah berhasil membuat materi baru di platform kami! Anda  akan diarahkan ke halaman tambah modul untuk menambahkan lebih banyak konten ke materi tersebut.
 
-Pastikan untuk memberikan informasi yang jelas dan akurat saat membuat materi baru, sehingga peserta dapat memahami dengan baik apa yang akan mereka pelajari.
+Pastikan untuk memberikan informasi yang jelas dan akurat saat membuat materi baru, sehingga peserta dapat memahami dengan baik apa yang akan mereka pelajari
