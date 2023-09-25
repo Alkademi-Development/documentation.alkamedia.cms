@@ -27,7 +27,7 @@ Dalam sistem formulir kami, "paket pertanyaan" adalah cara untuk mengelompokkan 
 
    * **Nama Paket Pertanyaan:** Masukkan nama yang jelas dan deskriptif untuk paket pertanyaan Anda.
    * **Deskripsi Paket Pertanyaan:** Tuliskan deskripsi yang memberikan gambaran tentang isi paket pertanyaan ini. Ini membantu pengguna lain memahami tujuan atau topik paket pertanyaan.
-   * **Durasi Pengerjaan**: Isi dengan satuan menit. Contoh: 60 (1 Jam)
+   * **Durasi Pengerjaan**: Isi dengan satuan menit. Contoh: 60 (1 Jam).
    * **Isi Pertanyaan:** Anda juga dapat mulai menambahkan pertanyaan-pertanyaan ke dalam paket ini. Klik tombol "Tambah Pertanyaan" atau sejenisnya untuk setiap pertanyaan yang ingin Anda masukkan. Setiap pertanyaan akan memiliki judul dan deskripsi yang relevan.
 5. **Simpan Paket Pertanyaan:** Setelah mengisi semua data yang diperlukan, klik tombol "Simpan" atau "Submit" untuk menyimpan paket pertanyaan baru.
 
