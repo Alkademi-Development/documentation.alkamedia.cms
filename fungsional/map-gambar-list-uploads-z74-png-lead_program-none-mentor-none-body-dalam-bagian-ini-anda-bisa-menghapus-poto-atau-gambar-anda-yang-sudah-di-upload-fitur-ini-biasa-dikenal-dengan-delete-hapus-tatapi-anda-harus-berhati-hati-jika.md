@@ -19,10 +19,10 @@ Dalam bagian ini anda bisa menghapus foto atau gambar anda yang sudah di upload,
 
 caranya adalah 
 
-* dengan mengakses akun admin.
-* lalu pilih menu galeri.
-* pilih foto yang ingin anda hapus.
-* klik icon trash di bagian piling kanan.
+* dengan mengakses akun admin
+* lalu pilih menu galeri
+* pilih foto yang ingin anda hapus
+* klik icon trash di bagian piling kanan
 * setelah muncul notifikasi bahwa memang benar benar ingin di hapus, klik ya.
 
 maka foto anda akan terhapus secara permanen.
