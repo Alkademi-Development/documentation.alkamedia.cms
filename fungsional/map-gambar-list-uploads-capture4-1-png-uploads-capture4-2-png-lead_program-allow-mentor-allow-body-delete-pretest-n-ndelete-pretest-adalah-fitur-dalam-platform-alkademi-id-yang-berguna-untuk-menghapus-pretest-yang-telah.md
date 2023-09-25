@@ -1,16 +1,16 @@
 ---
 menu: Classroom(Overview)
-fungsional: Publish class announcement
+fungsional: "Download of pretest participants "
 gambar:
   - uploads/capture5.1.png
   - uploads/capture5.2.png
 super_admin: Allow
 admin: Allow
-mentor: None
+mentor: Allow
 teacher: Pending
 partner: None
-lead_program: None
-lead_region: None
+lead_program: Allow
+lead_region: Allow
 content_writer: None
 industri: Pending
 student: None
