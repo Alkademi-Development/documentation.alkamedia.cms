@@ -26,4 +26,4 @@ Untuk menghapus modul dari suatu materi, ikuti langkah-langkah simpel berikut:
 3. **Hapus Modul**: Klik ikon atau tombol "Hapus" yang terkait dengan modul yang ingin Anda hapus.
 4. **Konfirmasi Penghapusan**: untuk mengonfirmasi penghapusan. Ini untuk mencegah penghapusan yang tidak disengaja. klik 'ya' untuk mengkonfirmasi.
 
-Dengan mengikuti langkah-langkah ini, Anda dapat dengan mudah menghapus modul yang tidak diperlukan dari materi yang Anda kelola
+Dengan mengikuti langkah-langkah ini, Anda dapat dengan mudah menghapus modul yang tidak diperlukan dari materi yang Anda kelola.
