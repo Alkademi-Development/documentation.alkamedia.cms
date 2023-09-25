@@ -12,7 +12,7 @@ lead_region: Allow
 content_writer: None
 industri: Pending
 student: None
-support_mobile: Yes
+support_mobile: Hidden
 ---
 Dalam panduan ini, Anda akan mempelajari berbagai fungsionalitas yang terkait dengan materi dalam sistem kami. Ini termasuk m﻿embuat modul dan mengedit materi, serta membuat materi dan modul baru.
 
