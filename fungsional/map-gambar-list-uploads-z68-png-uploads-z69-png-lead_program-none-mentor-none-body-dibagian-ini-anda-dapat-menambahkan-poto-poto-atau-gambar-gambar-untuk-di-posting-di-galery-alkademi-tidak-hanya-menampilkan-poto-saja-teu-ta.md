@@ -16,9 +16,9 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-Dibagian ini anda dapat menambahkan poto poto atau gambar gambar untuk di posting di galery alkademi.tidak hanya menampilkan poto saja.teu tapi bisa menambah kan judul dan deskripsi tentang poto yang anda masukan.
+Dibagian ini anda dapat menambahkan foto foto atau gambar gambar untuk di posting di galery alkademi.tidak hanya menampilkan foto saja. tetapi bisa menambah kan judul dan deskripsi tentang foto yang anda masukan.
 
-cara nya cukup mudah sekali.
+caranya cukup mudah sekali.
 
 * pertama login admin
 * lalu pilih bagian galeri
