@@ -22,7 +22,7 @@ Fitur ini memungkinkan Anda untuk menghapus paket pertanyaan yang tidak diperluk
 
 1. **Akses Menu Formulir**: Pertama-tama, klik menu "Formulir" dan pilih menu "Bank Soal".
 2. **Temukan Paket Pertanyaan yang Ingin Dihapus:** Di halaman pengelolaan paket pertanyaan, cari paket pertanyaan yang hendak Anda hapus dari daftar yang tersedia.
-3. **Hapus Paket Pertanyaan:** Klik ikon tong sampah atau simbol yang mengindikasikan penghapusan yang terkait dengan paket pertanyaan yang akan dihapus.
+3. **Hapus Paket Pertanyaan:** Klik ikon trash atau simbol yang mengindikasikan penghapusan yang terkait dengan paket pertanyaan yang akan dihapus.
 4. **Konfirmasi Penghapusan:** Sistem akan meminta konfirmasi penghapusan untuk mencegah penghapusan yang tidak disengaja. Klik 'Ya' atau 'Hapus' untuk mengkonfirmasi penghapusan.
 
 Dengan mengikuti langkah-langkah ini, Anda dapat dengan mudah menghapus paket pertanyaan yang tidak diperlukan dalam sistem formulir kami. Pastikan untuk berhati-hati saat melakukan penghapusan, karena data yang terkait dengan paket pertanyaan akan hilang secara permanen setelah dikonfirmasi.
