@@ -15,14 +15,14 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-Dalam bagian ini anda bisa menghapus poto atau gambar anda yang sudah di upload, fitur ini biasa dikenal dengan delete(hapus).
+Dalam bagian ini anda bisa menghapus foto atau gambar anda yang sudah di upload, fitur ini biasa dikenal dengan delete(hapus).
 
-cara nya adalah 
+caranya adalah 
 
 * dengan mengakses akun admin 
 * lalu pilih menu galeri
-* pilih poto yang ingin anda hapus.
-* klik logo tong sampah di bagian piling kanan.
+* pilih foto yang ingin anda hapus.
+* klik icon trash di bagian piling kanan.
 * setelah muncul notifikasi bahwa memang benar benar ingin di hapus, klik ya.
 
-maka poto anda akan terhapus secara permanen
+maka foto anda akan terhapus secara permanen
