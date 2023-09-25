@@ -1,6 +1,6 @@
 ---
 menu: Form(Bank Soal)
-fungsional: Delete a question
+fungsional: Delete a Question
 gambar:
   - uploads/deletequestion.png
   - uploads/deletequestionmob.png
