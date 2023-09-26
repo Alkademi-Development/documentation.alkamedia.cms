@@ -24,8 +24,8 @@ Untuk mempublikasikan kelas yang ada di menu Draft anda bisa mengikuti langkah-l
 
 Untuk menghapus Mentor anda bisa mengikuti langkah-lanngkah berikut ini:
 
-1.﻿ Klik Menu Kelas : Setelah login menggunakan akun Admin dan membuka aplikasi , cari dan klik opsi "KELAS" di menu navigasi.
+**1.﻿ Klik Menu Kelas :** Setelah login menggunakan akun Admin dan membuka aplikasi , cari dan klik opsi "KELAS" di menu navigasi.
 
-2﻿. Pilih Kelas : Setelah masuk silahkan pilih kelas pada menu draft dan klik pada kelas yang akan anda Publish. 
+**2﻿. Pilih Kelas :** Setelah masuk silahkan pilih kelas pada menu draft dan klik pada kelas yang akan anda Publish. 
 
-3. Klik Terbitkan kelas : setelah masuk klik tombol “Terbitkan Kelas” lalu Klik tombol “Ya Saya Yakin”  untuk memverifikasi bahwa anda akan menerbitkan kelas tersebut:
+**3. Klik Terbitkan kelas :** setelah masuk klik tombol “Terbitkan Kelas” lalu Klik tombol “Ya Saya Yakin”  untuk memverifikasi bahwa anda akan menerbitkan kelas tersebut:
