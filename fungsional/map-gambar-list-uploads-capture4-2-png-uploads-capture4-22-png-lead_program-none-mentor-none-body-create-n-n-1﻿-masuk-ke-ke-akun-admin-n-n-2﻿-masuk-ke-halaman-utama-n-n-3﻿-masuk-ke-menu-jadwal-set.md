@@ -18,7 +18,7 @@ support_mobile: Yes
 ---
 #### Create schedule (attendance)
 
- Edit schedule(attendance) adalah sebuah fitur pada platform alkademi.id yang berguna untuk melakukan Edit jadwal kehadiran, Fitur ini di rancang untuk melakukan Edit jika pada saat pembuatan jadwal kehadiran ada kesalahan dan jika suatu saat akan ada perubahan pada bagian jadwal kehadiran.
+Edit schedule(attendance) adalah sebuah fitur pada platform alkademi.id yang berguna untuk melakukan Edit jadwal kehadiran, Fitur ini di rancang untuk melakukan Edit jika pada saat pembuatan jadwal kehadiran ada kesalahan dan jika suatu saat akan ada perubahan pada bagian jadwal kehadiran.
 
 U﻿ntuk menggunakan fitur tersebut anda bisa mengikuti langkah-langkah berikut ini:
 
