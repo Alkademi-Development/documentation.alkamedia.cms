@@ -22,7 +22,7 @@ C﻿heckout adalah fitur yang berguna untuk  siswa mengirimkan absensi.
 
 B﻿erikut langkah langkah melakukan C﻿heckout absensi :
 
-**1﻿. Masuk ke ke akun Admin**
+**1﻿. Masuk ke akun Admin**
 
 **2﻿. Masuk ke halaman utama**
 
@@ -32,6 +32,6 @@ B﻿erikut langkah langkah melakukan C﻿heckout absensi :
 
 **5﻿. Klik Absen :** dengan anda menekan tombol Absen Anda akan di Arahkan ke halaman Pengisian absen
 
-**6﻿. konfirmasi :** pastikan posees Checkin sudah selesai
+**6﻿. konfirmasi :** pastikan poses Checkin sudah selesai
 
 **7﻿. selesai :** Klik tombol " Ya Saya Yakin' dan anda sudah berhasil melakukan absensi.
