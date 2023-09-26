@@ -26,10 +26,10 @@ U﻿ntuk menggunakan fitur tersebut anda bisa mengikuti langkah-langkah berikut 
 
 **2﻿. Masuk ke halaman utama**
 
-**3﻿.  Masuk ke menu jadwal :** setelah masuk ke halaman utama lalu anda klik menu jadwal keegiatan
+**3﻿.  Masuk ke menu jadwal :** setelah masuk ke halaman utama lalu anda klik menu jadwal kegiatan
 
 **4﻿. Temukan aktivitas :** Setelah masuk pada menu jadwal kegiatan, lalu klik  aktivitas, dan klik judul kegiatan pada modal
 
-**5﻿. Buat Absen :** Setalah masuk lalu klik tomblol "Buat Absen". Lalu isi waktu mulai & waktu berakhir serta pilih radius lokasi
+**5﻿. Buat Absen :** Setalah masuk lalu klik tombol "Buat Absen". Lalu isi waktu mulai & waktu berakhir serta pilih radius lokasi
 
 **6﻿. Klik tombol "Simpan" :** Setelah itu klik tombol  "Simpan" untuk menyimpan absen yang telah anda buat.
