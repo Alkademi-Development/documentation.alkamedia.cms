@@ -22,18 +22,18 @@ C﻿heckin adalah fitur yang ber guna untuk  siswa mengisi absen siswa.
 
 B﻿erikut langkah langkah melakukan Checkin absensi :
 
-**1﻿. Masuk ke ke akun Student.**
+**1﻿. Masuk ke ke akun Student**
 
-**2﻿. Masuk ke halaman utama.**
+**2﻿. Masuk ke halaman utama**
 
-**3﻿. Masuk ke menu jadwal :** setelah masuk ke halaman utama lalu anda klik menu jadwal keegiatan.
+**3﻿. Masuk ke menu jadwal :** setelah masuk ke halaman utama lalu anda klik menu jadwal keegiatan
 
-**4﻿. Temukan aktivitas :** Setelah masuk pada menu jadwal kegiatan, lalu klik  aktivitas, dan klik judul kegiatan pada modal.
+**4﻿. Temukan aktivitas :** Setelah masuk pada menu jadwal kegiatan, lalu klik  aktivitas, dan klik judul kegiatan pada modal
 
-**5﻿. Klik Absen :** dengan anda menekan tombol Absen Anda akan di Arahkan ke halaman Pengisian absen.
+**5﻿. Klik Absen :** dengan anda menekan tombol Absen Anda akan di Arahkan ke halaman Pengisian absen
 
-**6﻿. ambil gambar :** Setelah masuk otorisasikan akses kamera, lalu klik "ambil gambar" lalu klik "Lanjutkan".
+**6﻿. ambil gambar :** Setelah masuk otorisasikan akses kamera, lalu klik "ambil gambar" lalu klik "Lanjutkan"
 
-**7﻿. Tanda Tangan :** Setelah mengambil gambar anda akan di minta untuk membuat Tanda Tangan, lalu klik lanjutkan.
+**7﻿. Tanda Tangan :** Setelah mengambil gambar anda akan di minta untuk membuat Tanda Tangan, lalu klik lanjutkan
 
 **8﻿. Lokasi :** Setelah itu Klik "Dapatkan Lokasi" dan klik lanjutkan.
