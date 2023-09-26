@@ -18,7 +18,7 @@ support_mobile: Yes
 ---
 #### **Checkout Absensi dalam Kelas**
 
-Fitur yang disebut "Checkout Absensi" yang bertujuan untuk mempermudah pengelolaan absensi dalam sebuah kelas. Fitur ini digunakan untuk menyelesaikan proses check-in.
+Fitur yang disebut "Checkout Absensi" yang bertujuan untuk mempermudah pengelolaan absensi dalam sebuah kelas. Fitur ini digunakan untuk menyelesaikan proses checkin.
 
 Berikut adalah langkah-langkah untuk melakukan proses checkout absensi:
 
