@@ -30,6 +30,6 @@ Untuk menggunakan fitur ini anda bisa mengikuti langkah-langkah berikut ini:
 
 4﻿. klik tombol (+materi).
 
-5. setelah itu anda akan diarahkan ke halaman pembuatan modul. 
+5. setelah itu anda akan diarahkan ke halaman pembuatan modul.  
 
 6﻿. klik submit jika data kolom sudah terisi semua.
