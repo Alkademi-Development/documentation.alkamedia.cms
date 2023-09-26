@@ -27,4 +27,4 @@ Menghapus program yang tidak lagi diperlukan atau relevan adalah tindakan yang p
 5. **Konfirmasi Penghapusan:** Setelah Anda mengklik tombol hapus, sistem akan menampilkan notifikasi atau peringatan yang bertanya apakah Anda yakin ingin menghapus program tersebut. Pastikan Anda telah memilih program yang benar sebelum melanjutkan.
 6. **Klik "Ya" (Yes):** Jika Anda yakin ingin menghapus program tersebut, klik "Ya" dalam notifikasi tersebut. Ini akan memulai proses penghapusan program.
 
-Dengan mengikuti langkah-langkah ini, Anda dapat menghapus program-program yang tidak lagi diperlukan dengan hati-hati. Pastikan untuk memeriksa kembali sebelum mengonfirmasi penghapusan karena tindakan ini tidak dapat dibatalkan, dan semua data terkait program akan terhapus.
+Dengan mengikuti langkah-langkah ini, Anda dapat menghapus program-program yang tidak lagi diperlukan dengan hati-hati. Pastikan untuk memeriksa kembali sebelum mengonfirmasi penghapusan karena tindakan ini tidak dapat dibatalkan, dan semua data terkait program akan terhapus
