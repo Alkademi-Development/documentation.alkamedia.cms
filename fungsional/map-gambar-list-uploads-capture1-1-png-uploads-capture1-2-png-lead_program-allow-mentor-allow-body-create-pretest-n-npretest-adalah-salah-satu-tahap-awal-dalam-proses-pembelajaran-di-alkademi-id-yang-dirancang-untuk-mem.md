@@ -24,8 +24,6 @@ Untuk membuat pretest anda bisa mengikuti langkah langkah sebagai berikut : 
 
 1.﻿ Klik Menu Kelas : Setelah login menggunakan akun Admin dan membuka aplikasi , cari dan klik opsi "KELAS" di menu navigasi.
 
-
-
 2﻿. Pilih Kelas : Setelah masuk silahkan pilih kelas pada menu draft dan klik pada kelas yang akan di buatkan pretest
 
 3. Klik “Tambah Pretest” : Setelah masuk pada kelas klik tombol “Tambah Pretest”, dan klik tombol “Ya, Saya Yakin” untuk  Memverifikasi dan melanjutkan ke langkah selanjutnya.
