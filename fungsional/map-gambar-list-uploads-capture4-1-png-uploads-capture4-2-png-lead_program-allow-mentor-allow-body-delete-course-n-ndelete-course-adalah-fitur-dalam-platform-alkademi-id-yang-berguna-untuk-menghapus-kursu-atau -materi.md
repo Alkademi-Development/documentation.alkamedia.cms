@@ -1,5 +1,5 @@
 ---
-menu: Classroom(Overview)
+menu: Classroom(Materi)
 fungsional: Delete course
 gambar:
   - uploads/capture4.1.png
