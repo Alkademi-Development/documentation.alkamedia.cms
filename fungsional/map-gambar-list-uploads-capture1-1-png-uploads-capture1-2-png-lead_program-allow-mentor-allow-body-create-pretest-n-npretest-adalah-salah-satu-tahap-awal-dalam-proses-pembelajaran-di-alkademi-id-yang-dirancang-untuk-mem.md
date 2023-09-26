@@ -22,12 +22,12 @@ Pretest adalah salah satu tahap awal dalam proses pembelajaran di Alkademi.id ya
 
 Untuk membuat pretest anda bisa mengikuti langkah langkah sebagai berikut : 
 
-1.﻿ Klik Menu Kelas : Setelah login menggunakan akun Admin dan membuka aplikasi , cari dan klik opsi "KELAS" di menu navigasi.
+**1.﻿ Klik Menu Kelas :** Setelah login menggunakan akun Admin dan membuka aplikasi , cari dan klik opsi "KELAS" di menu navigasi.
 
-2﻿. Pilih Kelas : Setelah masuk silahkan pilih kelas pada menu draft dan klik pada kelas yang akan di buatkan pretest
+**2﻿. Pilih Kelas :** Setelah masuk silahkan pilih kelas pada menu draft dan klik pada kelas yang akan di buatkan pretest.
 
-3. Klik “Tambah Pretest” : Setelah masuk pada kelas klik tombol “Tambah Pretest”, dan klik tombol “Ya, Saya Yakin” untuk  Memverifikasi dan melanjutkan ke langkah selanjutnya.
+**3. Klik “Tambah Pretest” :** Setelah masuk pada kelas klik tombol “Tambah Pretest”, dan klik tombol “Ya, Saya Yakin” untuk  Memverifikasi dan melanjutkan ke langkah selanjutnya.
 
-4. Membuat Pretest : Isi kolom input buat pretest seperti ( Judul, Deskripsi, dll.)
+**4. Membuat Pretest :** Isi kolom input buat pretest seperti ( Judul, Deskripsi, dll.)
 
-5. Submit : Klik tombol “Submit” Untuk menyimpan pretest.
+**5. Submit :** Klik tombol “Submit” Untuk menyimpan pretest.
