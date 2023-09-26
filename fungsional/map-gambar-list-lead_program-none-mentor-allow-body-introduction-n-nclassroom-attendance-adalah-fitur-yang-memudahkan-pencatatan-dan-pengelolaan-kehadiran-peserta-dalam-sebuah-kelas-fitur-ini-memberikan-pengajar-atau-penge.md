@@ -1,6 +1,6 @@
 ---
 menu: Classroom(Attendance)
-fungsional: " Introduction"
+fungsional: " Introduction Classroom(Attendance)"
 gambar: []
 super_admin: Allow
 admin: Allow
