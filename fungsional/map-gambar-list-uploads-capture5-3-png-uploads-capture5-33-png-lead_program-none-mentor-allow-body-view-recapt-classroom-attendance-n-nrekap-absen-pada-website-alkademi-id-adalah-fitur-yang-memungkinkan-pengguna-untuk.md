@@ -18,7 +18,9 @@ support_mobile: Yes
 ---
 #### **Melihat Rekap Absensi Kelas**
 
-Rekapi absensi adalah fitur yang memungkinkan pengguna untuk melihat rangkuman kehadiran secara lengkap dan akurat. Fitur ini memudahkan pengguna dalam memantau dan mengelola kehadiran mereka secara efisien dan efektif. Berikut adalah langkah-langkah untuk melihat rekapitulasi absensi kelas:
+Rekapi absensi adalah fitur yang memungkinkan pengguna untuk melihat rangkuman kehadiran secara lengkap dan akurat. Fitur ini memudahkan pengguna dalam memantau dan mengelola kehadiran mereka secara efisien dan efektif. 
+
+Berikut adalah langkah-langkah untuk melihat rekapitulasi absensi kelas:
 
 1. **Akses Menu Kelas:** Setelah login dan membuka aplikasi, cari dan klik opsi **"KELAS"** di menu navigasi.
 2. **Pilih Kelas:** Pada halaman kelas, pilih kelas di mana Anda ingin melihat rekapitulasi absensi.
