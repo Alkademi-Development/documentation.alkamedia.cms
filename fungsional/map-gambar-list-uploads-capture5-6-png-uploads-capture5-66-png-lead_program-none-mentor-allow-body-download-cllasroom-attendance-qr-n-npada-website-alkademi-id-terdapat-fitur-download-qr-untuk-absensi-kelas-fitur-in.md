@@ -18,7 +18,7 @@ support_mobile: Yes
 ---
 #### **Download QR Absensi Kelas**
 
-Anda dapat mengunduh QR code absensi kelas. Ini memungkinkan pengajar atau administrator kelas mempercepat proses absensi digital. Berikut langkah-langkahnya:
+Anda dapat mengunduh QR code absensi kelas. Ini memungkinkan pengajar atau administrator kelas mempercepat proses absensi digital. Berikut langkah-langkahnya : 
 
 1. **Akses Menu Kelas:** Setelah login, klik **"KELAS"** di menu.
 2. **Pilih Kelas:** Pilih kelas yang ingin Anda gunakan untuk mendownload QR code absensi.
