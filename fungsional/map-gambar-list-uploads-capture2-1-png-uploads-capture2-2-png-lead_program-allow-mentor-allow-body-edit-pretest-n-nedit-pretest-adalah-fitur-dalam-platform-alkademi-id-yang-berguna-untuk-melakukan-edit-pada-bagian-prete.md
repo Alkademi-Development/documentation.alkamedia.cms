@@ -22,8 +22,8 @@ Read pretest adalah fitur dalam platform alkademi.id yang berguna untuk melihat/
 
 Untuk membaca pretest anda bisa mengikuti langkah-langkah  sebagai berikut :
 
-1.﻿ Klik Menu Kelas : Setelah login menggunakan akun Admin dan membuka aplikasi , cari dan klik opsi "KELAS" di menu navigasi.
+**1.﻿ Klik Menu Kelas :** Setelah login menggunakan akun Admin dan membuka aplikasi , cari dan klik opsi "KELAS" di menu navigasi.
 
-2﻿. Pilih Kelas : Setelah masuk silahkan pilih kelas pada menu draft dan klik pada kelas yang akan and lihat pretest nya.
+**2﻿. Pilih Kelas :** Setelah masuk silahkan pilih kelas pada menu draft dan klik pada kelas yang akan and lihat pretest nya.
 
-3..Klik Lihat Pretest : Setelah masuk pada kelas klik tombol “ Lihat Pretest”, untuk melihat pretest yang akan anda lihat.
+**3 .Klik Lihat Pretest :** Setelah masuk pada kelas klik tombol “ Lihat Pretest”, untuk melihat pretest yang akan anda lihat.
