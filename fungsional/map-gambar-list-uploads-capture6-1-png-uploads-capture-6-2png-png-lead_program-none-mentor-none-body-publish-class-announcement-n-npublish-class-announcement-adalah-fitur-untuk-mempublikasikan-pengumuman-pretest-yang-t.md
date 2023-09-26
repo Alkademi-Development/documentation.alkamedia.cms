@@ -26,6 +26,6 @@ Untuk mempublikasikan pengumuman kelas anda bisa mengikuti langkah-langkah sebag
 
 **2﻿. Pilih Kelas :** Setelah masuk silahkan pilih kelas pada menu draft dan klik pada kelas yang akan dipublikasikan pengumuman pretest nya. 
 
-**3. Klik Terbitkan Pengumuman :** Setelah masuk pada kelas klik tombol “Terbitkan Pengumuman ”,
+**3. Klik Terbitkan Pengumuman :** Setelah masuk pada kelas klik tombol “Terbitkan Pengumuman ”.
 
 **4. Terbitkan Pengumuman pretest :** Isi Input Standar Kelulusan (MAX 100) , lalu Klik “Ya Saya Yakin” Untuk menerbitkan pengumuman pretest.
