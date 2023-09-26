@@ -22,7 +22,7 @@ Pada website Alkedemi.id, Anda dapat melakukan proses registrasi dengan cepat da
 
 Langkah-langkahnya adalah sebagai berikut:
 
-**1. Kunjungi halaman registrasi di Alkedemi.id.**
+**1. Kunjungi halaman registrasi di Alkedemi.id**
 
 **2﻿. Memilih opsi :** Pilih opsi "Daftar dengan GitHub" atau klik ikon GitHub yang terdapat di bagian pilihan login atau registrasi.
 
