@@ -16,7 +16,7 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-## Membuat Program
+#### Membuat Program
 
 Di halaman-halaman berikutnya, kita akan menjelajahi fitur-fitur, alat, dan strategi yang memungkinkan Anda untuk membuat program pembelajaran yang efektif yang menyesuaikan dengan tujuan dan aspirasi unik Anda. Apakah itu untuk meningkatkan keterampilan Anda, berbagi pengetahuan dengan orang lain, atau sekadar mengejar hasrat Anda dalam belajar, Alkademi adalah kanvas Anda untuk merancang perjalanan pendidikan yang Anda inginkan. Jadi, mari kita mulai dan temukan potensi tanpa batas dari "Membuat Program Alkademi".\
 Ikuti langkah-langkah ini untuk membuat sebuah program di alkademi.
