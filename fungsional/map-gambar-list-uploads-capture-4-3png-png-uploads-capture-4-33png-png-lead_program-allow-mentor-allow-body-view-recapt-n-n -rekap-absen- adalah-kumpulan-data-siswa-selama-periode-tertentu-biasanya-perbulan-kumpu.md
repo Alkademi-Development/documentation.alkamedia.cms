@@ -26,7 +26,7 @@ B﻿erikut langkah-langkah  untuk melihat rekap absen:
 
 **2﻿. Masuk ke halaman utama**
 
-**3﻿. Masuk ke menu jadwal :** setelah masuk ke halaman utama lalu anda klik menu jadwal keegiatan.
+**3﻿. Masuk ke menu jadwal :** setelah masuk ke halaman utama lalu anda klik menu jadwal kegiatan.
 
 **4﻿. Temukan aktivitas :** Setelah masuk pada menu jadwal kegiatan, lalu klik aktivitas, dan klik judul kegiatan pada modal
 
