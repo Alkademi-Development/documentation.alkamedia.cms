@@ -18,6 +18,8 @@ support_mobile: Yes
 ---
 #### **M﻿enghapus Kelas**
 
+B﻿erikut ini adalah langkah-langkah untuk menghapus kelas :
+
 1. **Akses Menu Kelas:** Pertama, setelah login dan membuka, cari dan klik opsi "Kelas" di menu navigasi. Ini akan membawa Anda ke halaman yang menampilkan daftar kelas yang sudah Anda buat.
 2. **Pilih Kelas yang Akan Dihapus:** Temukan dan pilih kelas yang ingin Anda hapus. Klik pada nama kelas tersebut.
 3. **Pilih Menu Opsi:** Di halaman detail kelas, Anda akan melihat ikon titik tiga. di pojok kanan atas. Klik ikon ini untuk membuka menu opsi.
