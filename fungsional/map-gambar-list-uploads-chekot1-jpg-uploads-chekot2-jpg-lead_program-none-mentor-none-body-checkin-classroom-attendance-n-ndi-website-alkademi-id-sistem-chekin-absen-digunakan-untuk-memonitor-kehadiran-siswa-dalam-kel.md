@@ -27,8 +27,8 @@ Berikut langkah-langkah melakukan checkin absensi:
 1. **Akses Menu Kelas:** Setelah login menggunakan akun siswa dan membuka aplikasi, cari dan klik opsi **"KELAS"** di menu navigasi.
 2. **Pilih Kelas:** Setelah masuk ke halaman kelas, pilih kelas yang akan Anda gunakan untuk melakukan checkin absensi.
 3. **Klik Absen:** Dengan menekan tombol **"Absen"**, Anda akan diarahkan ke halaman pengisian absensi.
-4. **Ambil Gambar:** Setelah masuk, otorisasikan akses kamera, lalu klik "Ambil Gambar" dan selanjutnya klik "Lanjutkan."
-5. **Tanda Tangan:** Setelah mengambil gambar, Anda akan diminta untuk membuat tanda tangan elektronik, lalu klik "Lanjutkan."
+4. **Ambil Gambar:** Setelah masuk, otorisasikan akses kamera, lalu klik "Ambil Gambar" dan selanjutnya klik "Lanjutkan".
+5. **Tanda Tangan:** Setelah mengambil gambar, Anda akan diminta untuk membuat tanda tangan elektronik, lalu klik "Lanjutkan".
 6. **Lokasi:** Klik "Dapatkan Lokasi" dan klik "Lanjutkan" untuk mengizinkan akses lokasi.
 
 Dengan mengikuti langkah-langkah di atas, Anda dapat dengan mudah melakukan proses checkin absensi dalam kelas Anda. Fitur ini membantu dalam memantau dan mencatat kehadiran siswa dengan lebih efisien.
