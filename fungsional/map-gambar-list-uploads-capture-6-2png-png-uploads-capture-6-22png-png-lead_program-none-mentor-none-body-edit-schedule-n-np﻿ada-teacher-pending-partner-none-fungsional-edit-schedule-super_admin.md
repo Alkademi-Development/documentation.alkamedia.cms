@@ -26,7 +26,7 @@ U﻿ntuk melakukan Edit Jadwal Kegiatan anda  dapat mengikuti langkah-langkah be
 
 **2﻿. Pilih Jadawal aktivitas publik :** Setelah masuk silahkan pilih jadwal kegiatan yang akan anda edit.
 
-**3﻿ Klik tombol Pensil :** tekan pada bagian tanggal kegiatan (untuk mobile)/arahkan mouse pada bagian tanggal kegiatan (untuk desktop). lalu klik tombol "Pensil".
+**3﻿ Klik tombol Pensil :** tekan pada bagian tanggal kegiatan (untuk mobile)/arahkan mouse pada bagian tanggal kegiatan (untuk desktop). lalu klik tombol "Pensil."
 
 **4﻿. Edit :** Setelah masuk silahkan lakukan pengeditaan pada form editi yang telah di sediakan.
 
