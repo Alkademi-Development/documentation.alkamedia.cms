@@ -24,4 +24,4 @@ erikut adalah langkah-langkah untuk menghapus karier dalam sebuah event:
 4. **Hapus:** Klik "Ya" atau "Hapus" dalam notifikasi konfirmasi. Karier tersebut akan dihapus dari daftar event.
 5. **Verifikasi:** Periksa daftar event untuk memastikan karier tersebut telah dihapus dengan sukses.
 
-Dengan langkah-langkah di atas, Anda dapat dengan mudah menghapus karier yang tidak diperlukan dalam event Anda. Pastikan untuk berhati-hati saat menghapus karena tindakan ini tidak dapat dibatalkan, dan informasi yang terkait dengan karier tersebut akan hilang.
+Dengan langkah-langkah di atas, Anda dapat dengan mudah menghapus karier yang tidak diperlukan dalam event Anda. Pastikan untuk berhati-hati saat menghapus karena tindakan ini tidak dapat dibatalkan, dan informasi yang terkait dengan karier tersebut akan hilang
