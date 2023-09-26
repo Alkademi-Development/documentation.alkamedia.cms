@@ -37,7 +37,7 @@ Berikut langkah-langkah yang benar untuk membuat kelas :
 
 * **Masukkan Kelas Ke Program:** Pilih program yang relevan, jika ada.
 * **Mode Kelas:** Pilih mode kelas, bisa "Online" atau lainnya.
-* **Tipe Kelas:** Tentukan tipe kelas, 
+* **Tipe Kelas:** Tentukan tipe kelas.
 * **Aksesibilitas:** Pilih tingkat aksesibilitas kelas.
 * **Mentor:** Pilih mentor atau pengajar yang akan mengajar di kelas ini.
 * **Materi:** Pilih materi yang akan diajarkan di kelas.
