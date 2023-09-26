@@ -13,7 +13,7 @@ lead_program: Allow
 lead_region: Allow
 content_writer: None
 industri: Pending
-student: None
+student: Allow
 support_mobile: Yes
 ---
 #### **Read Course**
