@@ -24,4 +24,4 @@ Langkah-langkah untuk membuat karier baru adalah sebagai berikut:
 4. **Isi Detail Karier:** Anda akan diarahkan ke halaman pembuatan karier. Di sini, Anda akan diminta untuk mengisi beberapa informasi terkait karier yang ingin Anda buat. Informasi ini mungkin meliputi judul karier, deskripsi, persyaratan, tanggal pelaksanaan, dan informasi lain yang relevan.
 5. **Submit:** Setelah Anda mengisi semua informasi yang diperlukan dengan benar, pastikan untuk mengklik tombol "Submit".
 
-Dengan mengikuti langkah-langkah di atas, Anda akan dapat membuat karier baru dengan lancar. Pastikan untuk memberikan informasi yang jelas dan relevan agar peserta yang berminat dapat dengan mudah memahami karier yang Anda tawarkan.
+Dengan mengikuti langkah-langkah di atas, Anda akan dapat membuat karier baru dengan lancar. Pastikan untuk memberikan informasi yang jelas dan relevan agar peserta yang berminat dapat dengan mudah memahami karier yang Anda tawarkan
