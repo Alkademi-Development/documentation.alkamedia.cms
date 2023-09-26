@@ -18,6 +18,8 @@ support_mobile: Yes
 ---
 #### Menggunakan Filter dan Pengurutan Kelas
 
+B﻿erikut ini adalah langkah-langkah untuk menggunakan Fulter dan pengurutan kelas:
+
 1. **Akses Menu Kelas:** Pertama-tama, setelah login, klik menu "Kelas" di menu navigasi. Ini akan membawa Anda ke halaman yang menampilkan daftar kelas yang tersedia.
 2. **Pilih Filter :** Di halaman kelas, Anda akan melihat opsi "Program" untuk menyaring kelas berdasarkan program tertentu.
 3. **Pilih Program yang Diinginkan:** Setelah Anda mengklik "Program," akan muncul daftar program yang tersedia. Pilih program yang sesuai dengan pencarian Anda.
