@@ -24,4 +24,4 @@ Fitur pengiriman gambar ini memungkinkan Anda untuk dengan mudah mengirim gambar
 5. Setelah memilih gambar, klik tombol "Kirim" atau "Ok" (tergantung pada perangkat atau aplikasi yang Anda gunakan) untuk mengirim gambar tersebut.
 6. Gambar yang Anda kirim akan muncul dalam jendela obrolan, dan pengguna lain akan dapat melihatnya.
 
-Dengan mengikuti langkah-langkah di atas, Anda dapat dengan mudah menggunakan fitur pengiriman gambar dalam obrolan untuk membagikan gambar yang relevan dengan topik pembicaraan atau keperluan komunikasi Anda.
+Dengan mengikuti langkah-langkah di atas, Anda dapat dengan mudah menggunakan fitur pengiriman gambar dalam obrolan untuk membagikan gambar yang relevan dengan topik pembicaraan atau keperluan komunikasi Anda
