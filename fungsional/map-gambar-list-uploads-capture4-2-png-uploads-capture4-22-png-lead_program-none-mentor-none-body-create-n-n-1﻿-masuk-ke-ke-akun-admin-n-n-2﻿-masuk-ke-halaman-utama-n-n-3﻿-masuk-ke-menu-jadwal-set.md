@@ -26,11 +26,11 @@ U﻿ntuk menggunakan fitur tersebut anda bisa mengikuti langkah-langkah berikut 
 
 **2﻿. Masuk ke halaman utama.**
 
-**3﻿.  Masuk ke menu jadwal :** setelah masuk ke halaman utama lalu anda klik menu jadwal keegiatan.
+**3﻿.  Masuk ke menu jadwal :** setelah masuk ke halaman utama lalu anda klik menu jadwal kegiatan.
 
 **4﻿. Temukan aktivitas :** Setelah masuk pada menu jadwal kegiatan, lalu klik  aktivitas, dan klik judul kegiatan pada modal.
 
-**5﻿. klik rekap absen :** lalu klik tombol "rekap abesen" yang akan di Edit.
+**5﻿. klik rekap absen :** lalu klik tombol "rekap absen" yang akan di Edit.
 
 **6﻿. Edit absen :** Lalu klik tombol "EDIT ABSENSI", dan lakukan pengeditan pada absen yang akan anda edit.
 
