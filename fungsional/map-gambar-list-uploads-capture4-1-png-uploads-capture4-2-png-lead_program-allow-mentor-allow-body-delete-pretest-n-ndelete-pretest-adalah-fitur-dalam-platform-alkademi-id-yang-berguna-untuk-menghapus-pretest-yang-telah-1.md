@@ -22,10 +22,10 @@ Delete pretest adalah fitur dalam platform alkademi.id yang berguna untuk mengha
 
 Untuk menghapus pretest anda bisa mengikuti langkah-langkah sebagai berikut:
 
-1.﻿ Klik Menu Kelas : Setelah login menggunakan akun Admin dan membuka aplikasi , cari dan klik opsi "KELAS" di menu navigasi.
+**1.﻿ Klik Menu Kelas :** Setelah login menggunakan akun Admin dan membuka aplikasi , cari dan klik opsi "KELAS" di menu navigasi.
 
-2﻿. Pilih Kelas : Setelah masuk silahkan pilih kelas pada menu draft dan klik pada kelas yang akan di hapus pada bagian pretest.
+**2﻿. Pilih Kelas :** Setelah masuk silahkan pilih kelas pada menu draft dan klik pada kelas yang akan di hapus pada bagian pretest.
 
-3. Klik Lihat Pretest : Setelah masuk pada kelas klik tombol “ Lihat Pretest”.
+**3. Klik Lihat Pretest :** Setelah masuk pada kelas klik tombol “ Lihat Pretest”.
 
-4. Delete pretest : Setelah masuk klik ikon “Delete”, dan klik tombol “Ya Saya Yakin” untuk memverifikasi bahwa anda benar akan menghapus pretest tersebut.
+**4. Delete pretest :** Setelah masuk klik ikon “Delete”, dan klik tombol “Ya Saya Yakin” untuk memverifikasi bahwa anda benar akan menghapus pretest tersebut.
