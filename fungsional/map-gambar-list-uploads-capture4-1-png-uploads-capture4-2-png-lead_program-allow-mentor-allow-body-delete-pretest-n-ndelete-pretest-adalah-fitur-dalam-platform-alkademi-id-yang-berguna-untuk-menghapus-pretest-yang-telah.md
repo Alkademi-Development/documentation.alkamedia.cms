@@ -22,12 +22,12 @@ Download of pretest participants atau Download Peserta Pretest adalah fitur yang
 
 Untuk mendownload peserta pretest anda bisa mengikuti langkah-langkah sebagai berikut:
 
-1.﻿ Klik Menu Kelas : Setelah login menggunakan akun Admin dan membuka aplikasi , cari dan klik opsi "KELAS" di menu navigasi.
+**1.﻿ Klik Menu Kelas :** Setelah login menggunakan akun Admin dan membuka aplikasi , cari dan klik opsi "KELAS" di menu navigasi.
 
-2﻿. Pilih Kelas : Setelah masuk silahkan pilih kelas pada menu draft dan klik pada kelas yang akan anda download pada bagian peserta pretest nya.
+**2﻿. Pilih Kelas :** Setelah masuk silahkan pilih kelas pada menu draft dan klik pada kelas yang akan anda download pada bagian peserta pretest nya.
 
-3. Klik Lihat Pretest : Setelah masuk pada kelas klik tombol “ Lihat Pretest”,
+**3. Klik Lihat Pretest :** Setelah masuk pada kelas klik tombol “ Lihat Pretest”.
 
-4. Klik Lihat Peserta : Setelah masuk klik tombol “LIHAT PESERTA” .
+**4. Klik Lihat Peserta :** Setelah masuk klik tombol “LIHAT PESERTA” .
 
-5. Download : Klik tombol “Download” Untuk mendownload Peserta Pretest.
+**5. Download :** Klik tombol “Download” Untuk mendownload Peserta Pretest.
