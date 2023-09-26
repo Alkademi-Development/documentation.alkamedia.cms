@@ -17,4 +17,4 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-Grafik ini memberikan gambaran partisipasi peserta dalam program tertentu. Dengan grafik ini, Anda dapat memantau pertumbuhan jumlah peserta dari waktu ke waktu. Ini memungkinkan Anda untuk melihat bagaimana popularitas program tersebut berkembang dan mengidentifikasi tren partisipasi yang berguna dalam merencanakan perluasan program atau peningkatan konten yang relevan.
+Grafik ini memberikan gambaran partisipasi peserta dalam program tertentu. Dengan grafik ini, Anda dapat memantau pertumbuhan jumlah peserta dari waktu ke waktu. Ini memungkinkan Anda untuk melihat bagaimana popularitas program tersebut berkembang dan mengidentifikasi tren partisipasi yang berguna dalam merencanakan perluasan program atau peningkatan konten yang relevan
