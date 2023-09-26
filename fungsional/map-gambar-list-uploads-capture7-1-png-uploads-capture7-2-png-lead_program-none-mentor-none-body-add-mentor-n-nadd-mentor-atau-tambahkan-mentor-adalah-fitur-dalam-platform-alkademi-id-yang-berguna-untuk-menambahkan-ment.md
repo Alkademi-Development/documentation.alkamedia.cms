@@ -22,10 +22,10 @@ Add mentor atau tambahkan mentor adalah fitur dalam platform alkademi.id yang be
 
 Untuk menambahkan mentor anda bisa mengikuti langkah-langkah sebagai berikut:
 
-1.﻿ Klik Menu Kelas : Setelah login menggunakan akun Admin dan membuka aplikasi , cari dan klik opsi "KELAS" di menu navigasi.
+**1.﻿ Klik Menu Kelas :** Setelah login menggunakan akun Admin dan membuka aplikasi , cari dan klik opsi "KELAS" di menu navigasi.
 
-2﻿. Pilih Kelas : Setelah masuk silahkan pilih kelas pada menu draft dan klik pada kelas yang akan anda tambahkan Mentor. 
+**2﻿. Pilih Kelas :** Setelah masuk silahkan pilih kelas pada menu draft dan klik pada kelas yang akan anda tambahkan Mentor. 
 
-3. Klik Tambah Mentor : Setelah masuk pada kelas klik tombol “+ Tambah Mentor”,
+**3. Klik Tambah Mentor :** Setelah masuk pada kelas klik tombol “+ Tambah Mentor”,
 
-4.Cari Mentor: Lalu cari Mentor yang akan ditambahkan  dan klik tombol “Tambahkan” Untuk menambahkan Mentor tersebut ke dalam kelas.
+**4. Cari Mentor:** Lalu cari Mentor yang akan ditambahkan  dan klik tombol “Tambahkan” Untuk menambahkan Mentor tersebut ke dalam kelas.
