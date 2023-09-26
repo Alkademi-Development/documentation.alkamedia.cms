@@ -1,5 +1,5 @@
 ---
-menu: Classroom(Overview)
+menu: Classroom(Materi)
 fungsional: Edit module
 gambar:
   - uploads/capture7.1.png
