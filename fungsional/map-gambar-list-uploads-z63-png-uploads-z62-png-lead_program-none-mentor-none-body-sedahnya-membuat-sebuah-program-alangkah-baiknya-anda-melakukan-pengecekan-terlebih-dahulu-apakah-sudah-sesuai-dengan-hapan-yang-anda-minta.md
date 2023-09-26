@@ -23,4 +23,4 @@ Setelah Anda selesai membuat program, penting untuk melakukan pengecekan terlebi
 1. **Buka Menu "Program":**  Anda akan menemukan berbagai menu. Cari dan klik menu "Program."
 2. **Lihat Program Anda:** Di dalam menu "Program," Anda akan melihat daftar program yang telah Anda buat sebelumnya. Cukup pilih program yang ingin Anda tinjau atau kelola.
 
-Dengan mengikuti langkah-langkah ini, Anda dapat dengan mudah melihat program-program yang telah Anda buat sebelumnya dan memastikan bahwa mereka sesuai dengan harapan Anda. Hal ini dapat membantu Anda dalam mengelola dan menyediakan program-program berkualitas kepada orang lain.
+Dengan mengikuti langkah-langkah ini, Anda dapat dengan mudah melihat program-program yang telah Anda buat sebelumnya dan memastikan bahwa mereka sesuai dengan harapan Anda. Hal ini dapat membantu Anda dalam mengelola dan menyediakan program-program berkualitas kepada orang lain
