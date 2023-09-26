@@ -30,7 +30,7 @@ Pada website Alkedemi.id, Anda dapat melakukan proses registrasi dengan cepat da
 
 **4﻿. Berikan izin akses : S**etelah masuk, LinkedIn akan meminta Anda memberikan izin akses kepada alkademi.id
 
-**5﻿. Verivikasi Izin :** Verifikasi Izin: Pastikan untuk membaca dan memahami izin yang diminta. Jika Anda setuju, klik tombol "Izinkan"
+**5﻿. Verivikasi Izin :** Verifikasi Izin: Pastikan untuk membaca dan memahami izin yang diminta. Jika Anda setuju, klik tombol "Izinkan".
 
 **6﻿. Konfirmasi informasi :** Setelah izin diberikan, alkademi.id akan mengambil informasi yang relevan dari profil LinkedIn Anda. 
 
