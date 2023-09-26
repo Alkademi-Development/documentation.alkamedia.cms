@@ -23,9 +23,6 @@ Delete course adalah fitur dalam platform alkademi.id yang berguna untuk menghap
 Untuk menggunakan fitur ini anda bisa mengikuti  langkah-langkah berikut ini:
 
 1. pilih materi yang ingin di hapus.
-
 2. klik dan tahan judul materi sehingga muncul logo hapus (delete).
-
 3. klik logo hapus tersebut.
-
-4. setelah itu akan ada muncul notifikasi klik saja YA.
+4. setelah itu akan ada muncul notifikasi klik saja "Ya Saya Yakin".
