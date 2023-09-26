@@ -17,4 +17,4 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-Di sini, Anda dapat melihat kemajuan dalam menyelesaikan tugas atau proyek. Fitur ini membantu Anda mengamati perkembangan pekerjaan dan mengidentifikasi area yang memerlukan perhatian lebih. Dengan informasi ini, Anda dapat dengan mudah melacak tugas yang sudah selesai, yang sedang berjalan, serta tugas yang mungkin mengalami kendala. Ini membantu Anda dalam mengelola proyek dengan lebih efisien dan membuat keputusan yang lebih baik dalam alokasi sumber daya.
+Di sini, Anda dapat melihat kemajuan dalam menyelesaikan tugas atau proyek. Fitur ini membantu Anda mengamati perkembangan pekerjaan dan mengidentifikasi area yang memerlukan perhatian lebih. Dengan informasi ini, Anda dapat dengan mudah melacak tugas yang sudah selesai, yang sedang berjalan, serta tugas yang mungkin mengalami kendala. Ini membantu Anda dalam mengelola proyek dengan lebih efisien dan membuat keputusan yang lebih baik dalam alokasi sumber daya
