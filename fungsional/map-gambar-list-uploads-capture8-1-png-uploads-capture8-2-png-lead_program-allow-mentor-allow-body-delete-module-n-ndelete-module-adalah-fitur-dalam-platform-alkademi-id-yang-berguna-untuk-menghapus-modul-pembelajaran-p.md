@@ -1,5 +1,5 @@
 ---
-menu: Classroom(Overview)
+menu: Classroom(Materi)
 fungsional: Delete module
 gambar:
   - uploads/capture8.1.png
