@@ -17,4 +17,4 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-Bagian ini menampilkan peringkat pengguna berdasarkan prestasi mereka dalam satu minggu terakhir. Ini memberikan pengakuan kepada pengguna yang berprestasi dalam rentang waktu tersebut. Dengan leaderboard ini, Anda dapat menghargai dan memotivasi pengguna yang telah mencapai hasil luar biasa selama minggu terakhir. Ini juga dapat mendorong kompetisi sehat di antara pengguna dan meningkatkan partisipasi dalam platform.
+Bagian ini menampilkan peringkat pengguna berdasarkan prestasi mereka dalam satu minggu terakhir. Ini memberikan pengakuan kepada pengguna yang berprestasi dalam rentang waktu tersebut. Dengan leaderboard ini, Anda dapat menghargai dan memotivasi pengguna yang telah mencapai hasil luar biasa selama minggu terakhir. Ini juga dapat mendorong kompetisi sehat di antara pengguna dan meningkatkan partisipasi dalam platform
