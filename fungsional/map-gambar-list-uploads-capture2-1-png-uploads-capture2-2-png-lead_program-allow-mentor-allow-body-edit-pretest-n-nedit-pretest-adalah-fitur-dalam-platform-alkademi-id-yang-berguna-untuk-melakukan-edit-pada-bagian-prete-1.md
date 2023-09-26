@@ -26,6 +26,6 @@ Untuk mengedit pretest anda bisa mengikuti langkah-langkah berikut:
 
 2﻿. Pilih Kelas : Setelah masuk silahkan pilih kelas pada menu draft dan klik pada kelas yang akan di edit pada bagian pretest.
 
-3. Klik Lihat Pretest : Setelah masuk pada kelas klik tombol “ Lihat Pretest”, 
+3. Klik Lihat Pretest : Setelah masuk pada kelas klik tombol “Lihat Pretest”, 
 4. Edit pretest : Setelah masuk klik ikon “pensil”, dan isi kolom input pada bagian yang akan di edit.
 5. Submit : Klik tombol “Submit” Untuk menyimpan pretest.
