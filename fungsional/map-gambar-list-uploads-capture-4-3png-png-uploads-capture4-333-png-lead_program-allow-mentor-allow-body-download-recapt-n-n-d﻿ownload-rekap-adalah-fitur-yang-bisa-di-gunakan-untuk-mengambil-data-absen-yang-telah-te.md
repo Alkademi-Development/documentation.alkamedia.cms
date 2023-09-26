@@ -22,7 +22,7 @@ support_mobile: Yes
 
 B﻿erikut langkah-langkah untuk mendownload rekap absen :
 
-1﻿. Masuk ke ke akun Admin*
+1﻿. Masuk ke ke akun Admin
 
 2﻿. Masuk ke halaman utama
 
