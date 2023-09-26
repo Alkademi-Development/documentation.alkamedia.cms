@@ -1,6 +1,6 @@
 ---
 menu: Dashboard
-fungsional: Introduction
+fungsional: Introduction Dashboard
 gambar: []
 super_admin: Allow
 admin: Allow
