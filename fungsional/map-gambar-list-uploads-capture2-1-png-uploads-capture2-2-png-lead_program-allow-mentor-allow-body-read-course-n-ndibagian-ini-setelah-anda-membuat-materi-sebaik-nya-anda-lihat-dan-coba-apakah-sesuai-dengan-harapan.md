@@ -22,7 +22,7 @@ Dibagian ini setelah anda membuat materi,sebaik nya anda lihat dan coba apakah s
 
 Untuk membaca kursus atau materi anda bisa mengikuti langkah-langkah berikut ini:
 
-**1.﻿ Klik Menu Kelas :** Setelah login menggunakan akun Admin dan membuka aplikasi , cari dan klik opsi "KELAS" di menu navigasi.
+**1.﻿ Klik Menu Kelas :** Setelah login menggunakan akun Admin dan membuka aplikasi, cari dan klik opsi "KELAS" di menu navigasi.
 
 **2﻿. Pilih Kelas :** Setelah masuk silahkan pilih kelas dan klik pada kelas yang akan Materinya anda lihat. 
 
