@@ -18,7 +18,7 @@ support_mobile: Yes
 ---
 Profil online Anda sering kali merupakan kesan pertama yang Anda berikan kepada orang lain.  tidak hanya menempatkan profile saja, fitur ini bisa mengubah suatu profile anda.\
 \
-Jika Anda ingin memperbarui profil Anda,**berikut langkah langkahnya;**
+Jika Anda ingin memperbarui profil Anda, berikut langkah langkahnya;
 
 1. **Masuk ke Akun Anda:** Buka situs web atau aplikasi "Alkademi" dan masuk ke akun Anda dengan menggunakan informasi login yang sesuai.
 2. **Akses Profil Anda:** Setelah masuk, carilah opsi atau ikon yang mengarahkan Anda ke halaman profil Anda. ini dapat ditemukan di bagian atas atau pojok kiri atas halaman.
