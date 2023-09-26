@@ -25,4 +25,4 @@ Fitur obrolan ini memungkinkan Anda untuk berkomunikasi dengan peserta lain atau
 5. Setelah selesai mengetik pesan, tekan tombol "Enter" atau "Kirim" untuk mengirim pesan tersebut kepada pengguna lain.
 6. Tunggu balasan dari pengguna lain di jendela obrolan yang sama.
 
-Dengan mengikuti langkah-langkah di atas, Anda dapat menggunakan fitur obrolan untuk berkomunikasi dengan pengguna lain, mengirim pesan teks, gambar, atau file sesuai kebutuhan. Pastikan untuk menjaga komunikasi Anda dengan sesama pengguna tetap sopan dan sesuai dengan aturan yang berlaku dalam platform atau aplikasi yang Anda gunakan.
+Dengan mengikuti langkah-langkah di atas, Anda dapat menggunakan fitur obrolan untuk berkomunikasi dengan pengguna lain, mengirim pesan teks, gambar, atau file sesuai kebutuhan. Pastikan untuk menjaga komunikasi Anda dengan sesama pengguna tetap sopan dan sesuai dengan aturan yang berlaku dalam platform atau aplikasi yang Anda gunakan
