@@ -25,6 +25,6 @@ Selain membuat absensi kelas, Anda juga dapat mengeditnya jika terdapat kesalaha
 3. **Klik Rekap Absensi:** Di dalam kelas, temukan opsi **"Rekap Absensi"** dan klik.
 4. **Klik "EDIT ABSENSI":** Setelah masuk ke halaman rekap absensi, cari tombol **"EDIT ABSENSI"** dan klik untuk mulai mengedit absensi.
 5. **Edit Absensi:** Di halaman edit absensi, lakukan perubahan yang diperlukan pada absensi sesuai dengan kesalahan atau perubahan yang Anda inginkan.
-6. **Klik Simpan:** Setelah Anda selesai melakukan pengeditan, pastikan untuk mengklik tombol **"Simpan"** untuk menyimpan perubahan yang telah Anda buat.
+6. **Klik Simpan:** Setelah Anda selesai melakukan pengeditan, pastikan untuk mengklik tombol **"**Simpan**"** untuk menyimpan perubahan yang telah Anda buat.
 
 Dengan mengikuti langkah-langkah di atas, Anda dapat dengan mudah mengedit absensi kelas. jika ada kesalahan atau perubahan yang perlu dilakukan.
