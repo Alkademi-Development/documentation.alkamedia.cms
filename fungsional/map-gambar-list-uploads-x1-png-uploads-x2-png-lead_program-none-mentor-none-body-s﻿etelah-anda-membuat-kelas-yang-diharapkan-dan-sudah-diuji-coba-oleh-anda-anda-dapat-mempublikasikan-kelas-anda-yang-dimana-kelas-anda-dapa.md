@@ -18,7 +18,7 @@ support_mobile: Yes
 ---
 #### Menerbitkan Kelas
 
-Setelah Anda membuat kelas yang diharapkan dan sudah diuji coba oleh Anda, langkah selanjutnya adalah mempublikasikan kelas tersebut. Ini akan membuat kelas Anda dapat dilihat dan diikuti oleh orang lain yang tertarik.
+   Setelah Anda membuat kelas yang diharapkan dan sudah diuji coba oleh Anda, langkah selanjutnya adalah mempublikasikan kelas tersebut. Ini akan membuat kelas Anda dapat dilihat dan diikuti oleh orang lain yang tertarik.  
 
 Berikut adalah langkah-langkah untuk mempublikasikan kelas Anda:
 
@@ -26,4 +26,4 @@ Berikut adalah langkah-langkah untuk mempublikasikan kelas Anda:
 2. **Pilih Kelas yang Ingin Dipublikasikan:** Dari daftar kelas di menu "Draf," pilih kelas yang ingin Anda publikasikan. Klik pada nama kelas tersebut untuk membuka detailnya.
 3. **Terbitkan Kelas:** Di halaman detail kelas, Anda akan menemukan tombol "Terbitkan" atau "Publikasikan." Klik tombol ini untuk mempublikasikan kelas Anda.
 
-Setelah Anda melakukan langkah ini, kelas Anda akan tersedia untuk dilihat dan diikuti oleh orang lain. Pastikan kelas Anda telah siap untuk dikonsumsi oleh peserta sebelum mempublikasikannya.
+   Setelah Anda melakukan langkah ini, kelas Anda akan tersedia untuk dilihat dan diikuti oleh orang lain. Pastikan kelas Anda telah siap untuk dikonsumsi oleh peserta sebelum mempublikasikannya.
