@@ -18,15 +18,15 @@ support_mobile: Yes
 ---
 ### Checkin
 
-C﻿heckin adalah fitur yang ber guna untuk  siswa mengisi absen siswa.
+C﻿heckin adalah fitur yang berguna untuk  siswa mengisi absen siswa.
 
 B﻿erikut langkah langkah melakukan Checkin absensi :
 
-**1﻿. Masuk ke ke akun Student**
+**1﻿. Masuk ke akun Student**
 
 **2﻿. Masuk ke halaman utama**
 
-**3﻿. Masuk ke menu jadwal :** setelah masuk ke halaman utama lalu anda klik menu jadwal keegiatan
+**3﻿. Masuk ke menu jadwal :** setelah masuk ke halaman utama lalu anda klik menu jadwal kegiatan
 
 **4﻿. Temukan aktivitas :** Setelah masuk pada menu jadwal kegiatan, lalu klik  aktivitas, dan klik judul kegiatan pada modal
 
