@@ -1,6 +1,6 @@
 ---
 menu: Authentication
-fungsional: Introduction
+fungsional: Introduction authentication
 gambar: []
 super_admin: Allow
 admin: Allow
