@@ -26,7 +26,7 @@ B﻿erikut langkah-langkah Registrasi pada platform alkademi.id :
 
 **2. Pilih "Daftar" atau "Register":** Biasanya, tombol atau opsi "Daftar" atau "Register" akan terlihat jelas di halaman beranda. Klik opsi tersebut.
 
-**3. Isi Formulir Registrasi:** Isi formulir registrasi yang mungkin mencakup informasi seperti nama, alamat email, kata sandi, tanggal lahir, dll. Pastikan informasi yang Anda berikan akurat.
+**3. Isi Formulir Registrasi:** Isi formulir registrasi yang mungkin mencakup informasi seperti nama, alamat email, kata sandi, tanggal lahir, dll, Pastikan informasi yang Anda berikan akurat.
 
 **4. Verifikasi Email:** Setelah mengisi formulir, Anda mungkin perlu memverifikasi alamat email Anda. Cek kotak masuk atau folder "Spam" di email Anda untuk menemukan email verifikasi dari situs web. Klik tautan verifikasi di email tersebut.
 
