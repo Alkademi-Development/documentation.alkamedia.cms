@@ -22,8 +22,8 @@ Delete Mentor adalah fitur dalam platform alkademi.id yang berguna untuk menghap
 
 Untuk menghapus Mentor anda bisa mengikuti langkah-lanngkah berikut ini:
 
-1.﻿ Klik Menu Kelas : Setelah login menggunakan akun Admin dan membuka aplikasi , cari dan klik opsi "KELAS" di menu navigasi.
+**1.﻿ Klik Menu Kelas :** Setelah login menggunakan akun Admin dan membuka aplikasi , cari dan klik opsi "KELAS" di menu navigasi.
 
-2﻿. Pilih Kelas : Setelah masuk silahkan pilih kelas pada menu draft dan klik pada kelas yang akan anda hapus mentornya. 
+**2﻿. Pilih Kelas :** Setelah masuk silahkan pilih kelas pada menu draft dan klik pada kelas yang akan anda hapus mentornya. 
 
-3. Klik ikon hapus : Setelah masuk pada kelas arahkan kursor pada mentor yang akan di hapus, lalu klik ikon hapus.
+**3. Klik ikon hapus :** Setelah masuk pada kelas arahkan kursor pada mentor yang akan di hapus, lalu klik ikon hapus.
