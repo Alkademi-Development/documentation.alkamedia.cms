@@ -24,12 +24,10 @@ Jadwal kegiatan pada website alkademi.id adalah fitur yang memungkinkan pengguna
 
 Pada halaman jadwal kegiatan, pengguna dapat melihat daftar kegiatan yang telah ditentukan. Setiap kegiatan akan memiliki informasi seperti judul, tanggal, waktu, dan lokasi. Pengguna juga dapat melihat deskripsi singkat tentang kegiatan tersebut.
 
-
-
 U﻿ntuk membuat jadwal kegiatan a﻿nda bisa mengikuti langkah-langkah berikut:
 
 **1.﻿ Klik Menu Jadwal Kegiatan:** Setelah login menggunakan akun admin dan membuka aplikasi , cari dan klik opsi "Jadwal Kegitan" di menu navigasi.
 
-**2﻿. Buat jadwal :** Klik tombol (+) dan isi kan data yang di perlukan pada form yang telah di sediakan.
+**2﻿. Buat jadwal :** Klik tombol (+) dan isi kan data yang di perlukan pada form yang telah di sediakan
 
 **3. k﻿lik Kirim :** Lalu Klik tombol "Kirim/Submit" untuk menyimpan Jadwal Kegiatan.
