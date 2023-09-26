@@ -26,7 +26,7 @@ Langkah-langkahnya adalah sebagai berikut:
 
 **2﻿. Memilih opsi :** Pilih opsi "Daftar dengan Google" atau klik ikon "Google" yang terdapat di bagian pilihan login atau registrasi.
 
-**3﻿. Pilih akun :** anda akan di minta memilih salah satu akun google yang sudah ada.
+**3﻿. Pilih akun :** anda akan di minta memilih salah satu akun google yang sudah ada
 
 **4﻿. Info profil :** Setelah itu anda akan di minta untuk mengisi profil ( jenis kelamin & asal kota).
 
