@@ -17,4 +17,4 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-Bagian ini menyajikan daftar kelas yang tersedia untuk diikuti oleh pengguna. Dengan bagian ini, Anda dapat meninjau detail kelas dan memilih opsi yang paling sesuai dengan minat dan kebutuhan Anda. Informasi tentang setiap kelas, termasuk deskripsi, jadwal, dan fasilitator, akan membantu Anda dalam membuat keputusan yang informasional dan tepat ketika memilih kelas yang ingin diikuti.
+Bagian ini menyajikan daftar kelas yang tersedia untuk diikuti oleh pengguna. Dengan bagian ini Anda dapat meninjau detail kelas dan memilih opsi yang paling sesuai dengan minat dan kebutuhan Anda. Informasi tentang setiap kelas, termasuk deskripsi, jadwal, dan fasilitator, akan membantu Anda dalam membuat keputusan yang informasional dan tepat ketika memilih kelas yang ingin diikuti.
