@@ -22,8 +22,8 @@ P﻿ada platform alkademi.id terdapat fitur View Available Schedule:Public atau 
 
 U﻿ntuk menggunakan fitur tersebut silahkan ikuti langkah-langkah sebagai berikut:
 
-**1.﻿ Klik Menu Jadwal Kegiatan :** Setelah login dan membuka aplikasi, cari dan klik opsi "Jadwal Kegiatan" di menu navigasi.
+**1.﻿ Klik Menu Jadwal Kegiatan :** Setelah login dan membuka aplikasi, cari dan klik opsi "Jadwal Kegiatan" di menu navigasi
 
-**2﻿. Klik Kegiatan :** Klik kegiatan yang mempunyai indikator warna ungu pada Daftar Jadwal Kegiatan.
+**2﻿. Klik Kegiatan :** Klik kegiatan yang mempunyai indikator warna ungu pada Daftar Jadwal Kegiatan
 
 **3﻿. klik Judul :** Klik Judul Aktivitas pada modal popup untuk melihat.
