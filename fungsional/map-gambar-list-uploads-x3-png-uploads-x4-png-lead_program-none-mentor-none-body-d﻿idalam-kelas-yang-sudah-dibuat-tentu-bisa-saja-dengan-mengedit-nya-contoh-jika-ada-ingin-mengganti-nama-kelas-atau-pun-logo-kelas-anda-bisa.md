@@ -18,6 +18,8 @@ support_mobile: Yes
 ---
 **M﻿engedit kelas**
 
+B﻿erikut ini adalah langkah-langkah untuk mengedit kelas :
+
 1. **Akses Menu Kelas:** Cari dan klik opsi "Kelas" di menu navigasi. Ini akan membawa Anda ke halaman yang menampilkan daftar kelas yang sudah Anda buat.
 2. **Pilih Kelas yang Akan Diedit:** Temukan dan pilih kelas yang ingin Anda edit. Klik pada nama kelas tersebut.
 3. **Pilih Menu Edit:** Di halaman detail kelas, Anda akan melihat ikon titik tiga di pojok kanan atas. Klik ikon ini untuk membuka menu opsi.
