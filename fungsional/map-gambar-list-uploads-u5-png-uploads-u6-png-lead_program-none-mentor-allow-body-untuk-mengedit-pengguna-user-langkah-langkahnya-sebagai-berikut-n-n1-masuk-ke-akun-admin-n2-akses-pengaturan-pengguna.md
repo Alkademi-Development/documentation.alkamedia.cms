@@ -32,4 +32,4 @@ Langkah-langkah ini memungkinkan pengguna untuk memperbarui informasi pribadi, p
 6. **Simpan Perubahan:**
    Setelah Anda selesai mengedit informasi, pastikan untuk menyimpan perubahan tersebut. Biasanya, ada tombol "Simpan", "Update", yang harus Anda klik.
 7. **Konfirmasi Perubahan:**
-   Setelah Anda mengonfirmasi perubahan, profil pengguna akan diperbarui sesuai dengan informasi yang Anda edit.
+   Setelah Anda mengonfirmasi perubahan, profil pengguna akan diperbarui sesuai dengan informasi yang Anda edit
