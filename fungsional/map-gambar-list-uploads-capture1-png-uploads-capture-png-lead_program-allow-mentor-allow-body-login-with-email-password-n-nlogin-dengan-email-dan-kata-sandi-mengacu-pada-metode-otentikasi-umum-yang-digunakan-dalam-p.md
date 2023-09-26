@@ -1,6 +1,6 @@
 ---
 menu: Authentication
-fungsional: Login with email & password
+fungsional: Login with Email & Password
 gambar:
   - uploads/capture1.png
   - uploads/login.jpg
