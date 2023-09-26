@@ -25,4 +25,4 @@ Langkah-langkah untuk mengedit karier dalam berbagai "Event" adalah sebagai beri
 5. **Klik Submit :** Setelah Anda selesai mengedit, pastikan untuk mengklik tombol "Submit". 
 6. **Verifikasi Perubahan:** Setelah mengklik "Submit". pastikan untuk memverifikasi bahwa perubahan yang Anda buat sudah tampil atau tersedia dalam daftar karier yang Anda edit.
 
-Dengan mengikuti langkah-langkah di atas, Anda dapat mengedit karier dalam berbagai "Event" sesuai dengan kebutuhan Anda. Pastikan untuk menyimpan perubahan dengan benar agar informasi karier yang Anda tawarkan tetap terkini.
+Dengan mengikuti langkah-langkah di atas, Anda dapat mengedit karier dalam berbagai "Event" sesuai dengan kebutuhan Anda. Pastikan untuk menyimpan perubahan dengan benar agar informasi karier yang Anda tawarkan tetap terkini
