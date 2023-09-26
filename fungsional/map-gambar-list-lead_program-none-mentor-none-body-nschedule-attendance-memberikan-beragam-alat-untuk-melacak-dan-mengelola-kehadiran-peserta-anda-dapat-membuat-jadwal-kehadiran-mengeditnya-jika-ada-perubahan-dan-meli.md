@@ -14,5 +14,4 @@ industri: Pending
 student: None
 support_mobile: Hidden
 ---
-**\
-Schedule (Attendance)**  memberikan beragam fitur untuk melacak dan mengelola kehadiran peserta. Anda dapat membuat jadwal kehadiran, mengeditnya jika ada perubahan, dan melihat rekap absen selama periode tertentu. Selain itu, Anda dapat mengunduh rekap absen dan QR kehadiran untuk pengelolaan yang lebih mudah. Bagi siswa, terdapat opsi Checkin untuk mengisi kehadiran mereka, dan Checkout untuk mengirimkan kehadiran mereka. Semua fitur ini dirancang untuk membantu Anda memantau dan mengelola kehadiran dengan efisien, baik sebagai pengelola maupun peserta pelatihan atau kelas online.
+**Schedule** adalah jadwal untuk mengatur dan melacak beragam kegiatan akademik dengan mudah. dirancang untuk membantu Anda mengatur waktu dan kegiatan dengan lebih efisien, memberikan pengalaman belajar yang lebih terstruktur.
