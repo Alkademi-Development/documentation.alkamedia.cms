@@ -22,8 +22,8 @@ P﻿ada platform alkademi.id terdapat fitur "Open The Schedule" atau fitur yang 
 
 U﻿ntuk menggunakan fitur tersebut silahkan ikuti langkah-langkah sebagai berikut:
 
-**1.﻿ Klik Menu Jadwal Kegiatan :** Setelah login dan membuka aplikasi, cari dan klik opsi "Jadwal Kegiatan" di menu navigasi.
+**1.﻿ Klik Menu Jadwal Kegiatan :** Setelah login dan membuka aplikasi, cari dan klik opsi "Jadwal Kegiatan" di menu navigasi
 
-**2. Pilih Jadwal Kegiatan:** Setelah masuk pada menu "Jadwal Kegiatan" Silahkan Pilih Kegiatan yang akan anda buka.
+**2. Pilih Jadwal Kegiatan:** Setelah masuk pada menu "Jadwal Kegiatan" Silahkan Pilih Kegiatan yang akan anda buka
 
 **3﻿. Klik Jadwal Kegiatan :** Setelah anda menemukan jadwal kegiatan yang akan anda buka, lalu klik jadwal tersebut dan  Klik Judul Aktivitas pada modal popup untuk membuka.
