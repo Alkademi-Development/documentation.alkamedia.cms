@@ -1,6 +1,6 @@
 ---
 menu: Schedule(Attendance)
-fungsional: Introduction
+fungsional: Introduction Schedule(Attendance)
 gambar: []
 super_admin: Allow
 admin: Allow
