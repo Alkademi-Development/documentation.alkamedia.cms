@@ -10,21 +10,24 @@ const Sidebar: React.FC<SidebarProps> = ({ data, pageName, state, showSidebar, s
   let dirs: (NestedDir|string)[] = data.filter(menu => !menu.includes("("))
   
   
-  for(let menu of data.filter(menu => menu.includes("("))){
-    const i = dirs.findIndex(dir => typeof(dir) == 'string' ? menu.includes(dir) : menu.includes(dir.dir))
-    
-    if (i >= 0){
-      dirs[i] = {
-        dir: menu.split("(")[0],
-        parents: [...(typeof(dirs[i]) == 'string' ? [menu.split("(")[0]] : (dirs[i] as NestedDir).parents), menu]
+  data.forEach((menu, _i, all) => {
+    if(menu.includes("(")) {
+      const i = dirs.findIndex(dir => typeof(dir) == 'string' ?  menu.split('(')[0] == dir : menu.split('(')[0] == dir.dir)
+      
+      if (i >= 0){
+        dirs[i] = {
+          dir: menu.split("(")[0],
+          parents: [...(typeof(dirs[i]) == 'string' ? [menu.split("(")[0]] : (dirs[i] as NestedDir).parents), menu]
+        }
+      } else {
+        const last = dirs.findIndex(dir => typeof(dir) == 'string' ?  all[_i - 1].split('(')[0] == dir : all[_i - 1].split('(')[0] == dir.dir)
+        dirs.splice(last < 0 ? dirs.length - 1 : last + 1, 0, {
+          dir: menu.split("(")[0],
+          parents: [menu]
+        })
       }
-    } else{
-      dirs.push({
-        dir: menu.split("(")[0],
-        parents: [menu]
-      })
     }
-  }
+  })
 
   return (
     <>
