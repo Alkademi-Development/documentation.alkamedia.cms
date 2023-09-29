@@ -1,6 +1,6 @@
 ---
 menu: Classroom(Attendance)
-fungsional: Create Clasroom (Attendance)
+fungsional: Create Clasroom(Attendance)
 gambar:
   - uploads/capture5.1.png
   - uploads/creat-attendance-cls.jpg
