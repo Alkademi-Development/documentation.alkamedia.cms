@@ -19,7 +19,7 @@ support_mobile: Yes
 T﻿idak hanya membuat saja,selain itu anda juga bisa mengedit program yang menurut anda ada kesalahan kesalahn atau tertinggal.\
 untuk mengedit sebuah program, ikuti **langkah-langkah** umum berikut.
 
-1. **Masuk:** Masuk ke akun admin
+1. **Masuk:** Masuk ke akun admin 
 2. **Akses Pengelolaan Program:** Navigasi ke bagian di mana Anda mengelola program-program.
 3. **Temukan Program:** Cari program yang ingin Anda edit dari daftar program-program.
 4. **Edit Detail Program:** Klik judul program atau tombol/ikon "Edit" yang terkait dengan program tersebut. Ini akan membawa Anda ke halaman di mana Anda dapat mengubah detail program.
