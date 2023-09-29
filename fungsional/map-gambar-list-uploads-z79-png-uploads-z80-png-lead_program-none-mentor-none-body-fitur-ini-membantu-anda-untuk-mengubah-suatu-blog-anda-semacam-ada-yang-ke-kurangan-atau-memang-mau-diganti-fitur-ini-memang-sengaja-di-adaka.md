@@ -18,7 +18,7 @@ support_mobile: Yes
 ---
 Fitur ini memungkinkan Anda untuk mengedit blog yang telah Anda buat sebelumnya. Anda dapat melakukan perubahan seperti menambahkan informasi yang kurang, mengganti konten, atau memperbarui blog sesuai kebutuhan Anda. Fitur ini sangat berguna jika Anda ingin memperbaiki atau memperbarui blog Anda.
 
-Berikut langkah-langkah untuk mengedit blog:
+Berikut langkah-langkah untuk mengedit blog: 
 
 1. **Pilih Menu "Blog":** Di menu navigasi, cari dan pilih opsi "Blog."
 2. **Pilih Blog yang Ingin Diubah:** Dalam daftar blog yang tersedia, pilih blog yang ingin Anda edit.
