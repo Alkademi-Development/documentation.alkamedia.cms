@@ -17,7 +17,7 @@ support_mobile: Yes
 ---
 Fitur penghapusan blog memungkinkan Anda untuk menghapus sebuah blog yang tidak lagi diperlukan atau relevan. Harap diperhatikan bahwa penggunaan fitur ini akan menghapus semua data yang terkait dengan blog tersebut. Pastikan Anda ingin menghapusnya sebelum melanjutkan.
 
-Berikut adalah langkah-langkah untuk menghapus blog:
+Berikut adalah langkah-langkah untuk menghapus blog: 
 
 1. **Pilih Menu "Blog":** Di menu navigasi, cari dan pilih opsi "Blog."
 2. **Pilih Blog yang Ingin Dihapus:** Dalam daftar blog yang tersedia, pilih blog yang ingin Anda hapus.
