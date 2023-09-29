@@ -18,6 +18,6 @@ support_mobile: Yes
 ---
 Setelah anda mengupload foto, sebaiknya anda melihat terlebih dahulu ke bagian Galeri apakah foto anda sudah benar benar ada atau belum ada.
 
-jika ingin melihat foto anda di Galeri alkademi.
+jika ingin melihat foto anda di Galeri alkademi:
 
 cukup akses situs alkademi dan pilih Galeri.
