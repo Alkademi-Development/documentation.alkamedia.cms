@@ -1,6 +1,6 @@
 ---
 menu: Classroom(Attendance)
-fungsional: Edit Classroom (Attendance)
+fungsional: Edit Classroom(Attendance)
 gambar:
   - uploads/capture5.2.png
   - uploads/capture5-22.png
