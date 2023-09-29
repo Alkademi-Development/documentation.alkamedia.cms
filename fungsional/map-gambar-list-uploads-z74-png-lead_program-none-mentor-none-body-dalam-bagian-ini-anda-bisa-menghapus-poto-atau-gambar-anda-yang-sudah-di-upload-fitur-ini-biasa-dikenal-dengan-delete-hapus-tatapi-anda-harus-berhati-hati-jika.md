@@ -17,7 +17,7 @@ support_mobile: Yes
 ---
 Dalam bagian ini anda bisa menghapus foto atau gambar anda yang sudah di upload, fitur ini biasa dikenal dengan delete(hapus).
 
-caranya adalah 
+caranya adalah
 
 * dengan mengakses akun admin
 * lalu pilih menu galeri
