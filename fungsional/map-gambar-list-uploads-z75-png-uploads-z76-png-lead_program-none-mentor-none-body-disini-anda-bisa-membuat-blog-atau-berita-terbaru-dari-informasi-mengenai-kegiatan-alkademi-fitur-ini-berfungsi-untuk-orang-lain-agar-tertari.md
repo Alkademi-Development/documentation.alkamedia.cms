@@ -18,7 +18,7 @@ support_mobile: Yes
 ---
 Di sini, Anda memiliki kesempatan untuk membuat blog atau berita terbaru yang berisi informasi terkini seputar kegiatan yang sedang berlangsung. Fitur ini bertujuan untuk memotivasi pengguna lain agar tertarik dan merasa terlibat dalam membaca berita serta mengikuti perkembangan terbaru.
 
-**Cara Membuat Blog:**
+**Cara Membuat Blog:** 
 
 1. **Pilih Menu "Blog":** Setelah berhasil masuk, temukan dan klik menu "Blog" yang terdapat di dashboard atau menu navigasi sidebar.
 2. **Klik Tombol (+Blog):** Di dalam menu "Blog," carilah tombol "Tambah Blog" yang umumnya terletak di pojok kanan atas halaman. Klik tombol ini untuk memulai proses pembuatan blog baru.
