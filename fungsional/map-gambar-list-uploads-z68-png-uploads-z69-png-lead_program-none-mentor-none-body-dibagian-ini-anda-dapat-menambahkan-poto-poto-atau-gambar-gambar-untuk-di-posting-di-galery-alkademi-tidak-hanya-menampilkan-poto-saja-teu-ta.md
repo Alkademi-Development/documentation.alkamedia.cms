@@ -26,4 +26,4 @@ caranya cukup mudah sekali.
 * setelah mengklik tombol (+galeri) anda akan di arahkan ke halaman upload foto.
 * masukan foto,judul, dan deskripsi. lalu klik submit.
 
-maka dari itu foto/gambar anda akan di tampilkan di Galeri alkademi
+maka dari itu foto/gambar anda akan di tampilkan di Galeri alkademi.
