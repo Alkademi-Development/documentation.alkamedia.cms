@@ -18,7 +18,7 @@ support_mobile: Yes
 ---
 #### Buat Pertanyaan Baru
 
-Pembuatan pertanyaan memungkinkan Anda untuk menyusun dan mengelola pertanyaan.Berikut adalah langkah-langkah untuk membuat pertanyaan baru:
+Pembuatan pertanyaan memungkinkan Anda untuk menyusun dan mengelola pertanyaan.Berikut adalah langkah-langkah untuk membuat pertanyaan baru: 
 
 1. **Akses Menu Formulir**: Pertama-tama, klik menu "Formulir" dan pilih menu "Bank Soal".
 2. **Pilih List Soal** Dalam menu formulir, pilih opsi "List Soal".Ini akan membawa Anda ke halaman pengelolaan soal.  
