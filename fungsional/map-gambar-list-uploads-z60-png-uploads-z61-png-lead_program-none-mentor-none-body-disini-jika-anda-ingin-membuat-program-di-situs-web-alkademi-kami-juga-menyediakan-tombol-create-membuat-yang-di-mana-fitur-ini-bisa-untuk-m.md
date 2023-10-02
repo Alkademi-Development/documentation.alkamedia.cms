@@ -20,7 +20,7 @@ support_mobile: Yes
 
 Untuk membuat program pembelajaran yang dapat diakses oleh orang lain, berikut adalah langkah-langkahnya:
 
-1. **Akses Menu Event:** Setelah login, buka menu "Event."
+1. **Akses Menu Event:** Setelah login, buka menu "Event." 
 2. **Pilih Menu "Program":** Di menu "Event," Anda akan menemukan berbagai pilihan. Pilih menu "Program."
 3. **Buat Program Baru:** Setelah Anda memilih menu "Program," klik tombol "+Program" untuk memulai pembuatan program baru.
 4. **Isi Detail Program:** Anda akan diarahkan ke halaman pembuatan program. Isi semua informasi yang diperlukan seperti judul, deskripsi, materi, dan lainnya sesuai kebutuhan.
