@@ -14,7 +14,7 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-f﻿itur "delete" ini berfungsi untuk menghapus sebuah formulir yang sudah tidak digunakan atau pun kesalahan dalam membuat, sehingga jika ingin megunakan fitur ini alangkah baiknya lebih berhati hati dikarnakan fitur ini dapat menghapus semua data yang ada di dalam formulir tersebut \
+Fitur "delete" ini berfungsi untuk menghapus sebuah formulir yang sudah tidak digunakan atau pun kesalahan dalam membuat, sehingga jika ingin megunakan fitur ini alangkah baiknya lebih berhati hati dikarnakan fitur ini dapat menghapus semua data yang ada di dalam formulir tersebut. \
 j﻿ika ingin mengunakan fitur ini ikuti langkah-langkahya:f﻿itur "delete" ini berfungsi untuk menghapus sebuah formulir yang sudah tidak digunakan atau pun kesalahan dalam membuat, sehingga jika ingin megunakan fitur ini alangkah baiknya lebih berhati hati dikarnakan fitur ini dapat menghapus semua data yang ada di dalam formulir tersebut\
 j﻿ika ingin mengunakan fitur ini ikuti langkah-langkahya:
 
