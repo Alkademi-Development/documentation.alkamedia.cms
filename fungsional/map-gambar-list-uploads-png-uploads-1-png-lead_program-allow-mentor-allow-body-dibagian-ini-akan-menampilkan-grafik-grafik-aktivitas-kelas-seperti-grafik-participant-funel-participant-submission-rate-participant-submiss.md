@@ -18,7 +18,7 @@ support_mobile: Yes
 ---
 Dalam bagian ini, Anda akan menemukan berbagai grafik yang menggambarkan aktivitas kelas, seperti grafik participant funnel, participant submission rate, dan participant submission monitoring. Selain itu, ada juga tabel peringkat pengguna yang telah menunjukkan kinerja baik dalam mengerjakan tugas.
 
-Berikut langkah-langkah untuk melihat statistik pada kelas:
+Berikut langkah-langkah untuk melihat statistik pada kelas: 
 
 1. Login ke akun Anda (contoh: akun admin).
 2. Pilih kelas yang ingin Anda buka.
