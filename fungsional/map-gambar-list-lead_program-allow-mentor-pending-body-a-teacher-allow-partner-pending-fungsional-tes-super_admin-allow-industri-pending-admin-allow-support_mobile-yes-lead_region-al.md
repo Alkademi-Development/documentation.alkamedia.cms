@@ -16,7 +16,7 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-Membuat formulir baru adalah proses di mana seseorang atau sebuah organisasi merancang dan mengatur kumpulan pertanyaan atau isian yang dirancang untuk mengumpulkan informasi, respons, atau tanggapan dari individu atau kelompok tertentu. Formulir ini dapat berbentuk kertas, digital, atau online, dan digunakan untuk berbagai tujuan, termasuk pengumpulan data, survei, pendaftaran, pemesanan, umpan balik, dan banyak lagi.
+Membuat formulir baru adalah proses di mana seseorang atau sebuah organisasi merancang dan mengatur kumpulan pertanyaan atau isian yang dirancang untuk mengumpulkan informasi, respons, atau tanggapan dari individu atau kelompok tertentu. Formulir ini dapat berbentuk kertas, digital, atau online, dan digunakan untuk berbagai tujuan, termasuk pengumpulan data, survei, pendaftaran, pemesanan, umpan balik, dan banyak lagi. 
 
 Proses menciptakan formulir baru melibatkan beberapa langkah, mulai dari menentukan tujuan formulir hingga merancang tata letak, menambahkan pertanyaan, dan mengatur pengaturan. Formulir sering kali digunakan sebagai alat komunikasi dua arah yang memungkinkan orang untuk memberikan informasi atau respons yang diperlukan oleh pihak yang membuat formulir.
 
