@@ -18,7 +18,7 @@ support_mobile: Yes
 ---
 **Mengelola Program**
 
-Setelah Anda selesai membuat program, penting untuk melakukan pengecekan terlebih dahulu apakah program tersebut sesuai dengan harapan Anda. Program ini dapat membantu orang untuk mencari lowongan pekerjaan terbaru. Berikut adalah cara melihat program yang telah Anda buat sebelumnya:
+Setelah Anda selesai membuat program, penting untuk melakukan pengecekan terlebih dahulu apakah program tersebut sesuai dengan harapan Anda. Program ini dapat membantu orang untuk mencari lowongan pekerjaan terbaru. Berikut adalah cara melihat program yang telah Anda buat sebelumnya: 
 
 1. **Buka Menu "Program":**  Anda akan menemukan berbagai menu. Cari dan klik menu "Program."
 2. **Lihat Program Anda:** Di dalam menu "Program," Anda akan melihat daftar program yang telah Anda buat sebelumnya. Cukup pilih program yang ingin Anda tinjau atau kelola.
