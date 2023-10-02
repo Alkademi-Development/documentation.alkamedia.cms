@@ -16,7 +16,7 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-Untuk melihat data peserta yang sudah bergabung dengan kelas atau program tertentu. Berikut adalah cara mengakses data peserta:
+Untuk melihat data peserta yang sudah bergabung dengan kelas atau program tertentu. Berikut adalah cara mengakses data peserta: 
 
 1. **Masuk ke Akun Admin**: Pertama-tama, login ke akun admin Anda.
 2. **Pilih Kelas**: Setelah masuk, pilih kelas atau program yang ingin Anda lihat data pesertanya.
