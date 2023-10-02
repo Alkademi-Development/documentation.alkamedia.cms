@@ -20,7 +20,7 @@ support_mobile: Yes
 
 Logout dari platform web Alkademi.id adalah tindakan di mana pengguna keluar dari akun mereka di situs tersebut. Setelah berhasil logout, pengguna tidak akan lagi memiliki akses ke fitur-fitur yang memerlukan autentikasi, seperti materi pembelajaran, tugas, atau interaksi di forum. Ini adalah langkah penting untuk menjaga keamanan akun pengguna dan menghindari akses yang tidak sah atau tidak diinginkan ke informasi pribadi atau akademis mereka.
 
-B﻿erikut langkah-langkah untuk melakukan logout pada platform web Alkademi.id :
+B﻿erikut langkah-langkah untuk melakukan logout pada platform web Alkademi.id : 
 
 **1. Akses Akun Anda:** Setelah halaman Alkademi.id terbuka, masuklah ke akun Anda dengan mengklik tombol "Masuk" atau "Login" dan mengisi kredensial akun Anda (alamat email dan kata sandi)
 
