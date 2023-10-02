@@ -18,7 +18,7 @@ support_mobile: Yes
 ---
 #### Edit Paket Pertanyaan
 
-Untuk mengedit paket pertanyaan yang sudah ada dalam sistem formulir kami, ikuti langkah-langkah berikut: 
+Untuk mengedit paket pertanyaan yang sudah ada dalam sistem formulir kami, ikuti langkah-langkah berikut:  
 
 1. **Akses Menu Formulir**: Pertama-tama, klik menu "Formulir" dan pilih menu "Bank Soal".
 2. **Temukan Paket Pertanyaan yang Ingin Diedit:** Di halaman pengelolaan paket pertanyaan, cari paket pertanyaan yang hendak Anda edit dari daftar yang tersedia.
