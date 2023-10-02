@@ -18,7 +18,7 @@ support_mobile: Yes
 ---
 #### **Menghapus Kegiatan:**
 
-Jika Anda perlu menghapus sebuah kegiatan karena alasan tertentu, langkah-langkah berikut dapat membantu Anda:
+Jika Anda perlu menghapus sebuah kegiatan karena alasan tertentu, langkah-langkah berikut dapat membantu Anda: 
 
 1. Pertama, pilih kelas yang memiliki kegiatan yang ingin Anda hapus.
 2. Pilih menu "Kegiatan" atau opsi serupa yang memuat daftar kegiatan dalam kelas tersebut.
