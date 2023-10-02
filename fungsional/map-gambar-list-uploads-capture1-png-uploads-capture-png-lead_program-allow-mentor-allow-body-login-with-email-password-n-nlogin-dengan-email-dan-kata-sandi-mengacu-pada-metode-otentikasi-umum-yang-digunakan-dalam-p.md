@@ -20,7 +20,7 @@ support_mobile: Yes
 
 Login dengan email dan kata sandi" mengacu pada metode otentikasi umum yang digunakan dalam platform digital. Pengguna memberikan alamat email terdaftar dan kata sandi yang sesuai untuk mendapatkan akses ke akun mereka. Proses dua langkah ini memastikan akses aman dengan memerlukan pengidentifikasi unik (email  ) dan kunci autentikasi pribadi (kata sandi). Ini adalah cara mendasar untuk melindungi akun pengguna dari akses tidak sah sekaligus memungkinkan mereka mengakses konten dan layanan yang dipersonalisasi dengan mudah.
 
-Login dengan email dan kata sandi cukup mudah. Ikuti langkah langkah di bawah ini:
+Login dengan email dan kata sandi cukup mudah. Ikuti langkah langkah di bawah ini: 
 
 **1﻿.masuk ke halaman login** :* Untuk bisa mengakses halaman login pengguna perlu mengakses website alkademi.id  terlebih dahulu, setelah webisite alkademi.id dapat di akses pangguna akan di arahkan ke halaman arahan, setelah masuk ke dalam halaman arahan silahkan klik garis tiga di bagian pojok kanan atas lalu klik opsi masuk.
 
