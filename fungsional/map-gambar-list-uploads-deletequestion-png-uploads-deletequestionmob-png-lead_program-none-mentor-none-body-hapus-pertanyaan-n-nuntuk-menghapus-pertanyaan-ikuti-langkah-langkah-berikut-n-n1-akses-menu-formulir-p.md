@@ -18,7 +18,7 @@ support_mobile: Yes
 ---
 #### Hapus Pertanyaan
 
-Untuk menghapus pertanyaan, ikuti langkah-langkah berikut:
+Untuk menghapus pertanyaan, ikuti langkah-langkah berikut: 
 
 1. **Akses Menu Formulir**: Pertama-tama, klik menu "Formulir" dan pilih menu "Bank Soal".
 2. **Pilih List Soal**: Dalam menu formulir, pilih "List Soal". Ini akan membawa Anda ke halaman pengelolaan soal.
