@@ -20,7 +20,7 @@ support_mobile: Yes
 
 Pada website Alkedemi.id, Anda dapat melakukan proses registrasi dengan cepat dan mudah menggunakan akun Linkedin anda.
 
- Langkah-langkahnya adalah sebagai berikut:
+ Langkah-langkahnya adalah sebagai berikut: 
 
 **1﻿. Membuka website :** website alkademi.id dan temukan opsi "Daftar" atau "Registrasi".
 
