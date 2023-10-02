@@ -20,7 +20,7 @@ support_mobile: Yes
 
 Pada website Alkedemi.id, Anda dapat melakukan proses registrasi dengan cepat dan mudah menggunakan akun Google anda.
 
-Langkah-langkahnya adalah sebagai berikut:
+Langkah-langkahnya adalah sebagai berikut: 
 
 **1. Kunjungi halaman registrasi di Alkedemi.id.**
 
