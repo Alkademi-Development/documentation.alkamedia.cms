@@ -20,9 +20,9 @@ support_mobile: Yes
 ---
 ### **Membuat Kegiatan dalam Kelas (Kegiatan Online dan Offline):**
 
-#### **Kegiatan Offline:** 
+#### **Kegiatan Offline:**
 
-Kegiatan ini dilakukan secara langsung atau di lokasi fisik yang ditentukan. Berikut adalah langkah-langkah untuk membuat kegiatan offline:
+Kegiatan ini dilakukan secara langsung atau di lokasi fisik yang ditentukan. Berikut adalah langkah-langkah untuk membuat kegiatan offline: 
 
 1. **Akses Kelas**: Pertama, buka kelas yang ingin Anda gunakan atau buat kelas baru jika belum ada.
 2. **Menu Kegiatan**: Di dalam kelas, pilih menu "Kegiatan" atau opsi serupa yang mengarahkan Anda ke daftar kegiatan.
@@ -31,7 +31,7 @@ Kegiatan ini dilakukan secara langsung atau di lokasi fisik yang ditentukan. Ber
 5. **Pilih Tipe Kegiatan**: Jika Anda ingin membuat kegiatan offline, pastikan untuk memilih opsi "Offline" atau "Secara Langsung" pada kolom "Tipe Kegiatan."
 6. **Submit**: Setelah mengisi semua informasi yang diperlukan, klik tombol "Submit" atau "Kirim" untuk membuat kegiatan offline.
 
-#### **Kegiatan Online:** 
+#### **Kegiatan Online:**
 
 Kegiatan ini memungkinkan peserta untuk mengikuti kegiatan secara online melalui alat komunikasi tertentu seperti Google Meet, Zoom, atau platform video konferensi lainnya. Berikut adalah langkah-langkah untuk membuat kegiatan online:
 
