@@ -28,7 +28,7 @@ Langkah-langkahnya adalah sebagai berikut:
 
 **3﻿. Pengarahan ke halaman github** : Anda akan diarahkan ke halaman otorisasi GitHub, di mana Anda harus masuk ke akun GitHub Anda (jika belum masuk).
 
-**4﻿. Verivikasi :** Setelah masuk, GitHub akan meminta izin untuk berbagi informasi dasar dengan Alkedemi.id. Klik "Authorize" atau "Izinkan" untuk melanjutkan.
+**4﻿. Verivikasi :** Setelah masuk, GitHub akan meminta izin untuk berbagi informasi dasar dengan Alkedemi.id. Klik "Authorize" atau "Izinkan" untuk melanjutkan
 
 **5﻿.informasi data diri :** Alkedemi.id akan menerima informasi yang diperlukan dari akun GitHub Anda, seperti nama pengguna dan alamat email (sesuai izin yang Anda berikan).
 Kemudian, Anda mungkin akan diminta untuk melengkapi informasi tambahan atau memilih preferensi akun di Alkedemi.id.
