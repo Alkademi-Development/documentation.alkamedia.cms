@@ -18,7 +18,7 @@ support_mobile: Yes
 ---
 **Menghapus Program**
 
-Menghapus program yang tidak lagi diperlukan atau relevan adalah tindakan yang perlu dilakukan. Namun, Anda harus berhati-hati karena semua data terkait dengan program tersebut akan ikut terhapus. Berikut adalah langkah-langkah untuk menghapus program:
+Menghapus program yang tidak lagi diperlukan atau relevan adalah tindakan yang perlu dilakukan. Namun, Anda harus berhati-hati karena semua data terkait dengan program tersebut akan ikut terhapus. Berikut adalah langkah-langkah untuk menghapus program: 
 
 1. **Akses Menu Event:** Setelah login, buka menu "Event."
 2. **Pilih Menu "Program":** Di menu "Event," Anda akan menemukan berbagai pilihan. Pilih menu "Program."
