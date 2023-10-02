@@ -18,7 +18,7 @@ support_mobile: Yes
 ---
 #### Hapus Paket Pertanyaan
 
-Fitur ini memungkinkan Anda untuk menghapus paket pertanyaan yang tidak diperlukan atau sudah tidak relevan dalam sistem formulir kami. Ikuti langkah-langkah berikut untuk melakukan penghapusan:
+Fitur ini memungkinkan Anda untuk menghapus paket pertanyaan yang tidak diperlukan atau sudah tidak relevan dalam sistem formulir kami. Ikuti langkah-langkah berikut untuk melakukan penghapusan: 
 
 1. **Akses Menu Formulir**: Pertama-tama, klik menu "Formulir" dan pilih menu "Bank Soal".
 2. **Temukan Paket Pertanyaan yang Ingin Dihapus:** Di halaman pengelolaan paket pertanyaan, cari paket pertanyaan yang hendak Anda hapus dari daftar yang tersedia.
