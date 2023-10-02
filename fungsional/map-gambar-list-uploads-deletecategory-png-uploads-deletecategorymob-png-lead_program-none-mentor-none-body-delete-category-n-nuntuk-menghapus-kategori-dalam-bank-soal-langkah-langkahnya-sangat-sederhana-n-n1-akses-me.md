@@ -18,7 +18,7 @@ support_mobile: Yes
 ---
 #### Delete Category
 
-Untuk menghapus kategori dalam Bank Soal, langkah-langkahnya sangat sederhana:
+Untuk menghapus kategori dalam Bank Soal, langkah-langkahnya sangat sederhana: 
 
 1. **Akses Menu Formulir**: Pertama-tama, klik menu "Formulir" dan pilih menu "Bank Soal".
 2. **Pilih Bank Soal:** Dalam menu formulir, cari dan pilih opsi "Bank Soal." Ini akan membawa Anda ke halaman pengelolaan bank soal.
