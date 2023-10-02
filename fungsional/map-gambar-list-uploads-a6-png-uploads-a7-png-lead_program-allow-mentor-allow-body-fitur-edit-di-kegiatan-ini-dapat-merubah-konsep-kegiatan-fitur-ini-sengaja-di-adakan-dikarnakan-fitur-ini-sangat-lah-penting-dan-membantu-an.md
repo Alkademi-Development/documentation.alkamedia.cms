@@ -18,7 +18,7 @@ support_mobile: Yes
 ---
 #### **Mengedit Kegiatan:**
 
-Fitur edit kegiatan memungkinkan Anda untuk memperbarui atau mengubah detail kegiatan yang sudah ada. Berikut adalah langkah-langkah untuk mengedit kegiatan:
+Fitur edit kegiatan memungkinkan Anda untuk memperbarui atau mengubah detail kegiatan yang sudah ada. Berikut adalah langkah-langkah untuk mengedit kegiatan: 
 
 1. **Akses Kelas**: Pertama-tama, pilih kelas yang sudah memiliki kegiatan yang ingin Anda edit.
 2. **Menu Kegiatan**: Di dalam kelas, navigasikan ke menu "Kegiatan" atau opsi serupa yang akan membawa Anda ke daftar kegiatan yang ada.
