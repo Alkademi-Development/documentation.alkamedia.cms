@@ -16,7 +16,7 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-Fitur "Filter Peserta" dengan opsi Nilai Minimal dan Nilai Maksimum memungkinkan Anda untuk menyaring peserta berdasarkan rentang nilai yang telah mereka capai. Berikut adalah langkah-langkah untuk menggunakan fitur ini:
+Fitur "Filter Peserta" dengan opsi Nilai Minimal dan Nilai Maksimum memungkinkan Anda untuk menyaring peserta berdasarkan rentang nilai yang telah mereka capai. Berikut adalah langkah-langkah untuk menggunakan fitur ini: 
 
 1. **Masuk ke Kelas** : Pastikan Anda sudah masuk ke dalam kelas atau program yang ingin Anda filter pesertanya.
 2. **Menu Peserta**: Di dalam halaman kelas atau program tersebut, klik menu "Peserta" atau opsi serupa yang mengarahkan Anda ke daftar peserta.
