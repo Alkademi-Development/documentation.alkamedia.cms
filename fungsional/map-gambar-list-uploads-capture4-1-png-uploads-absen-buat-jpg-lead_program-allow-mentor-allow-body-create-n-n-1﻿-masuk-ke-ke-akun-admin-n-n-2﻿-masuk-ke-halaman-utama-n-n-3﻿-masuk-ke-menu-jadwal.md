@@ -2,7 +2,7 @@
 menu: Schedule(Attendance)
 fungsional: Create schedule(attendance)
 gambar:
-  - uploads/capture4.1.png
+  - uploads/creat-schedule-atendance1.png
   - uploads/absen-buat.jpg
 super_admin: Allow
 admin: Allow
