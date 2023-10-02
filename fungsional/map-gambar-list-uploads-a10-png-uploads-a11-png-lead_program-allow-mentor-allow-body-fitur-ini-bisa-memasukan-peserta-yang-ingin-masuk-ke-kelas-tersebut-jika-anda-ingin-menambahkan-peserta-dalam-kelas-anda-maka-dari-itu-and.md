@@ -16,7 +16,7 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-Fitur ini memungkinkan Anda untuk dengan mudah menambahkan peserta ke dalam kelas. Berikut adalah panduan penggunaannya:
+Fitur ini memungkinkan Anda untuk dengan mudah menambahkan peserta ke dalam kelas. Berikut adalah panduan penggunaannya: 
 
 1. Buka kelas yang ingin Anda tambahkan peserta.
 2. Cari tombol atau opsi yang mengindikasikan penambahan peserta. Ini mungkin berupa tombol dengan label "+ Peserta" atau opsi serupa.
