@@ -16,7 +16,7 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-erikut adalah langkah-langkah untuk menghapus karier dalam sebuah event:
+erikut adalah langkah-langkah untuk menghapus karier dalam sebuah event: 
 
 1. **Pilih Karier:** Buka event dan pilih karier yang ingin dihapus dari daftar karier yang tersedia.
 2. **Hapus Karier:** Cari dan klik ikon hapus (biasanya berupa ikon sampah) di samping karier yang ingin dihapus.
