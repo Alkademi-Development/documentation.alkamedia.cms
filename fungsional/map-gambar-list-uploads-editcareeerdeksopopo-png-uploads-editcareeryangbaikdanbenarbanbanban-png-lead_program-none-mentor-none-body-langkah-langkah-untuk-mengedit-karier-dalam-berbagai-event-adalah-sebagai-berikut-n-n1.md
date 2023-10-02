@@ -16,7 +16,7 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-Langkah-langkah untuk mengedit karier dalam berbagai "Event" adalah sebagai berikut:
+Langkah-langkah untuk mengedit karier dalam berbagai "Event" adalah sebagai berikut: 
 
 1. **Pilih Career yang Ingin Diubah:** Pertama-tama, navigasikan ke bagian menu "Event" 
 2. **Akses Career yang Akan Diedit:** Di dalam menu "Event," cari daftar karier atau pekerjaan yang ingin Anda edit. Klik pada karier tersebut.
