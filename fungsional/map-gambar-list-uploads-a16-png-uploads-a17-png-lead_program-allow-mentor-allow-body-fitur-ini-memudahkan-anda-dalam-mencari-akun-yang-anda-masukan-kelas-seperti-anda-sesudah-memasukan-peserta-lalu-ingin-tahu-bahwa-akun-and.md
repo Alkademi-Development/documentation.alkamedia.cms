@@ -2,8 +2,8 @@
 menu: Classroom(Peserta)
 fungsional: Search Participants
 gambar:
-  - uploads/a16.png
-  - uploads/a17.png
+  - uploads/b5.png
+  - uploads/b6.png
 super_admin: Allow
 admin: Allow
 mentor: Allow
