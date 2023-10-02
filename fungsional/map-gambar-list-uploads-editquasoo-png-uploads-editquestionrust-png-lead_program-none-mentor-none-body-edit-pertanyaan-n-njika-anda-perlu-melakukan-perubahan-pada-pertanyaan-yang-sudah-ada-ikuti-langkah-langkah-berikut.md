@@ -18,7 +18,7 @@ support_mobile: Yes
 ---
 ## Edit Pertanyaan
 
-Jika Anda perlu melakukan perubahan pada pertanyaan yang sudah ada, ikuti langkah-langkah berikut:
+Jika Anda perlu melakukan perubahan pada pertanyaan yang sudah ada, ikuti langkah-langkah berikut: 
 
 1. **Akses Menu Formulir**: Pertama-tama, klik menu "Formulir" dan pilih opsi "Bank Soal".
 2. **Pilih List Soal**: Dalam menu formulir, pilih "List Soal". Ini akan membawa Anda ke halaman pengelolaan soal.
