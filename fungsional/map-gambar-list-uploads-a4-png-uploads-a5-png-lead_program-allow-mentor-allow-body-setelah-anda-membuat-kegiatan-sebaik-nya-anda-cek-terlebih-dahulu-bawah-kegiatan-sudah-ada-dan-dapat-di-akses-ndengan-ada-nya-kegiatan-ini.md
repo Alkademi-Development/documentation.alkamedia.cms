@@ -18,7 +18,7 @@ support_mobile: Yes
 ---
 Setelah Anda membuat kegiatan dalam kelas, penting untuk memastikan bahwa kegiatan tersebut sudah tersedia dan dapat diakses oleh peserta kelas. Ini memungkinkan peserta untuk mengikuti instruksi atau panduan yang telah disiapkan oleh pembuat kelas.
 
-Mengakses Kegiatan:
+Mengakses Kegiatan: 
 
 1. Setelah membuat kelas atau masuk ke kelas yang sudah ada, cari dan pilih menu "Kegiatan" atau opsi serupa yang memuat daftar kegiatan dalam kelas tersebut.
 2. Di dalam daftar kegiatan, pastikan bahwa kegiatan yang Anda buat telah terdaftar dengan benar. Anda dapat melihat judul, deskripsi, tanggal, dan informasi penting lainnya terkait kegiatan.
