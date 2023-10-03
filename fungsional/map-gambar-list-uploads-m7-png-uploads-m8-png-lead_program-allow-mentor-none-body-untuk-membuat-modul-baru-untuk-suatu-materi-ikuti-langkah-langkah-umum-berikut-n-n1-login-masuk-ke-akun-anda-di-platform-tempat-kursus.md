@@ -16,8 +16,6 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### Membuat Module Baru
-
 F﻿itur ini bisa membuat module yang dimana anda dapat melihat module di dalam materi.\
 Untuk membuat modul baru untuk suatu materi, ikuti langkah-langkah umum berikut:
 
