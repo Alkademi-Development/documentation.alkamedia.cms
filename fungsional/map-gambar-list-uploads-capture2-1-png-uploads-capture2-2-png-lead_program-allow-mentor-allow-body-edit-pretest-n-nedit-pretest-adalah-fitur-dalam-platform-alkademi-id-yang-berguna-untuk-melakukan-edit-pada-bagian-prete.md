@@ -16,8 +16,6 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### Read Pretest
-
 Read pretest adalah fitur dalam platform alkademi.id yang berguna untuk melihat/ membaca pretest yang telah di buat.
 
 Untuk membaca pretest anda bisa mengikuti langkah-langkah  sebagai berikut :
