@@ -16,8 +16,6 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### Create course
-
 Create source adalah sebuah fitur pada platform alkademi.id yang berguna untuk membuat materi pada kelas, fitur ini sangat berguna apabila instruktur atau pengajar akan memberikan materi kepada peserta didik. 
 
 Untuk membuat Course anda bisa mengikuti langkah langkah berikut ini:
