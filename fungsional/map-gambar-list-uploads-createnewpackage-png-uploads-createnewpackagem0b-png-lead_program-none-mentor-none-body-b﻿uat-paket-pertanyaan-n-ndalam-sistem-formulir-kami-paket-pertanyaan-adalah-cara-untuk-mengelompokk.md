@@ -16,8 +16,6 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### B﻿uat Paket Pertanyaan
-
 Dalam sistem formulir kami, "paket pertanyaan" adalah cara untuk mengelompokkan pertanyaan-pertanyaan bersama-sama berdasarkan topik atau tujuan tertentu. Dengan membuat paket pertanyaan, Anda dapat mengatur pertanyaan-pertanyaan yang berkaitan dan memudahkan penggunaan mereka dalam formulir atau survei. Berikut adalah langkah-langkah untuk membuat paket pertanyaan baru: 
 
 1. **Akses Menu Formulir**: Pertama-tama, klik menu "Formulir" dan pilih menu "Bank Soal".
