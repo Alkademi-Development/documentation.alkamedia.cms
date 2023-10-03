@@ -16,8 +16,6 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### **Mengedit Absensi Kelas**
-
 Selain membuat absensi kelas, Anda juga dapat mengeditnya jika terdapat kesalahan atau perubahan yang diperlukan. Berikut adalah langkah-langkah untuk mengedit absensi kelas:
 
 1. **Akses Menu Kelas:** Setelah login dan membuka aplikasi, cari dan klik opsi **"KELAS"** di menu navigasi.
