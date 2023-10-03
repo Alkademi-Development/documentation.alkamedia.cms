@@ -16,8 +16,6 @@ industri: Pending
 student: Allow
 support_mobile: Yes
 ---
-**Register With Linkedin**
-
 Pada website Alkedemi.id, Anda dapat melakukan proses registrasi dengan cepat dan mudah menggunakan akun Linkedin anda.
 
  Langkah-langkahnya adalah sebagai berikut: 
