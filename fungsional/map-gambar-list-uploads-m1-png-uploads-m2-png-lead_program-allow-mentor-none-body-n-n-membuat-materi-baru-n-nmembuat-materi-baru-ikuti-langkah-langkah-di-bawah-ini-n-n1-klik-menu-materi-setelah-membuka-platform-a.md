@@ -16,8 +16,6 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### Membuat Materi Baru
-
 Untuk membuat materi baru di platform kami, ikuti langkah-langkah di bawah ini:
 
 1. **Klik Menu Materi**: Setelah l﻿ogin dan membuka aplikasi , cari dan klik opsi "Materi" di menu navigasi.
