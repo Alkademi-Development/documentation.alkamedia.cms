@@ -16,8 +16,6 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### Mengedit Module
-
 Untuk mengedit modul yang sudah ada di suatu materi, ikuti langkah-langkah berikut
 
 1. **Klik Menu Materi**: Setelah login dan membuka aplikasi, cari dan klik opsi "Materi" di menu navigasi.
