@@ -16,7 +16,7 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-Formulir adalah alat yang digunakan untuk menghimpun data atau informasi dari pengguna dalam berbagai situasi, seperti pendaftaran, survei, atau umpan balik. Di sisi lain, Bank soal adalah kumpulan pertanyaan yang disusun untuk membuat tes atau ujian guna mengukur pengetahuan atau keterampilan seseorang dalam pendidikan. Perbedaan utama terletak pada fungsinya: formulir berfokus pada pengumpulan data, sementara bank soal digunakan untuk membuat dan mengelola tes. 
+Formulir adalah alat yang digunakan untuk menghimpun data atau informasi dari pengguna dalam berbagai situasi, seperti pendaftaran, survei, atau umpan balik. Di sisi lain, Bank soal adalah kumpulan pertanyaan yang disusun untuk membuat tes atau ujian guna mengukur pengetahuan atau keterampilan seseorang dalam pendidikan. Perbedaan utama terletak pada fungsinya: formulir berfokus pada pengumpulan data, sementara bank soal digunakan untuk membuat dan mengelola tes.
 
 Kategori dalam bank soal adalah cara untuk mengelompokkan soal-soal berdasarkan topik atau subjek tertentu. ini mempermudah untuk mengorganisir/mencari, dan menggunakan soal-soal dalam pembuatan tes atau ujian. Kategori juga mempermudah proses penyesuaian tingkat kesulitan soal dan memungkinkan pengguna untuk lebih efisien menyesuaikan tes dengan materi pembelajaran yang telah diajarkan. Dengan kata lain, kategori di bank soal membantu meningkatkan organisasi, efisiensi, dan efektivitas penggunaan soal-soal dalam proses pendidikan dan evaluasi.
 
