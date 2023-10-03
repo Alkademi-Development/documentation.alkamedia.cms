@@ -16,8 +16,6 @@ industri: Pending
 student: Allow
 support_mobile: Yes
 ---
-#### Mencari Kelas
-
 Jika Anda perlu mencari kelas tertentu dalam sistem Alkademi, anda dapat menggunakan fitur pencarian. Berikut adalah langkah-langkah untuk melakukan pencarian kelas:
 
 1. **Akses Menu Kelas:** Pertama-tama, setelah login, klik menu "Kelas" di menu navigasi. Ini akan membawa Anda ke halaman yang menampilkan daftar kelas yang tersedia.
