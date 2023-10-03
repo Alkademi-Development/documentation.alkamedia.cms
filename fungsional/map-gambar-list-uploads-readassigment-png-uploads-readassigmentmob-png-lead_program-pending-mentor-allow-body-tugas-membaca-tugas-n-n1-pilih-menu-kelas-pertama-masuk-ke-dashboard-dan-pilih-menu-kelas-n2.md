@@ -16,7 +16,7 @@ industri: Pending
 student: Allow
 support_mobile: Yes
 ---
-#### TUGAS - Membaca Tugas
+
 
 1. **Pilih Menu Kelas**: Pertama, masuk ke dashboard dan pilih menu "Kelas".
 2. **Pilih Kelas yang Tersedia**: Dalam daftar kelas yang tersedia, pilih kelas yang ingin Anda akses. Klik pada nama kelas tersebut.
