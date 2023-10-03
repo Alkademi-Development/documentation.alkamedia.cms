@@ -20,30 +20,7 @@ Berikut langkah-langkah yang benar untuk membuat kelas :
 
 **1. Klik Menu Kelas:** Setelah login dan membuka aplikasi, cari dan klik opsi "Kelas" di menu navigasi.
 
-**2. Tambah Kelas Baru:** Di halaman kelas, Anda akan menemukan tombol "+ Kelas". Klik tombol ini untuk memulai pembuatan kelas baru.
-
-**3. Isi Detail Kelas:**
-
-* **Overview:** Di sini, Anda dapat mengisi informasi seperti logo (dengan mengunggah atau menarik dan melepaskan file), nama kelas, dan deskripsi singkat.
-* **Tags:** Anda dapat menambahkan tag yang relevan dengan kelas Anda. Misalnya, topik atau kategori kelas.
-* **Kuota:** Tentukan jumlah maksimal peserta yang dapat mendaftar ke kelas Anda. 
-* **Standar Kelulusan:** Masukkan nilai batas kelulusan dalam rentang 0 hingga 100.
-* **Kota Pendaftar:** Cari atau pilih kota tempat pendaftaran.
-* **Kota Pelaksanaan:** Cari atau pilih kota tempat kelas akan dilaksanakan.
-
-**4. Detail Kelas:**
-
-* **Masukkan Kelas Ke Program:** Pilih program yang relevan, jika ada.
-* **Mode Kelas:** Pilih mode kelas, bisa "Online" atau lainnya.
-* **Tipe Kelas:** Tentukan tipe kelas.
-* **Aksesibilitas:** Pilih tingkat aksesibilitas kelas.
-* **Mentor:** Pilih mentor atau pengajar yang akan mengajar di kelas ini.
-* **Materi:** Pilih materi yang akan diajarkan di kelas.
-* **Link Grup:** Jika ada, tambahkan link grup Telegram atau WhatsApp untuk peserta kelas.
-
-**5. Jadwal:**
-
-* Tentukan tanggal untuk pembukaan pendaftaran, penutupan pendaftaran, mulai pelaksanaan, dan akhir pelaksanaan kelas. Jika kelas selalu terbuka, beri centang pada opsi tersebut.
+**2. Tambah Kelas Baru:** Di halaman kelas, Anda akan menemukan tombol "+ Kelas". Klik tombol ini untuk memulai pembuatan kelas baru .**Overview:** Di sini, Anda dapat mengisi informasi seperti logo (dengan mengunggah atau menarik dan melepaskan file), nama kelas, dan deskripsi singkat. **Tags:** Anda dapat menambahkan tag yang relevan dengan kelas Anda. Misalnya, topik atau kategori kelas. **Kuota:** Tentukan jumlah maksimal peserta yang dapat mendaftar ke kelas Anda. **Standar Kelulusan:** Masukkan nilai batas kelulusan dalam rentang 0 hingga 100. **Kota Pendaftar:** Cari atau pilih kota tempat pendaftaran. **Kota Pelaksanaan:** Cari atau pilih kota tempat kelas akan dilaksanakan. **Masukkan Kelas Ke Program:** Pilih program yang relevan, jika ada. **Mode Kelas:** Pilih mode kelas, bisa "Online" atau lainnya. **Tipe Kelas:** Tentukan tipe kelas. **Aksesibilitas:** Pilih tingkat aksesibilitas kelas. **Mentor:** Pilih mentor atau pengajar yang akan mengajar di kelas ini. **Materi:** Pilih materi yang akan diajarkan di kelas. **Link Grup:** Jika ada, tambahkan link grup Telegram atau WhatsApp untuk peserta kelas. Tentukan tanggal untuk pembukaan pendaftaran, penutupan pendaftaran, mulai pelaksanaan, dan akhir pelaksanaan kelas. Jika kelas selalu terbuka, beri centang pada opsi tersebut.
 
 **6. Terbitkan Sertifikat:** Jika ingin menerbitkan sertifikat untuk kelas ini, centang opsi ini dan atur tanggal sertifikat akan diterbitkan.
 
