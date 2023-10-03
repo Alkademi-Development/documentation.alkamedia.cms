@@ -16,8 +16,6 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### Add mentor
-
 Add mentor atau tambahkan mentor adalah fitur dalam platform alkademi.id yang berguna untuk menambahkan mentor pada kelas.
 
 Untuk menambahkan mentor anda bisa mengikuti langkah-langkah sebagai berikut:
