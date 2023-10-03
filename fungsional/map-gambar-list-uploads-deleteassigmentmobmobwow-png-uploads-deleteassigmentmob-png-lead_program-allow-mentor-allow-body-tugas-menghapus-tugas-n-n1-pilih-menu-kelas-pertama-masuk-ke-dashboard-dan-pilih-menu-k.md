@@ -16,7 +16,7 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### TUGAS - Menghapus Tugas
+
 
 1. **Pilih Menu Kelas**: Pertama, masuk ke dashboard dan pilih menu "Kelas".
 2. **Pilih Kelas yang Tersedia**: Dalam daftar kelas yang tersedia, pilih kelas di mana tugas yang ingin Anda hapus berada. Klik pada nama kelas tersebut.
