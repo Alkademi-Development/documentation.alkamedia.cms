@@ -16,8 +16,6 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### Edit course
-
 Edit course sebuah fitur dalam platform alkademi.id yang berguna untuk melakukan Edit pada bagian Kursus atau Materi, fitur ini bisa digunakan ketika ada kesalahan saat pembuatan materi dan instruktur atau pendidik ingin membenarkan kesalahan pada materi tersebut.
 
 Untuk menggunakan fitur ini anda bisa mengikuti langkah-langkah berikut ini:
