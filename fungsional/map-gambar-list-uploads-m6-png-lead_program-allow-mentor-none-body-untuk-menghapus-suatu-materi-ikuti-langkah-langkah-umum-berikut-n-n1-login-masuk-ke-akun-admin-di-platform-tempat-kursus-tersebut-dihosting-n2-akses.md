@@ -16,8 +16,6 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### Menghapus Materi
-
 F﻿itur ini berfungsi untuk menghapus sebuah materi yang sudah tidak terpakai atau kesalahan dalam membuat materi.\
 Untuk menghapus suatu materi, ikuti langkah-langkah umum berikut:
 
