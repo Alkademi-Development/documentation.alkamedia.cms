@@ -17,8 +17,6 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-**Mengedit Program**
-
 Tidak hanya membuat program, Anda juga dapat mengedit program yang mungkin memerlukan perbaikan atau pembaruan. Berikut adalah langkah-langkah umum untuk mengedit program: 
 
 1. **Akses Menu Event:** Setelah login, buka menu "Event."
