@@ -16,8 +16,6 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### Create Pretest
-
 Pretest adalah salah satu tahap awal dalam proses pembelajaran di Alkademi.id yang dirancang untuk membantu peserta kursus dan instruktur memahami tingkat pengetahuan awal peserta terkait dengan materi yang akan diajarkan. Pretest biasanya terdiri dari serangkaian pertanyaan atau tugas yang relevan dengan topik kursus. Tujuan dari pretest adalah untuk mengukur pemahaman awal peserta, sehingga instruktur dapat menyesuaikan materi dan metode pengajaran sesuai dengan tingkat pemahaman peserta. Hasil pretest juga dapat membantu peserta kursus untuk memahami di mana mereka berada dalam proses pembelajaran dan memberikan panduan bagi mereka untuk fokus pada area yang perlu ditingkatkan. 
 
 Untuk membuat pretest anda bisa mengikuti langkah langkah sebagai berikut : 
