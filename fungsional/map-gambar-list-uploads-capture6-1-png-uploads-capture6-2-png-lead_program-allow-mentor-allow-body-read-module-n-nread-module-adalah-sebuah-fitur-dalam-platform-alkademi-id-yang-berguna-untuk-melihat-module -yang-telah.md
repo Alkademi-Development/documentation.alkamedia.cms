@@ -16,9 +16,7 @@ industri: Pending
 student: Allow
 support_mobile: Yes
 ---
-#### Read Module
-
-Read module adalah sebuah fitur dalam platform alkademi.id yang berguna untuk melihat module  yang telah dibuat oleh para instruktur atau pendidik, fitur  ini bisa digunakan oleh instruktur ataupun peserta didik.
+Read module adalah sebuah fitur dalam platform alkademi.id yang berguna untuk melihat module yang telah dibuat oleh para instruktur atau pendidik, fitur  ini bisa digunakan oleh instruktur ataupun peserta didik.
 
 Untuk menggunakan fitur tersebut anda bisa mengikuti langkah-langkah berikut ini:
 
@@ -26,4 +24,4 @@ Untuk menggunakan fitur tersebut anda bisa mengikuti langkah-langkah berikut ini
 
 **2﻿. Pilih Kelas :** Setelah masuk silahkan pilih kelas dan klik pada kelas yang akan modulnya anda lihat. 
 
-**3. Lihat Module  :** Klik menu materi, Setelah itu cari module  yang ingin anda lihat dan klik pada bagian judul module tersebut.
+**3. Lihat Module  :** Klik menu materi, Setelah itu cari module yang ingin anda lihat dan klik pada bagian judul module tersebut.
