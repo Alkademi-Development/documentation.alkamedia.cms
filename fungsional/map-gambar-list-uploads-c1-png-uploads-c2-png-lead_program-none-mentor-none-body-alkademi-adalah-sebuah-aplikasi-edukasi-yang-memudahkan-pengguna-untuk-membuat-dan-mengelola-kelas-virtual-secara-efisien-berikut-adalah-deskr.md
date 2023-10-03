@@ -16,8 +16,6 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### Buat Kelas
-
 Berikut langkah-langkah yang benar untuk membuat kelas :
 
 **1. Klik Menu Kelas:** Setelah login dan membuka aplikasi, cari dan klik opsi "Kelas" di menu navigasi.
