@@ -16,8 +16,6 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### **Creat** schedule (attendance)
-
 Create schedule(attendance) adalah sebuah fitur yang berguna untuk membuat jadwal  kehadiran Jadwal kehadiran tersebut berguna  untuk para pengguna yang ingin melacak dan mencatat waktu kehadiran mereka dalam melakukan pelatihan atau kelas online di platform ini.
 
 U﻿ntuk menggunakan fitur tersebut anda bisa mengikuti langkah-langkah berikut ini :
