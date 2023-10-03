@@ -16,7 +16,7 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### Menggunakan Filter dan Pengurutan Kelas
+##### Menggunakan Filter dan Pengurutan Kelas
 
 B﻿erikut ini adalah langkah-langkah untuk menggunakan Fulter dan pengurutan kelas:
 
