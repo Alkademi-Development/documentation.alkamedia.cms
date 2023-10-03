@@ -16,8 +16,6 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### Mengedit Materi
-
 D﻿i saat dimana anda sudah membuat materi, lalu jika menurut anda ada yang kurang dalam materinya,ada bisa menggunakan fitur "edit" yang dimana fitur ini bisa merubah rubah data yang sudah masuk atau dibuat.fitur ini berlogokan icon pena,dan anda cukup mengklik nya saja untuk menggunakan fitur ini.\
 Untuk mengedit materi, ikuti langkah-langkah umum berikut:
 
