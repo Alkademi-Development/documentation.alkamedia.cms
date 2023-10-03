@@ -16,8 +16,6 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### Delete pretest
-
 Delete pretest adalah fitur dalam platform alkademi.id yang berguna untuk menghapus Pretest yang telah dibuat, fitur ini bisa digunakan menghapus pretest yang sudah tidak diperlukan.
 
 Untuk menghapus pretest anda bisa mengikuti langkah-langkah sebagai berikut:
