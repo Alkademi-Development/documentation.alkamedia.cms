@@ -16,8 +16,6 @@ industri: Pending
 student: Allow
 support_mobile: Yes
 ---
-#### Register With Google
-
 Pada website Alkedemi.id, Anda dapat melakukan proses registrasi dengan cepat dan mudah menggunakan akun Google anda.
 
 Langkah-langkahnya adalah sebagai berikut: 
