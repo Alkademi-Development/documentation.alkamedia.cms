@@ -16,9 +16,7 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### Menerbitkan Kelas
-
-   Setelah Anda membuat kelas yang diharapkan dan sudah diuji coba oleh Anda, langkah selanjutnya adalah mempublikasikan kelas tersebut. Ini akan membuat kelas Anda dapat dilihat dan diikuti oleh orang lain yang tertarik.  
+Setelah Anda membuat kelas yang diharapkan dan sudah diuji coba oleh Anda, langkah selanjutnya adalah mempublikasikan kelas tersebut. Ini akan membuat kelas Anda dapat dilihat dan diikuti oleh orang lain yang tertarik.  
 
 Berikut adalah langkah-langkah untuk mempublikasikan kelas Anda:
 
