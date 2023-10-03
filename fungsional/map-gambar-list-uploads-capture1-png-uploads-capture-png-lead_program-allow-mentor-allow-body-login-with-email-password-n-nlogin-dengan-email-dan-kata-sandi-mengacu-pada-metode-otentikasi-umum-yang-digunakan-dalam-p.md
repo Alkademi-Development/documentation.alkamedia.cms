@@ -16,8 +16,6 @@ industri: Pending
 student: Allow
 support_mobile: Yes
 ---
-#### Login with email & password
-
 Login dengan email dan kata sandi" mengacu pada metode otentikasi umum yang digunakan dalam platform digital. Pengguna memberikan alamat email terdaftar dan kata sandi yang sesuai untuk mendapatkan akses ke akun mereka. Proses dua langkah ini memastikan akses aman dengan memerlukan pengidentifikasi unik (email  ) dan kunci autentikasi pribadi (kata sandi). Ini adalah cara mendasar untuk melindungi akun pengguna dari akses tidak sah sekaligus memungkinkan mereka mengakses konten dan layanan yang dipersonalisasi dengan mudah.
 
 Login dengan email dan kata sandi cukup mudah. Ikuti langkah langkah di bawah ini: 
