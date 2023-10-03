@@ -16,8 +16,6 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### Publish class
-
 Publish class adalah fitur dalam platform alkademi.id yang berguna untuk mempublikasikan kelas yang ada pada menu DRAFT. Fitur ini biasa nya digunakan apabila kelas pada menu draft telah sesuai dan siap untuk di publikasikan.
 
 Untuk mempublikasikan kelas yang ada di menu Draft anda bisa mengikuti langkah-langkah sebagai berikut:
