@@ -16,8 +16,6 @@ industri: Pending
 student: Allow
 support_mobile: Yes
 ---
-#### Register with email & password
-
 Registrasi menggunakan email adalah proses mendaftarkan diri di sebuah platform atau situs web dengan menggunakan alamat email sebagai identifikasi.
 
 B﻿erikut langkah-langkah Registrasi pada platform alkademi.id : 
