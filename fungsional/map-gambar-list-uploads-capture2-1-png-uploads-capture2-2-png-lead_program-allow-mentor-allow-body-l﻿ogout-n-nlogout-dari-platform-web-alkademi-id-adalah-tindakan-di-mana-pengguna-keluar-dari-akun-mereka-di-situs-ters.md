@@ -16,8 +16,6 @@ industri: Pending
 student: Allow
 support_mobile: Yes
 ---
-#### L﻿ogout
-
 Logout dari platform web Alkademi.id adalah tindakan di mana pengguna keluar dari akun mereka di situs tersebut. Setelah berhasil logout, pengguna tidak akan lagi memiliki akses ke fitur-fitur yang memerlukan autentikasi, seperti materi pembelajaran, tugas, atau interaksi di forum. Ini adalah langkah penting untuk menjaga keamanan akun pengguna dan menghindari akses yang tidak sah atau tidak diinginkan ke informasi pribadi atau akademis mereka.
 
 B﻿erikut langkah-langkah untuk melakukan logout pada platform web Alkademi.id : 
