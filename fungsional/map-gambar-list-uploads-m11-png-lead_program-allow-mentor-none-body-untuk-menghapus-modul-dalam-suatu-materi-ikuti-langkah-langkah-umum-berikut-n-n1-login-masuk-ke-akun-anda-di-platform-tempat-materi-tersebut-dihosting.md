@@ -16,8 +16,6 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### Menghapus Module
-
 F﻿itur ini bisa menghapus module yang sudah anda buat\
 Untuk menghapus modul dari suatu materi, ikuti langkah-langkah simpel berikut:
 
