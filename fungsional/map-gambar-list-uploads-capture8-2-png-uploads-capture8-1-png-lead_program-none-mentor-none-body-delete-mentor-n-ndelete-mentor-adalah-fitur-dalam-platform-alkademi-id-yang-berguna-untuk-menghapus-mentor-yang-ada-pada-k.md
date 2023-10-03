@@ -16,8 +16,6 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### Delete mentor
-
 Delete Mentor adalah fitur dalam platform alkademi.id yang berguna untuk menghapus mentor yang ada pada kelas.
 
 Untuk menghapus Mentor anda bisa mengikuti langkah-lanngkah berikut ini:
