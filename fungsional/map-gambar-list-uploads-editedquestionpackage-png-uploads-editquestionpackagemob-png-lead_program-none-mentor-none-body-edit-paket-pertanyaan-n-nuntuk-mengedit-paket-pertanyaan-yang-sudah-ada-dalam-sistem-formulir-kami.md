@@ -16,8 +16,6 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### Edit Paket Pertanyaan
-
 Untuk mengedit paket pertanyaan yang sudah ada dalam sistem formulir kami, ikuti langkah-langkah berikut:  
 
 1. **Akses Menu Formulir**: Pertama-tama, klik menu "Formulir" dan pilih menu "Bank Soal".
