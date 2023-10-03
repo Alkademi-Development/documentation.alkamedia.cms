@@ -16,8 +16,6 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-**Membuat Program**
-
 Untuk membuat program pembelajaran yang dapat diakses oleh orang lain, berikut adalah langkah-langkahnya:
 
 1. **Akses Menu Event:** Setelah login, buka menu "Event." 
