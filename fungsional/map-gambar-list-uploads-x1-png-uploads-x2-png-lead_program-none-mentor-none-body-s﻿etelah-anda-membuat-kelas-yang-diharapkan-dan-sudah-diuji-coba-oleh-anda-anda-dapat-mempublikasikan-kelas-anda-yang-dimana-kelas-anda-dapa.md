@@ -18,7 +18,7 @@ support_mobile: Yes
 ---
 Setelah Anda membuat kelas yang diharapkan dan sudah diuji coba oleh Anda, langkah selanjutnya adalah mempublikasikan kelas tersebut. Ini akan membuat kelas Anda dapat dilihat dan diikuti oleh orang lain yang tertarik.  
 
-Berikut adalah langkah-langkah untuk mempublikasikan kelas Anda:
+Berikut adalah langkah-langkah untuk mempublikasikan kelas Anda: 
 
 1. **Akses Menu Draf:** Pertama-tama, pergilah ke menu "Draf" di aplikasi Anda. Di sini, Anda akan menemukan daftar kelas yang telah Anda buat tetapi belum dipublikasikan.
 2. **Pilih Kelas yang Ingin Dipublikasikan:** Dari daftar kelas di menu "Draf," pilih kelas yang ingin Anda publikasikan. Klik pada nama kelas tersebut untuk membuka detailnya.
