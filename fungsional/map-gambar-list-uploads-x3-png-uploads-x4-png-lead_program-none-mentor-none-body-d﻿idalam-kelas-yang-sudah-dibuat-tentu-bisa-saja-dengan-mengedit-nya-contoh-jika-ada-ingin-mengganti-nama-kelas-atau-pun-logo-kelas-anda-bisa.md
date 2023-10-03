@@ -16,8 +16,6 @@ industri: None
 student: None
 support_mobile: Yes
 ---
-**M﻿engedit kelas**
-
 B﻿erikut ini adalah langkah-langkah untuk mengedit kelas :
 
 1. **Akses Menu Kelas:** Cari dan klik opsi "Kelas" di menu navigasi. Ini akan membawa Anda ke halaman yang menampilkan daftar kelas yang sudah Anda buat.
