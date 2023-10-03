@@ -16,8 +16,6 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### Create module
-
 Create module adalah sebuah fitur dalam platform alkademi.id yang berguna untuk membuat modul  pembelajaran yang spesifik dan yang akan dipelajari oleh peserta didik, modul ini biasanya dibuat oleh instruktur atau pendidik supaya mempermudah dalam proses pembelajaran.
 
 Untuk menggunakan fitur ini anda bisa mengikuti langkah-langkah berikut ini:
