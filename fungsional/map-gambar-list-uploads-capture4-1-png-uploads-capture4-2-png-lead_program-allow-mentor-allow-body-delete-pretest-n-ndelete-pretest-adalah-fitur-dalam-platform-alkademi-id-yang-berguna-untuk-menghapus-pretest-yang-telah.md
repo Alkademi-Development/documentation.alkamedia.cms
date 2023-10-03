@@ -16,8 +16,6 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### Download of pretest participants
-
 Download of pretest participants atau Download Peserta Pretest adalah fitur yang memungkinkan instruktur  untuk mengunduh hasil pretest dari peserta dalam format yang dapat diakses dan dikelola secara mudah. Setelah peserta mengikuti pretest awal, instruktur dapat menggunakan opsi ini untuk mengumpulkan dan menganalisis data hasil pretest peserta.
 
 Untuk mendownload peserta pretest anda bisa mengikuti langkah-langkah sebagai berikut:
