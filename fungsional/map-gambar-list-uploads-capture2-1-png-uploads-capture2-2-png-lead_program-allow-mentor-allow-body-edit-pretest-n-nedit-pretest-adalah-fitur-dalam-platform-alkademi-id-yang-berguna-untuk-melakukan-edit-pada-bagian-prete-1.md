@@ -16,8 +16,6 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### Edit pretest
-
 Edit pretest adalah fitur dalam platform alkademi.id yang berguna untuk melakukan edit pada bagian pretest, fitur ini sangat berguna bagi instruktur alkademi.id untuk melakukan edit pada bagian pretest bilamana pada saat pembuatan pretest ada kesalahan.
 
 Untuk mengedit pretest anda bisa mengikuti langkah-langkah berikut:
