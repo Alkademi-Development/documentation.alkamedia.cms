@@ -16,8 +16,6 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### Publish class announcement
-
 Publish class announcement, adalah fitur untuk mempublikasikan pengumuman pretest yang telah di buat, fitur ini sangat berguna untuk instruktur mengirimkan pengumuman pretest kepada peserta didik.
 
 Untuk mempublikasikan pengumuman kelas anda bisa mengikuti langkah-langkah sebagai berikut :
