@@ -16,8 +16,6 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### Delete module
-
 Delete Module adalah fitur dalam platform alkademi.id yang berguna untuk menghapus modul pembelajaran pada kelas.Fitur ini biasanya digunakan oleh instruktur atau pendidik untuk menghapus Module pada kelas yang sudah tidak diperlukan.
 
 Untuk menggunakan fitur tersebut anda bisa mengikuti langkah-langkah berikut ini:
