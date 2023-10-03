@@ -16,8 +16,6 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### Edit module
-
 Edit course sebuah fitur dalam platform alkademi.id yang berguna untuk melakukan Edit pada bagian Kursus atau Materi, fitur ini bisa digunakan ketika ada kesalahan saat pembuatan materi dan instruktur atau pendidik ingin membenarkan kesalahan pada materi tersebut.
 
 Untuk menggunakan fitur tersebut anda bisa mengikuti langkah langkah berikut ini:
@@ -35,5 +33,4 @@ Untuk menggunakan fitur tersebut anda bisa mengikuti langkah langkah berikut ini
 6﻿. klik logo tersebut.
 
 7. Setelah itu anda akan diarahkan ke halaman pengeditan.
-
 8. jika sudah mengubah suatu data didalam modul klik submit.
