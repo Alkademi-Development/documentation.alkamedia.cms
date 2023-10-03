@@ -16,8 +16,6 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-## Edit Pertanyaan
-
 Jika Anda perlu melakukan perubahan pada pertanyaan yang sudah ada, ikuti langkah-langkah berikut: 
 
 1. **Akses Menu Formulir**: Pertama-tama, klik menu "Formulir" dan pilih opsi "Bank Soal".
