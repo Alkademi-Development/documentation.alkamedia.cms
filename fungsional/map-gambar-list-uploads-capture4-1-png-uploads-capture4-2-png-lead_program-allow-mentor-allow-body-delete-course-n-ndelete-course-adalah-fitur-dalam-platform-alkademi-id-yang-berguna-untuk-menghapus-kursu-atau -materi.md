@@ -16,8 +16,6 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### Delete course
-
 Delete course adalah fitur dalam platform alkademi.id yang berguna untuk menghapus kursu atau  materi pada kelas.Fitur ini biasanya digunakan oleh instruktur atau pendidik untuk menghapus Materi pada kelas yang sudah tidak diperlukan.
 
 Untuk menggunakan fitur ini anda bisa mengikuti  langkah-langkah berikut ini:
