@@ -16,9 +16,7 @@ industri: Pending
 student: Allow
 support_mobile: Yes
 ---
-#### **Read Course**
-
-Dibagian ini setelah anda membuat materi,sebaik nya anda lihat dan coba apakah sesuai dengan harapan anda atau tidak.didalam sebuah materi tentunya ada modul modul yang berfungsi untuk dipelajari oleh para peserta kelas tersebut.
+Di bagian ini setelah anda membuat materi, sebaiknya anda lihat dan coba apakah sesuai dengan harapan anda atau tidak. didalam sebuah materi tentunya ada modul modul yang berfungsi untuk dipelajari oleh para peserta kelas tersebut.
 
 Untuk membaca kursus atau materi anda bisa mengikuti langkah-langkah berikut ini:
 
