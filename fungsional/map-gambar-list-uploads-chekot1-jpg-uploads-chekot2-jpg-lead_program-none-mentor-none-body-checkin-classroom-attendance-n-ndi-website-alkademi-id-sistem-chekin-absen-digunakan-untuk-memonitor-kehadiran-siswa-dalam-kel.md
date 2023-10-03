@@ -16,8 +16,6 @@ industri: Pending
 student: Allow
 support_mobile: Yes
 ---
-#### **Checkin Absensi dalam Kelas**
-
 Sistem Checkin Absensi digunakan untuk memonitor kehadiran siswa dalam kelas. Fitur ini memungkinkan pengajar untuk mencatat kehadiran siswa dengan mudah dan efisien.
 
 Dalam sistem Checkin Absensi, pengajar memiliki kemampuan untuk melihat laporan kehadiran siswa. Hal ini memungkinkan mereka untuk memantau kehadiran siswa secara berkala dan membuat langkah-langkah yang diperlukan jika ada siswa yang sering tidak hadir.
