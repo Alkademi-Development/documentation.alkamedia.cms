@@ -16,9 +16,7 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### **Melihat Rekap Absensi Kelas**
-
-Rekapi absensi adalah fitur yang memungkinkan pengguna untuk melihat rangkuman kehadiran secara lengkap dan akurat. Fitur ini memudahkan pengguna dalam memantau dan mengelola kehadiran mereka secara efisien dan efektif. 
+Rekap absensi adalah fitur yang memungkinkan pengguna untuk melihat rangkuman kehadiran secara lengkap dan akurat. Fitur ini memudahkan pengguna dalam memantau dan mengelola kehadiran mereka secara efisien dan efektif. 
 
 Berikut adalah langkah-langkah untuk melihat rekapitulasi absensi kelas:
 
