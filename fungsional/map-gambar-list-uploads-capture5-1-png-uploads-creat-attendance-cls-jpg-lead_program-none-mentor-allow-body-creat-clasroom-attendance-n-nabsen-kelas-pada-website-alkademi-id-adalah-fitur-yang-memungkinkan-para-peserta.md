@@ -16,8 +16,6 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### **Membuat Absensi Kelas**
-
 Absensi kelas adalah fitur yang memungkinkan para peserta didik untuk mencatat kehadiran secara online. Dengan sistem ini, peserta didik dapat dengan mudah mengisi absensi setiap kali mereka menghadiri kelas.
 
 Fitur absensi kelas yang disediakan sangat efisien dan praktis. Peserta didik hanya perlu masuk ke akun mereka, memilih kelas yang sesuai, dan mengisi formulir absensi yang telah disediakan. Formulir absensi ini biasanya mencakup informasi seperti nama peserta didik, waktu kehadiran, materi yang dibahas, dan tanda tangan elektronik sebagai bukti kehadiran.
