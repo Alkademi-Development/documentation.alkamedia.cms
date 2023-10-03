@@ -16,12 +16,10 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### **Download Rekap Absensi Kelas**
-
-Fitur Download Rekap sangat berguna untuk mendownload hasil rekapitulasi kehadiran peserta didik. Berikut adalah langkah-langkah untuk mendownload rekapitulasi absensi :
+Fitur Download Rekap sangat berguna untuk men download hasil rekapitulasi kehadiran peserta didik. Berikut adalah langkah-langkah untuk men download rekapitulasi absensi :
 
 1. **Akses Menu Kelas:** Setelah login dan membuka aplikasi, cari dan klik opsi **"KELAS"** di menu navigasi.
-2. **Pilih Kelas:** Pada halaman kelas, pilih kelas di mana Anda ingin mendownload rekapitulasi absensi.
+2. **Pilih Kelas:** Pada halaman kelas, pilih kelas di mana Anda ingin men download rekapitulasi absensi.
 3. **Download Rekap:** Setelah memilih kelas, cari tombol **"Rekap Absensi"** dan klik. Ini akan membawa Anda ke halaman rekapitulasi absensi.
 4. **Klik Tombol "Download":** Di halaman rekapitulasi absensi, cari tombol atau opsi **"Download"** dan klik. File rekap absensi akan mulai diunduh ke perangkat Anda.
 5. **Selesai:** Setelah proses unduhan selesai, Anda akan memiliki file rekap absensi di perangkat Anda yang dapat Anda gunakan sesuai kebutuhan.
