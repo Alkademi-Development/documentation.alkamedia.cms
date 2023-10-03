@@ -16,7 +16,7 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### TUGAS - Mengedit Tugas:
+
 
 1. **Pilih Menu Kelas**: Di dalam menu "Dashboard," Anda akan menemukan opsi "Kelas". Klik opsi ini untuk mengakses daftar kelas yang tersedia
 2. **Pilih Kelas yang Tersedia**: Dari daftar kelas yang tersedia, pilih kelas tempat Anda ingin mengedit tugas. Klik pada nama kelas tersebut.
