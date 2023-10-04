@@ -16,15 +16,13 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### View Recapt
-
  **rekap absen** adalah kumpulan data siswa selama periode tertentu (biasanya perbulan), kumpulan data tadi menunjukan status kehadiran siswa selama waktu satu bulan sebagai data indikator yang menentukan jumlah kehadiran siswa.
 
 B﻿erikut langkah-langkah  untuk melihat rekap absen:
 
-**1﻿. Masuk ke ke akun Admin**
+**1﻿. Masuk ke ke akun Admin.**
 
-**2﻿. Masuk ke halaman utama**
+**2﻿. Masuk ke halaman utama.**
 
 **3﻿. Masuk ke menu jadwal :** setelah masuk ke halaman utama lalu anda klik menu jadwal kegiatan.
 
