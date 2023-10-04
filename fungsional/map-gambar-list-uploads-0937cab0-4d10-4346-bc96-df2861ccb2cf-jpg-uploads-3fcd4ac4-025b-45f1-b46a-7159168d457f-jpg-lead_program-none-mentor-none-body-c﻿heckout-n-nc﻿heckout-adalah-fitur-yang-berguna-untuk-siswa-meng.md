@@ -16,22 +16,20 @@ industri: Pending
 student: Allow
 support_mobile: Yes
 ---
-#### C﻿heckout
-
-C﻿heckout adalah fitur yang berguna untuk  siswa mengirimkan absensi.
+C﻿heck out adalah fitur yang berguna untuk user keluar dari halaman absensi, fitur ini bisa digunakan setelah user selesai mengisi form absensi dan mengirimkannya.
 
 B﻿erikut langkah langkah melakukan C﻿heckout absensi :
 
-**1﻿. Masuk ke akun Admin**
+**1﻿. Masuk ke akun Admin.**
 
-**2﻿. Masuk ke halaman utama**
+**2﻿. Masuk ke halaman utama.**
 
-**3﻿. Masuk ke menu jadwal :** setelah masuk ke halaman utama lalu anda klik menu jadwal kegiatan
+**3﻿. Masuk ke menu jadwal :** setelah masuk ke halaman utama lalu anda klik menu jadwal kegiatan.
 
-**4﻿. Temukan aktivitas :** Setelah masuk pada menu jadwal kegiatan, lalu klik  aktivitas, dan klik judul kegiatan pada modal
+**4﻿. Temukan aktivitas :** Setelah masuk pada menu jadwal kegiatan, lalu klik  aktivitas, dan klik judul kegiatan pada modal.
 
-**5﻿. Klik Absen :** dengan anda menekan tombol Absen Anda akan di Arahkan ke halaman Pengisian absen
+**5﻿. Klik Absen :** dengan anda menekan tombol Absen Anda akan di Arahkan ke halaman Pengisian absen.
 
-**6﻿. konfirmasi :** pastikan poses Checkin sudah selesai
+**6﻿. konfirmasi :** pastikan poses Checkin sudah selesai.
 
 **7﻿. selesai :** Klik tombol " Ya Saya Yakin' dan anda sudah berhasil melakukan absensi.
