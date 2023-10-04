@@ -16,8 +16,6 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### Create Schedule
-
 C﻿reate Schedule adalah fitur dalam platform alkademi.id yang bertujuan untuk membuat Jadwal Kegiatan.
 
 Jadwal kegiatan pada website alkademi.id adalah fitur yang memungkinkan pengguna untuk melihat dan mengatur jadwal kegiatan yang terkait dengan akademik di sebuah lembaga pendidikan. Fitur ini dirancang untuk membantu pengguna mengorganisir dan mengikuti berbagai kegiatan yang terjadi di sekolah atau institusi pendidikan mereka.
@@ -28,6 +26,6 @@ U﻿ntuk membuat jadwal kegiatan a﻿nda bisa mengikuti langkah-langkah berikut:
 
 **1.﻿ Klik Menu Jadwal Kegiatan:** Setelah login menggunakan akun admin dan membuka aplikasi , cari dan klik opsi "Jadwal Kegitan" di menu navigasi.
 
-**2﻿. Buat jadwal :** Klik tombol (+) dan isi kan data yang di perlukan pada form yang telah di sediakan
+**2﻿. Buat jadwal :** Klik tombol (+) dan isi kan data yang di perlukan pada form yang telah di sediakan.
 
 **3. k﻿lik Kirim :** Lalu Klik tombol "Kirim/Submit" untuk menyimpan Jadwal Kegiatan.
