@@ -16,7 +16,7 @@ industri: Pending
 student: Allow
 support_mobile: Yes
 ---
-**Check in** adalah fitur yang berguna untuk siswa memasuki halaman absensi yang bertujuan supaya siswa dapat mengisi absensi untuk memverifikasi bahwa siswa tersebut telah menghadiri suatu kegiatan dalam platform alkademi.id.
+**Check in** adalah fitur yang berguna untuk user memasuki halaman absensi yang bertujuan supaya user dapat mengisi absensi untuk memverifikasi bahwa user tersebut telah menghadiri suatu kegiatan dalam platform alkademi.id.
 
 B﻿erikut langkah langkah melakukan Checkin absensi :
 
