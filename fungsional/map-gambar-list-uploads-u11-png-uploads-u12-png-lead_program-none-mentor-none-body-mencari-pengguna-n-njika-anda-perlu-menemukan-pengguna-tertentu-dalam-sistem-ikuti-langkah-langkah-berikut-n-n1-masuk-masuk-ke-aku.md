@@ -16,8 +16,6 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### Mencari Pengguna
-
 Fitur ini memudahkan anda dalam mencari akun yang anda buat.seperti anda sesudah membuat lalu ingin tahu bahwa akun anda sudah di buat, lalu aplikasi ini akan mengarahkan ke bagian tabel atau akun akun yang sudah dibuat.pasti anda akan bingung untuk mencari satu persatu,maka dari itu alkademi menyediakan fitur pencarian.\
 \
 Jika Anda perlu menemukan pengguna tertentu dalam sistem, ikuti langkah-langkah berikut:
