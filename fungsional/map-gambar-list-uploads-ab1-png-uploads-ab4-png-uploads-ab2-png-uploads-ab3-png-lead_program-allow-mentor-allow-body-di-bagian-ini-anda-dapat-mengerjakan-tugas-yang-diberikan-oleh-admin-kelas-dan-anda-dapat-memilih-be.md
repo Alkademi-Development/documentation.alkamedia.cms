@@ -18,7 +18,7 @@ industri: Pending
 student: Allow
 support_mobile: Yes
 ---
-Di Bagian ini anda dapat mengerjakan tugas yang diberikan oleh admin kelas, dan anda dapat memilih berbagai tugas yang bertipe link, file, formulir, dan editor..
+Di Bagian ini anda dapat mengerjakan tugas yang diberikan oleh admin kelas, dan anda dapat memilih berbagai tugas yang bertipe link, file, formulir, dan editor:
 
 * Link adalah alamat yang menghubungkan satu halaman ke halaman lainnya di internet. Link memudahkan pengguna internet dalam mengakses berbagai informasi. Maka dari itu link dijadikan sebuah tugas.
 * File adalah entitas dasar untuk penyimpanan data di dalam komputer dan sistem informasi. Maka file dijadikan suatu tugas tugas.
