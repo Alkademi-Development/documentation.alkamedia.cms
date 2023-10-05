@@ -16,8 +16,6 @@ industri: Pending
 student: Allow
 support_mobile: Yes
 ---
-#### View Available Schedule:Class Activity
-
 P﻿ada platform alkademi.id terdapat fitur View Available Schedule:Class Activity, atau fitur yang berguna untuk melihat jadwal kegiatan kelas,
 
 U﻿ntuk menggunakan fitur tersebut silahkan ikuti langkah-langkah sebagai berikut:
