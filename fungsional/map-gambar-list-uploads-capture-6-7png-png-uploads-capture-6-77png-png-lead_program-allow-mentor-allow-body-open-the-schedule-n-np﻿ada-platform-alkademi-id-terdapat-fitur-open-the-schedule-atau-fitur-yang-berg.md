@@ -16,8 +16,6 @@ industri: Pending
 student: Allow
 support_mobile: Yes
 ---
-#### **Open The Schedule**
-
 P﻿ada platform alkademi.id terdapat fitur "Open The Schedule" atau fitur yang berguna untuk melihat semua  jadwal kegiatan yang tersedia,  Fitur ini sangat berguna untuk user melihat jadwal kegiatan agar jadwal tersebut tidak terlewatkan.
 
 U﻿ntuk menggunakan fitur tersebut silahkan ikuti langkah-langkah sebagai berikut:
