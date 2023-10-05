@@ -27,60 +27,41 @@ Di Bagian ini anda dapat mengerjakan tugas yang diberikan oleh admin kelas, dan 
 
 Berikut cara mengerjakan tugas bertipe link:
 
-\- pertama klik “kelasku” dan pilih kelas yang sudah ada.
-
-\- klik bagian tugas.
-
-\- pilih tugas yang bertipe link.
-
-\- klik tombol buka tugas
-
-\- masukan URL tugas 
-
-\- klik tombol serahkan
+* pertama klik “kelasku” dan pilih kelas yang sudah ada.
+* klik bagian tugas.
+* pilih tugas yang bertipe link.
+* klik tombol buka tugas
+*  masukan URL tugas 
+* klik tombol serahkan
 
 Setelah itu akan muncul notifikasi bahwa tugas anda telah dikirim atau muncul tombol serahkan ulang.
 
 Berikut cara mengerjakan tugas bertipe file
 
-\- pertama klik “kelasku” dan pilih kelas yang sudah ada.
-
-\- klik bagian tugas.
-
-\- pilih tugas yang bertipe file.
-
-\- klik tombol buka tugas.
-
-\- klik bagian (tarik dan lepaskan file disini).
-
-\- masukan jenis gambar yang sesuai tugas yang dikerjakan.
-
-\-lalu klik tombol serahkan
+* pertama klik “kelasku” dan pilih kelas yang sudah ada.
+* klik bagian tugas.
+* pilih tugas yang bertipe file.
+* klik tombol buka tugas.
+* klik bagian (tarik dan lepaskan file disini).
+* masukan jenis gambar yang sesuai tugas yang dikerjakan.
+* lalu klik tombol serahkan
 
 Setelah itu akan muncul notifikasi bahwa tugas anda telah dikirim atau muncul tombol serahkan ulang.
 
 Berikut cara mengerjakan tugas bertipe formulir:
 
-\-  pertama klik “kelasku” dan pilih kelas yang sudah ada.
-
-\- klik bagian tugas.
-
-\- pilih tugas yang bertipe formulir.
-
-\- klik tombol buka tugas.
-
-\- klik tombol kerjakan
+* pertama klik “kelasku” dan pilih kelas yang sudah ada.
+* klik bagian tugas.
+* pilih tugas yang bertipe formulir.
+* klik tombol buka tugas.
+* klik tombol kerjakan
 
 Maka anda akan diarahkan ke halaman pengisian formulir
 
 Berikut cara mengerjakan tugas bertipe editor:
 
-\-  pertama klik “kelasku” dan pilih kelas yang sudah ada.
-
-\- klik bagian tugas.
-
-\- pilih tugas yang bertipe formulir.
-
-\- klik tombol buka tugas.
-
-\- klik tombol kerjakan.
+* pertama klik “kelasku” dan pilih kelas yang sudah ada.
+* klik bagian tugas.
+* pilih tugas yang bertipe formulir.
+* klik tombol buka tugas.
+* klik tombol kerjakan.
