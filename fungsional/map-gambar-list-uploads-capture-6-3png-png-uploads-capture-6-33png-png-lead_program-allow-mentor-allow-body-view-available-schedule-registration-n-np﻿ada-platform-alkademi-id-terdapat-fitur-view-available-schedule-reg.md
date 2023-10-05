@@ -20,6 +20,6 @@ P﻿ada platform alkademi.id terdapat fitur View Available Schedule:Registration
 
 U﻿ntuk menggunakan fitur tersebut silahkan ikuti langkah-langkah sebagai berikut:
 
-**1.﻿ Klik Menu Jadwal Kegiatan:** Setelah login dan membuka aplikasi , cari dan klik opsi "Jadwal Kegitan" di menu navigasi.
+**1.﻿ Klik Menu Jadwal Kegiatan:** Setelah login dan membuka aplikasi, cari dan klik opsi "Jadwal Kegitan" di menu navigasi.
 
 **2﻿. Lihat Jadwal Pendaftaran :** klik kelas dengan tanda bulat hijau pada bagian sampingnya.
