@@ -16,8 +16,6 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-#### Membuat Akun di Alkademi
-
 D﻿isini anda dapat membuat akun yang ingin anda akses. selain itu anda dapat memilih jenis akun yang anda i﻿ngin masuk. Langkah-langkah ini biasanya diperlukan dalam berbagai konteks, termasuk situs web, aplikasi seluler, jejaring sosial, dan banyak lagi. Membuat akun memungkinkan pengguna untuk memiliki akses khusus dan personalisasi terhadap berbagai fitur dan konten yang ditawarkan oleh platform tersebut.\
 \
 Membuat akun di platform Alkademi cukup mudah. Ikuti langkah-langkah di bawah ini untuk memulai:
