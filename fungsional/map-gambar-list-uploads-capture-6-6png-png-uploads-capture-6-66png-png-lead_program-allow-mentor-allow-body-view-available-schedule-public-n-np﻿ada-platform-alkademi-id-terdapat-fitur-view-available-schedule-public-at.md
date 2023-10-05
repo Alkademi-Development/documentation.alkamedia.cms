@@ -16,8 +16,6 @@ industri: Pending
 student: Allow
 support_mobile: Yes
 ---
-#### View Available Schedule:Public
-
 P﻿ada platform alkademi.id terdapat fitur View Available Schedule:Public atau fitur yang berguna untuk melihat jadwal kegiatan public pada kelas. Fitur ini sangat membantu ketika user akan melihat jadwal, selain itu fitur ini juga bisa mengarahkan anda ke detail  jadwal aktivitas.
 
 U﻿ntuk menggunakan fitur tersebut silahkan ikuti langkah-langkah sebagai berikut:
