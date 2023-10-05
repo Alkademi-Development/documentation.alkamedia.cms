@@ -16,8 +16,6 @@ industri: Pending
 student: Allow
 support_mobile: Yes
 ---
-#### View Available Schedule:Tasks
-
 P﻿ada platform alkademi.id terdapat fitur View Available Schedule:Tasks atau fitur yang berguna untuk melihat jadwal tugas pada kelas. Fitur ini sangat membantu ketika user akan melihat  jadwal  ketika ada tugas baru dari kelas yang users ikuti.
 
 U﻿ntuk menggunakan fitur tersebut silahkan ikuti langkah-langkah sebagai berikut:
