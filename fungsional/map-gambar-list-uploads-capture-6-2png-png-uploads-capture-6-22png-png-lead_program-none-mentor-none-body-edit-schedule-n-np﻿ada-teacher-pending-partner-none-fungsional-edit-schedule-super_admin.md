@@ -2,7 +2,7 @@
 menu: Schedule
 fungsional: Edit Schedule
 gambar:
-  - uploads/capture.6.2png.png
+  - uploads/edit-schedule.png
   - uploads/capture.6.22png.png
 super_admin: Allow
 admin: Allow
@@ -16,7 +16,7 @@ industri: Pending
 student: None
 support_mobile: Yes
 ---
-P﻿ada platform alkademi.id terdapa juga fitur edit Schedule, fitur ini bertujuan untuk melakukan edit pada bagian Jadwal Kegiatan bila mana pada saat pembuatan Jadwal kegiatan ada kesalahan atau kekurangan. 
+P﻿ada platform alkademi.id terdapa juga fitur edit Schedule, fitur ini bertujuan untuk melakukan edit pada bagian Jadwal Kegiatan bilamana pada saat pembuatan Jadwal kegiatan ada kesalahan atau kekurangan. 
 
 U﻿ntuk melakukan Edit Jadwal Kegiatan anda  dapat mengikuti langkah-langkah berikut ini:
 
