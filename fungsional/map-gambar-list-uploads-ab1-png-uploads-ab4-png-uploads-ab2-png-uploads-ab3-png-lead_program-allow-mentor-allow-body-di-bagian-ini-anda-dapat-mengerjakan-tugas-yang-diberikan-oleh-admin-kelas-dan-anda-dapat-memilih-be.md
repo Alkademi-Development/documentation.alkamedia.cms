@@ -1,6 +1,6 @@
 ---
 menu: Classroom(Tugas)
-fungsional: Cara mengerjakan Tagas
+fungsional: Cara mengerjakan Tugas
 gambar:
   - uploads/ab1.png
   - uploads/ab4.png
