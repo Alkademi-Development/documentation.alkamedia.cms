@@ -18,7 +18,7 @@ support_mobile: Yes
 ---
 J﻿ika anda ingin mengubah sandi atau apapun yang terkait dalam akun. fitur ini dapat mengedit suatu kesalahan atau merubah sesuatu yang anda inginkan dalam akun yang anda buat.\
 Langkah-langkah ini memungkinkan pengguna untuk memperbarui informasi pribadi, preferensi, atau pengaturan yang relevan dengan pengalaman mereka dalam menggunakan layanan tersebut.\
-**Untuk mengedit pengguna (user), langkah-langkahnya sebagai berikut;**
+**Untuk mengedit pengguna (user), langkah-langkahnya sebagai berikut:**
 
 1. **Masuk ke Akun Admin**
 2. **Akses Pengaturan Pengguna:**
