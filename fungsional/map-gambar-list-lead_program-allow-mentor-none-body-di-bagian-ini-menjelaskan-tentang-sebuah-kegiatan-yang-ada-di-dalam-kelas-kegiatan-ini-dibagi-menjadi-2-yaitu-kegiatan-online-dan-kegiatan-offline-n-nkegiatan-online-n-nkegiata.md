@@ -1,6 +1,6 @@
 ---
 menu: Classroom(Kegiatan)
-fungsional: kegiatan studentt
+fungsional: kegiatan student
 gambar: []
 super_admin: Allow
 admin: Allow
